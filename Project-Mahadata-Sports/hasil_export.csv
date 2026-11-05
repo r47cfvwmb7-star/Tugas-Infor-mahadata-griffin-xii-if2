@@ -1,0 +1,1318 @@
+﻿booking_detail_id,booking_id,booking_date,booking_status,customer_id,customer_name,district,sport_name,court_name,court_type,start_time,duration_hours,hourly_rate,subtotal,payment_method,amount_paid,payment_status,rating,hari,bulan,jam
+646,591,2025-01-01,Cancelled,39,Galih Permata,Wonokromo,Tennis,Tennis Court B,Outdoor,14:00,2,110000,220000,,,,,Rabu,2025-01,14:00
+846,773,2025-01-01,Completed,60,Fajar Siregar,Manyar,Badminton,Badminton Court A,Indoor,21:00,2,60000,138000,Cash,138000.0,Paid,4.0,Rabu,2025-01,21:00
+926,845,2025-01-01,Completed,112,Hana Maulana,Darmo,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,E-Wallet,230000.0,Paid,5.0,Rabu,2025-01,20:00
+965,883,2025-01-01,Completed,115,Niken Hidayat,Wonokromo,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,E-Wallet,230000.0,Paid,4.0,Rabu,2025-01,20:00
+1118,1021,2025-01-01,Completed,75,Alya Siregar,Manyar,Futsal,Futsal Court B,Indoor,21:00,2,200000,460000,E-Wallet,460000.0,Paid,3.0,Rabu,2025-01,21:00
+1286,1171,2025-01-01,Completed,103,Farah Hidayat,Wonokromo,Basketball,Basketball Court A,Indoor,17:00,4,150000,690000,Bank Transfer,690000.0,Paid,,Rabu,2025-01,17:00
+20,18,2025-01-02,Completed,101,Farah Pratama,Manyar,Futsal,Futsal Court A,Indoor,19:00,3,180000,621000,QRIS,621000.0,Paid,,Kamis,2025-01,19:00
+1004,916,2025-01-02,Completed,73,Putri Wibowo,Darmo,Badminton,Badminton Court C,Indoor,09:00,1,65000,65000,Bank Transfer,65000.0,Paid,2.0,Kamis,2025-01,09:00
+354,322,2025-01-04,Completed,16,Yusuf Wibowo,Keputih,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,QRIS,75000.0,Paid,5.0,Sabtu,2025-01,19:00
+473,430,2025-01-04,Completed,14,Indra Permata,Rungkut,Badminton,Badminton Court C,Indoor,20:00,3,65000,224000,E-Wallet,224000.0,Paid,5.0,Sabtu,2025-01,20:00
+599,548,2025-01-04,Completed,44,Vina Setiawan,Wonokromo,Badminton,Badminton Court B,Indoor,15:00,1,60000,60000,QRIS,60000.0,Paid,5.0,Sabtu,2025-01,15:00
+989,903,2025-01-04,Completed,87,Bima Setiawan,Manyar,Basketball,Basketball Court B,Indoor,21:00,4,160000,736000,Bank Transfer,943000.0,Paid,2.0,Sabtu,2025-01,21:00
+990,903,2025-01-04,Completed,87,Bima Setiawan,Manyar,Futsal,Futsal Court A,Indoor,21:00,1,180000,207000,Bank Transfer,943000.0,Paid,,Sabtu,2025-01,21:00
+1207,1101,2025-01-04,Completed,45,Laras Kusuma,Mulyorejo,Badminton,Badminton Court D,Indoor,17:00,1,65000,75000,QRIS,75000.0,Paid,,Sabtu,2025-01,17:00
+70,60,2025-01-05,Completed,81,Nabila Permata,Sukolilo,Futsal,Futsal Court B,Indoor,18:00,2,200000,460000,QRIS,460000.0,Paid,,Minggu,2025-01,18:00
+426,388,2025-01-05,Pending,150,Rafi Setiawan,Kertajaya,Badminton,Badminton Court A,Indoor,08:00,1,60000,60000,,,,,Minggu,2025-01,08:00
+851,778,2025-01-05,Completed,1,Eka Siregar,Mulyorejo,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,Bank Transfer,172000.0,Paid,5.0,Minggu,2025-01,18:00
+1278,1164,2025-01-05,Completed,97,Galih Ananda,Kertajaya,Badminton,Badminton Court D,Indoor,18:00,3,65000,224000,QRIS,224000.0,Paid,4.0,Minggu,2025-01,18:00
+184,163,2025-01-06,Completed,72,Clara Wibowo,Kertajaya,Basketball,Basketball Court A,Indoor,17:00,1,150000,172000,QRIS,172000.0,Paid,,Senin,2025-01,17:00
+376,342,2025-01-06,Pending,163,Bima Siregar,Rungkut,Badminton,Badminton Court C,Indoor,09:00,1,65000,65000,,,,,Senin,2025-01,09:00
+822,749,2025-01-06,Completed,137,Vina Saputra,Mulyorejo,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,QRIS,207000.0,Paid,5.0,Senin,2025-01,20:00
+1120,1023,2025-01-06,Completed,93,Farah Nugroho,Rungkut,Tennis,Tennis Court B,Outdoor,18:00,3,110000,379000,E-Wallet,379000.0,Paid,4.0,Senin,2025-01,18:00
+1245,1133,2025-01-06,Completed,167,Bima Siregar,Gubeng,Tennis,Tennis Court C,Outdoor,17:00,3,110000,379000,QRIS,379000.0,Paid,4.0,Senin,2025-01,17:00
+278,250,2025-01-07,Completed,112,Hana Maulana,Darmo,Badminton,Badminton Court D,Indoor,09:00,2,65000,130000,E-Wallet,450000.0,Paid,4.0,Selasa,2025-01,09:00
+279,250,2025-01-07,Completed,112,Hana Maulana,Darmo,Basketball,Basketball Court B,Indoor,09:00,2,160000,320000,E-Wallet,450000.0,Paid,,Selasa,2025-01,09:00
+549,501,2025-01-07,Completed,109,Reza Hartono,Kertajaya,Tennis,Tennis Court C,Outdoor,15:00,2,110000,220000,Bank Transfer,220000.0,Paid,4.0,Selasa,2025-01,15:00
+9,9,2025-01-08,Completed,162,Rizky Siregar,Sukolilo,Tennis,Tennis Court A,Outdoor,07:00,3,100000,300000,QRIS,300000.0,Paid,3.0,Rabu,2025-01,07:00
+1159,1058,2025-01-08,Completed,149,Zaki Santoso,Wonokromo,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,QRIS,75000.0,Paid,,Rabu,2025-01,18:00
+1168,1066,2025-01-08,Completed,85,Niken Setiawan,Kertajaya,Basketball,Basketball Court B,Indoor,07:00,1,160000,160000,Cash,160000.0,Paid,4.0,Rabu,2025-01,07:00
+170,151,2025-01-09,Completed,51,Tio Kusuma,Manyar,Futsal,Futsal Court A,Indoor,21:00,1,180000,207000,E-Wallet,207000.0,Paid,4.0,Kamis,2025-01,21:00
+519,473,2025-01-09,Completed,3,Niken Wibowo,Keputih,Tennis,Tennis Court B,Outdoor,09:00,1,110000,110000,Bank Transfer,110000.0,Paid,,Kamis,2025-01,09:00
+695,633,2025-01-09,Completed,72,Clara Wibowo,Kertajaya,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,QRIS,483000.0,Paid,5.0,Kamis,2025-01,20:00
+696,633,2025-01-09,Completed,72,Clara Wibowo,Kertajaya,Tennis,Tennis Court C,Outdoor,20:00,2,110000,253000,QRIS,483000.0,Paid,,Kamis,2025-01,20:00
+1007,919,2025-01-09,Completed,31,Galih Kusuma,Darmo,Badminton,Badminton Court D,Indoor,14:00,1,65000,65000,QRIS,65000.0,Paid,4.0,Kamis,2025-01,14:00
+293,263,2025-01-10,Completed,89,Gita Nugroho,Tenggilis,Badminton,Badminton Court B,Indoor,13:00,1,60000,60000,Cash,60000.0,Paid,,Jumat,2025-01,13:00
+665,606,2025-01-10,Completed,101,Farah Pratama,Manyar,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,E-Wallet,150000.0,Paid,,Jumat,2025-01,18:00
+717,652,2025-01-11,Pending,153,Hana Setiawan,Sukolilo,Badminton,Badminton Court C,Indoor,07:00,3,65000,195000,,,,,Sabtu,2025-01,07:00
+899,818,2025-01-11,Completed,58,Niken Hartono,Sukolilo,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,QRIS,200000.0,Paid,5.0,Sabtu,2025-01,16:00
+966,884,2025-01-11,Completed,84,Laras Wijaya,Manyar,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,QRIS,207000.0,Paid,,Sabtu,2025-01,20:00
+993,906,2025-01-11,Completed,33,Yusuf Putri,Darmo,Tennis,Tennis Court D,Outdoor,19:00,3,120000,414000,Bank Transfer,414000.0,Paid,2.0,Sabtu,2025-01,19:00
+73,63,2025-01-12,Completed,32,Gita Wibowo,Tenggilis,Tennis,Tennis Court B,Outdoor,16:00,4,110000,440000,E-Wallet,440000.0,Paid,,Minggu,2025-01,16:00
+537,490,2025-01-12,Cancelled,35,Aditya Maulana,Keputih,Futsal,Futsal Court B,Indoor,17:00,2,200000,460000,,,,,Minggu,2025-01,17:00
+995,908,2025-01-13,Completed,41,Aditya Saputra,Rungkut,Badminton,Badminton Court D,Indoor,08:00,3,65000,195000,QRIS,195000.0,Paid,4.0,Senin,2025-01,08:00
+396,360,2025-01-14,Pending,54,Bima Siregar,Kertajaya,Badminton,Badminton Court B,Indoor,16:00,1,60000,60000,,,,,Selasa,2025-01,16:00
+509,464,2025-01-14,Completed,47,Nadia Santoso,Tenggilis,Tennis,Tennis Court B,Outdoor,15:00,2,110000,220000,Bank Transfer,220000.0,Paid,,Selasa,2025-01,15:00
+805,733,2025-01-14,Completed,77,Bima Nugroho,Rungkut,Badminton,Badminton Court C,Indoor,16:00,1,65000,65000,E-Wallet,65000.0,Paid,3.0,Selasa,2025-01,16:00
+906,825,2025-01-14,Pending,115,Niken Hidayat,Wonokromo,Futsal,Futsal Court A,Indoor,11:00,1,180000,180000,,,,,Selasa,2025-01,11:00
+813,741,2025-01-15,Cancelled,178,Kevin Saputra,Tenggilis,Badminton,Badminton Court A,Indoor,19:00,2,60000,138000,,,,,Rabu,2025-01,19:00
+904,823,2025-01-15,Completed,21,Laras Pratama,Keputih,Basketball,Basketball Court A,Indoor,17:00,1,150000,172000,QRIS,172000.0,Paid,3.0,Rabu,2025-01,17:00
+1009,921,2025-01-15,Completed,164,Tania Pratama,Tenggilis,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,QRIS,230000.0,Paid,5.0,Rabu,2025-01,18:00
+592,542,2025-01-16,Completed,163,Bima Siregar,Rungkut,Badminton,Badminton Court D,Indoor,19:00,2,65000,150000,QRIS,150000.0,Paid,3.0,Kamis,2025-01,19:00
+821,748,2025-01-16,Completed,23,Nabila Putri,Gubeng,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,5.0,Kamis,2025-01,17:00
+1224,1115,2025-01-16,Completed,120,Oscar Ananda,Sukolilo,Badminton,Badminton Court B,Indoor,18:00,2,60000,138000,QRIS,264000.0,Refunded,5.0,Kamis,2025-01,18:00
+1225,1115,2025-01-16,Completed,120,Oscar Ananda,Sukolilo,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,QRIS,264000.0,Refunded,,Kamis,2025-01,18:00
+190,169,2025-01-17,Completed,31,Galih Kusuma,Darmo,Basketball,Basketball Court A,Indoor,18:00,3,150000,517000,Bank Transfer,517000.0,Paid,,Jumat,2025-01,18:00
+760,693,2025-01-17,Cancelled,3,Niken Wibowo,Keputih,Basketball,Basketball Court A,Indoor,19:00,1,150000,172000,,,,,Jumat,2025-01,19:00
+836,763,2025-01-17,Completed,39,Galih Permata,Wonokromo,Badminton,Badminton Court A,Indoor,16:00,2,60000,120000,Bank Transfer,120000.0,Paid,5.0,Jumat,2025-01,16:00
+1260,1147,2025-01-17,Completed,149,Zaki Santoso,Wonokromo,Futsal,Futsal Court A,Indoor,09:00,2,180000,360000,E-Wallet,360000.0,Paid,,Jumat,2025-01,09:00
+1033,942,2025-01-18,Completed,61,Yusuf Saputra,Sukolilo,Futsal,Futsal Court A,Indoor,17:00,2,180000,414000,Bank Transfer,414000.0,Paid,,Sabtu,2025-01,17:00
+154,137,2025-01-19,Completed,8,Tio Lestari,Sukolilo,Tennis,Tennis Court A,Outdoor,17:00,2,100000,230000,QRIS,230000.0,Paid,,Minggu,2025-01,17:00
+952,871,2025-01-19,Completed,35,Aditya Maulana,Keputih,Tennis,Tennis Court C,Outdoor,19:00,1,110000,126000,E-Wallet,126000.0,Paid,4.0,Minggu,2025-01,19:00
+240,217,2025-01-20,Completed,161,Intan Santoso,Mulyorejo,Badminton,Badminton Court A,Indoor,17:00,2,60000,138000,Bank Transfer,138000.0,Paid,,Senin,2025-01,17:00
+773,704,2025-01-20,Cancelled,2,Clara Nugroho,Keputih,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,,,,,Senin,2025-01,18:00
+328,296,2025-01-21,Completed,33,Yusuf Putri,Darmo,Futsal,Futsal Court A,Indoor,16:00,1,180000,180000,E-Wallet,180000.0,Paid,,Selasa,2025-01,16:00
+495,451,2025-01-21,Completed,113,Dewi Santoso,Wonokromo,Tennis,Tennis Court A,Outdoor,18:00,2,100000,230000,E-Wallet,230000.0,Paid,,Selasa,2025-01,18:00
+317,286,2025-01-22,Completed,98,Dimas Wijaya,Manyar,Futsal,Futsal Court B,Indoor,09:00,1,200000,200000,E-Wallet,200000.0,Paid,4.0,Rabu,2025-01,09:00
+371,337,2025-01-22,Completed,13,Nabila Hartono,Sukolilo,Badminton,Badminton Court B,Indoor,19:00,1,60000,69000,Bank Transfer,69000.0,Paid,5.0,Rabu,2025-01,19:00
+449,410,2025-01-22,Completed,148,Tio Lestari,Gubeng,Basketball,Basketball Court B,Indoor,21:00,1,160000,184000,QRIS,184000.0,Paid,4.0,Rabu,2025-01,21:00
+485,441,2025-01-22,Completed,2,Clara Nugroho,Keputih,Tennis,Tennis Court A,Outdoor,19:00,1,100000,115000,QRIS,115000.0,Paid,4.0,Rabu,2025-01,19:00
+945,864,2025-01-22,Completed,42,Hana Wijaya,Darmo,Futsal,Futsal Court A,Indoor,07:00,2,180000,360000,QRIS,360000.0,Paid,,Rabu,2025-01,07:00
+984,900,2025-01-22,Completed,53,Indra Wibowo,Darmo,Badminton,Badminton Court B,Indoor,21:00,2,60000,138000,E-Wallet,138000.0,Paid,4.0,Rabu,2025-01,21:00
+391,355,2025-01-23,Pending,153,Hana Setiawan,Sukolilo,Tennis,Tennis Court A,Outdoor,19:00,1,100000,115000,,,,,Kamis,2025-01,19:00
+477,433,2025-01-23,Completed,54,Bima Siregar,Kertajaya,Basketball,Basketball Court A,Indoor,20:00,1,150000,172000,Bank Transfer,172000.0,Paid,,Kamis,2025-01,20:00
+814,742,2025-01-23,Completed,10,Tania Wibowo,Tenggilis,Badminton,Badminton Court B,Indoor,18:00,2,60000,138000,E-Wallet,138000.0,Paid,4.0,Kamis,2025-01,18:00
+832,759,2025-01-23,Completed,37,Putri Ananda,Wonokromo,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,Cash,115000.0,Paid,5.0,Kamis,2025-01,18:00
+1045,954,2025-01-23,Completed,12,Kevin Hidayat,Gubeng,Basketball,Basketball Court A,Indoor,17:00,2,150000,345000,E-Wallet,345000.0,Paid,5.0,Kamis,2025-01,17:00
+1131,1032,2025-01-23,Pending,9,Bima Hartono,Wonokromo,Tennis,Tennis Court B,Outdoor,15:00,1,110000,110000,,,,,Kamis,2025-01,15:00
+1294,1179,2025-01-23,Cancelled,106,Reza Santoso,Kertajaya,Tennis,Tennis Court D,Outdoor,18:00,3,120000,414000,,,,,Kamis,2025-01,18:00
+1295,1179,2025-01-23,Cancelled,106,Reza Santoso,Kertajaya,Badminton,Badminton Court D,Indoor,18:00,1,65000,75000,,,,,Kamis,2025-01,18:00
+347,315,2025-01-24,Pending,90,Eka Hartono,Sukolilo,Badminton,Badminton Court A,Indoor,09:00,2,60000,120000,,,,,Jumat,2025-01,09:00
+611,559,2025-01-24,Cancelled,88,Zaki Santoso,Darmo,Tennis,Tennis Court C,Outdoor,20:00,3,110000,379000,,,,,Jumat,2025-01,20:00
+634,580,2025-01-24,Completed,114,Citra Siregar,Sukolilo,Basketball,Basketball Court A,Indoor,18:00,2,150000,345000,E-Wallet,345000.0,Paid,,Jumat,2025-01,18:00
+838,765,2025-01-24,Completed,115,Niken Hidayat,Wonokromo,Badminton,Badminton Court A,Indoor,07:00,2,60000,120000,Bank Transfer,120000.0,Paid,4.0,Jumat,2025-01,07:00
+1095,999,2025-01-24,Completed,153,Hana Setiawan,Sukolilo,Basketball,Basketball Court B,Indoor,21:00,2,160000,368000,QRIS,368000.0,Paid,,Jumat,2025-01,21:00
+193,172,2025-01-25,Completed,142,Reza Lestari,Wonokromo,Badminton,Badminton Court D,Indoor,19:00,2,65000,150000,QRIS,150000.0,Paid,3.0,Sabtu,2025-01,19:00
+433,394,2025-01-25,Completed,94,Putri Maulana,Sukolilo,Basketball,Basketball Court B,Indoor,09:00,1,160000,160000,QRIS,160000.0,Paid,4.0,Sabtu,2025-01,09:00
+131,116,2025-01-26,Completed,25,Vina Putri,Wonokromo,Tennis,Tennis Court A,Outdoor,17:00,1,100000,115000,QRIS,115000.0,Paid,5.0,Minggu,2025-01,17:00
+288,259,2025-01-26,Completed,123,Zaki Maulana,Rungkut,Badminton,Badminton Court B,Indoor,13:00,1,60000,60000,QRIS,60000.0,Paid,,Minggu,2025-01,13:00
+388,352,2025-01-26,Completed,114,Citra Siregar,Sukolilo,Badminton,Badminton Court D,Indoor,11:00,1,65000,65000,Bank Transfer,65000.0,Refunded,3.0,Minggu,2025-01,11:00
+447,408,2025-01-26,Completed,88,Zaki Santoso,Darmo,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,QRIS,172000.0,Paid,,Minggu,2025-01,18:00
+515,470,2025-01-26,Completed,44,Vina Setiawan,Wonokromo,Tennis,Tennis Court A,Outdoor,08:00,1,100000,100000,Bank Transfer,100000.0,Paid,,Minggu,2025-01,08:00
+1068,973,2025-01-26,Completed,59,Yasmin Wibowo,Rungkut,Basketball,Basketball Court B,Indoor,07:00,1,160000,160000,Bank Transfer,160000.0,Paid,4.0,Minggu,2025-01,07:00
+867,791,2025-01-27,Completed,149,Zaki Santoso,Wonokromo,Futsal,Futsal Court B,Indoor,20:00,3,200000,690000,Bank Transfer,690000.0,Refunded,,Senin,2025-01,20:00
+944,863,2025-01-27,Completed,32,Gita Wibowo,Tenggilis,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,Bank Transfer,138000.0,Paid,5.0,Senin,2025-01,19:00
+263,237,2025-01-28,Completed,117,Alya Pratama,Rungkut,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,QRIS,150000.0,Paid,5.0,Selasa,2025-01,20:00
+622,570,2025-01-28,Completed,14,Indra Permata,Rungkut,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,QRIS,195000.0,Paid,4.0,Selasa,2025-01,20:00
+623,570,2025-01-28,Completed,14,Indra Permata,Rungkut,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,QRIS,195000.0,Paid,,Selasa,2025-01,20:00
+756,689,2025-01-28,Cancelled,124,Wahyu Wibowo,Manyar,Basketball,Basketball Court B,Indoor,14:00,2,160000,320000,,,,,Selasa,2025-01,14:00
+1093,998,2025-01-28,Completed,117,Alya Pratama,Rungkut,Basketball,Basketball Court A,Indoor,15:00,2,150000,300000,QRIS,365000.0,Paid,3.0,Selasa,2025-01,15:00
+1094,998,2025-01-28,Completed,117,Alya Pratama,Rungkut,Badminton,Badminton Court D,Indoor,15:00,1,65000,65000,QRIS,365000.0,Paid,,Selasa,2025-01,15:00
+1226,1116,2025-01-28,Completed,133,Yusuf Permata,Manyar,Badminton,Badminton Court D,Indoor,07:00,1,65000,65000,QRIS,65000.0,Paid,5.0,Selasa,2025-01,07:00
+85,75,2025-01-29,Completed,38,Dewi Kusuma,Tenggilis,Tennis,Tennis Court D,Outdoor,19:00,2,120000,276000,QRIS,276000.0,Paid,,Rabu,2025-01,19:00
+195,174,2025-01-29,Pending,56,Fajar Lestari,Rungkut,Futsal,Futsal Court B,Indoor,21:00,1,200000,230000,,,,,Rabu,2025-01,21:00
+715,650,2025-01-29,Completed,77,Bima Nugroho,Rungkut,Futsal,Futsal Court A,Indoor,17:00,3,180000,621000,QRIS,621000.0,Paid,4.0,Rabu,2025-01,17:00
+720,655,2025-01-29,Completed,171,Vina Nugroho,Kertajaya,Futsal,Futsal Court A,Indoor,16:00,2,180000,360000,Bank Transfer,360000.0,Paid,3.0,Rabu,2025-01,16:00
+681,621,2025-01-30,Completed,77,Bima Nugroho,Rungkut,Tennis,Tennis Court B,Outdoor,15:00,2,110000,220000,Bank Transfer,220000.0,Paid,,Kamis,2025-01,15:00
+781,711,2025-01-30,Cancelled,159,Aditya Pratama,Manyar,Tennis,Tennis Court A,Outdoor,14:00,1,100000,100000,,,,,Kamis,2025-01,14:00
+418,382,2025-01-31,Cancelled,174,Clara Nugroho,Mulyorejo,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,,,,,Jumat,2025-01,18:00
+800,729,2025-01-31,Completed,64,Tania Hartono,Manyar,Tennis,Tennis Court C,Outdoor,19:00,1,110000,126000,QRIS,276000.0,Paid,,Jumat,2025-01,19:00
+801,729,2025-01-31,Completed,64,Tania Hartono,Manyar,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,QRIS,276000.0,Paid,,Jumat,2025-01,19:00
+72,62,2025-02-01,Completed,149,Zaki Santoso,Wonokromo,Tennis,Tennis Court A,Outdoor,19:00,3,100000,345000,Bank Transfer,345000.0,Paid,3.0,Sabtu,2025-02,19:00
+251,226,2025-02-01,Pending,45,Laras Kusuma,Mulyorejo,Badminton,Badminton Court D,Indoor,07:00,3,65000,195000,,,,,Sabtu,2025-02,07:00
+252,226,2025-02-01,Pending,45,Laras Kusuma,Mulyorejo,Tennis,Tennis Court A,Outdoor,07:00,2,100000,200000,,,,,Sabtu,2025-02,07:00
+745,678,2025-02-01,Completed,117,Alya Pratama,Rungkut,Badminton,Badminton Court D,Indoor,07:00,2,65000,130000,E-Wallet,130000.0,Paid,5.0,Sabtu,2025-02,07:00
+242,219,2025-02-02,Completed,48,Dimas Wibowo,Darmo,Tennis,Tennis Court D,Outdoor,09:00,2,120000,240000,QRIS,240000.0,Paid,4.0,Minggu,2025-02,09:00
+403,367,2025-02-02,Completed,133,Yusuf Permata,Manyar,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,E-Wallet,253000.0,Paid,5.0,Minggu,2025-02,18:00
+1311,1194,2025-02-02,Completed,64,Tania Hartono,Manyar,Futsal,Futsal Court B,Indoor,17:00,1,200000,230000,Cash,230000.0,Paid,5.0,Minggu,2025-02,17:00
+555,507,2025-02-03,Completed,88,Zaki Santoso,Darmo,Tennis,Tennis Court B,Outdoor,21:00,2,110000,253000,QRIS,253000.0,Paid,5.0,Senin,2025-02,21:00
+716,651,2025-02-03,Completed,110,Dimas Saputra,Mulyorejo,Badminton,Badminton Court D,Indoor,19:00,3,65000,224000,Bank Transfer,224000.0,Paid,,Senin,2025-02,19:00
+237,214,2025-02-04,Completed,123,Zaki Maulana,Rungkut,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,QRIS,368000.0,Refunded,4.0,Selasa,2025-02,17:00
+1228,1118,2025-02-04,Completed,46,Oscar Hartono,Rungkut,Basketball,Basketball Court A,Indoor,21:00,1,150000,172000,Bank Transfer,172000.0,Paid,5.0,Selasa,2025-02,21:00
+259,233,2025-02-05,Completed,40,Indra Wijaya,Darmo,Futsal,Futsal Court A,Indoor,17:00,3,180000,621000,QRIS,621000.0,Paid,,Rabu,2025-02,17:00
+707,643,2025-02-05,Completed,43,Putri Hartono,Rungkut,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,QRIS,368000.0,Paid,5.0,Rabu,2025-02,17:00
+1194,1089,2025-02-05,Completed,81,Nabila Permata,Sukolilo,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,E-Wallet,75000.0,Paid,,Rabu,2025-02,19:00
+301,270,2025-02-06,Completed,148,Tio Lestari,Gubeng,Badminton,Badminton Court A,Indoor,11:00,1,60000,60000,Bank Transfer,60000.0,Paid,4.0,Kamis,2025-02,11:00
+790,719,2025-02-06,Completed,126,Niken Setiawan,Darmo,Tennis,Tennis Court D,Outdoor,13:00,1,120000,120000,QRIS,120000.0,Paid,5.0,Kamis,2025-02,13:00
+221,199,2025-02-07,Completed,57,Kevin Kusuma,Manyar,Badminton,Badminton Court D,Indoor,20:00,1,65000,75000,E-Wallet,328000.0,Paid,,Jumat,2025-02,20:00
+222,199,2025-02-07,Completed,57,Kevin Kusuma,Manyar,Tennis,Tennis Court C,Outdoor,20:00,2,110000,253000,E-Wallet,328000.0,Paid,,Jumat,2025-02,20:00
+397,361,2025-02-07,Completed,85,Niken Setiawan,Kertajaya,Tennis,Tennis Court C,Outdoor,14:00,3,110000,330000,QRIS,330000.0,Paid,5.0,Jumat,2025-02,14:00
+590,540,2025-02-07,Completed,39,Galih Permata,Wonokromo,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,Bank Transfer,184000.0,Paid,,Jumat,2025-02,18:00
+606,554,2025-02-07,Completed,15,Galih Siregar,Rungkut,Futsal,Futsal Court A,Indoor,17:00,3,180000,621000,QRIS,621000.0,Paid,3.0,Jumat,2025-02,17:00
+1256,1144,2025-02-07,Completed,178,Kevin Saputra,Tenggilis,Badminton,Badminton Court B,Indoor,11:00,1,60000,60000,E-Wallet,60000.0,Paid,5.0,Jumat,2025-02,11:00
+284,255,2025-02-08,Completed,78,Laras Hartono,Manyar,Tennis,Tennis Court C,Outdoor,21:00,1,110000,126000,E-Wallet,126000.0,Paid,,Sabtu,2025-02,21:00
+916,835,2025-02-08,Completed,5,Yusuf Pratama,Keputih,Basketball,Basketball Court A,Indoor,15:00,3,150000,450000,QRIS,450000.0,Paid,3.0,Sabtu,2025-02,15:00
+148,132,2025-02-09,Completed,69,Nadia Hartono,Gubeng,Tennis,Tennis Court C,Outdoor,19:00,2,110000,253000,Bank Transfer,253000.0,Paid,2.0,Minggu,2025-02,19:00
+958,877,2025-02-09,Pending,173,Alya Saputra,Rungkut,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,,,,,Minggu,2025-02,20:00
+1024,935,2025-02-09,Completed,38,Dewi Kusuma,Tenggilis,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,QRIS,138000.0,Paid,,Minggu,2025-02,19:00
+199,177,2025-02-10,Pending,61,Yusuf Saputra,Sukolilo,Tennis,Tennis Court B,Outdoor,17:00,1,110000,126000,,,,,Senin,2025-02,17:00
+230,207,2025-02-10,Pending,45,Laras Kusuma,Mulyorejo,Badminton,Badminton Court A,Indoor,13:00,1,60000,60000,,,,,Senin,2025-02,13:00
+446,407,2025-02-10,Completed,82,Citra Wibowo,Keputih,Tennis,Tennis Court D,Outdoor,21:00,3,120000,414000,E-Wallet,414000.0,Paid,5.0,Senin,2025-02,21:00
+690,628,2025-02-10,Completed,127,Bagas Setiawan,Sukolilo,Badminton,Badminton Court C,Indoor,11:00,3,65000,195000,QRIS,195000.0,Paid,,Senin,2025-02,11:00
+771,702,2025-02-10,Completed,25,Vina Putri,Wonokromo,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,QRIS,150000.0,Paid,,Senin,2025-02,20:00
+826,753,2025-02-10,Completed,43,Putri Hartono,Rungkut,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,3.0,Senin,2025-02,17:00
+1091,996,2025-02-10,Completed,70,Niken Hartono,Gubeng,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,Bank Transfer,150000.0,Paid,4.0,Senin,2025-02,19:00
+1115,1018,2025-02-10,Completed,172,Kevin Maulana,Rungkut,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,Bank Transfer,150000.0,Paid,,Senin,2025-02,20:00
+1287,1172,2025-02-10,Completed,160,Tio Putri,Wonokromo,Futsal,Futsal Court A,Indoor,10:00,1,180000,180000,QRIS,180000.0,Paid,5.0,Senin,2025-02,10:00
+218,196,2025-02-11,Completed,127,Bagas Setiawan,Sukolilo,Badminton,Badminton Court B,Indoor,18:00,3,60000,207000,QRIS,207000.0,Paid,2.0,Selasa,2025-02,18:00
+856,783,2025-02-11,Pending,163,Bima Siregar,Rungkut,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,,,,,Selasa,2025-02,19:00
+857,783,2025-02-11,Pending,163,Bima Siregar,Rungkut,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,,,,,Selasa,2025-02,19:00
+123,108,2025-02-12,Completed,84,Laras Wijaya,Manyar,Badminton,Badminton Court A,Indoor,17:00,3,60000,207000,QRIS,207000.0,Paid,,Rabu,2025-02,17:00
+243,220,2025-02-12,Completed,8,Tio Lestari,Sukolilo,Badminton,Badminton Court C,Indoor,17:00,1,65000,75000,QRIS,213000.0,Paid,4.0,Rabu,2025-02,17:00
+244,220,2025-02-12,Completed,8,Tio Lestari,Sukolilo,Tennis,Tennis Court D,Outdoor,17:00,1,120000,138000,QRIS,213000.0,Paid,,Rabu,2025-02,17:00
+254,228,2025-02-12,Completed,163,Bima Siregar,Rungkut,Basketball,Basketball Court B,Indoor,17:00,1,160000,184000,QRIS,184000.0,Paid,,Rabu,2025-02,17:00
+338,306,2025-02-12,Completed,106,Reza Santoso,Kertajaya,Futsal,Futsal Court B,Indoor,13:00,2,200000,400000,QRIS,400000.0,Paid,,Rabu,2025-02,13:00
+571,523,2025-02-12,Pending,169,Hana Wijaya,Gubeng,Badminton,Badminton Court D,Indoor,21:00,1,65000,75000,,,,,Rabu,2025-02,21:00
+772,703,2025-02-12,Completed,59,Yasmin Wibowo,Rungkut,Tennis,Tennis Court C,Outdoor,10:00,2,110000,220000,Cash,220000.0,Paid,4.0,Rabu,2025-02,10:00
+858,784,2025-02-12,Completed,122,Oscar Kusuma,Gubeng,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,QRIS,253000.0,Paid,5.0,Rabu,2025-02,18:00
+859,784,2025-02-12,Completed,122,Oscar Kusuma,Gubeng,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,QRIS,253000.0,Paid,,Rabu,2025-02,18:00
+970,887,2025-02-12,Completed,138,Wahyu Putri,Manyar,Tennis,Tennis Court B,Outdoor,17:00,3,110000,379000,Cash,379000.0,Paid,,Rabu,2025-02,17:00
+142,126,2025-02-13,Completed,134,Indra Permata,Tenggilis,Badminton,Badminton Court C,Indoor,14:00,1,65000,65000,QRIS,65000.0,Paid,5.0,Kamis,2025-02,14:00
+774,705,2025-02-13,Completed,122,Oscar Kusuma,Gubeng,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,E-Wallet,126000.0,Paid,5.0,Kamis,2025-02,18:00
+839,766,2025-02-13,Completed,33,Yusuf Putri,Darmo,Badminton,Badminton Court B,Indoor,13:00,4,60000,240000,E-Wallet,240000.0,Paid,,Kamis,2025-02,13:00
+882,805,2025-02-13,Completed,65,Oscar Wibowo,Darmo,Tennis,Tennis Court C,Outdoor,21:00,2,110000,253000,Bank Transfer,322000.0,Paid,4.0,Kamis,2025-02,21:00
+883,805,2025-02-13,Completed,65,Oscar Wibowo,Darmo,Badminton,Badminton Court A,Indoor,21:00,1,60000,69000,Bank Transfer,322000.0,Paid,,Kamis,2025-02,21:00
+105,94,2025-02-14,Completed,151,Laras Permata,Mulyorejo,Tennis,Tennis Court C,Outdoor,08:00,2,110000,220000,E-Wallet,220000.0,Paid,4.0,Jumat,2025-02,08:00
+157,140,2025-02-14,Completed,33,Yusuf Putri,Darmo,Tennis,Tennis Court A,Outdoor,20:00,1,100000,115000,Bank Transfer,115000.0,Paid,,Jumat,2025-02,20:00
+359,327,2025-02-14,Completed,31,Galih Kusuma,Darmo,Futsal,Futsal Court B,Indoor,21:00,2,200000,460000,QRIS,805000.0,Paid,4.0,Jumat,2025-02,21:00
+360,327,2025-02-14,Completed,31,Galih Kusuma,Darmo,Basketball,Basketball Court A,Indoor,21:00,2,150000,345000,QRIS,805000.0,Paid,,Jumat,2025-02,21:00
+367,333,2025-02-14,Completed,105,Vina Permata,Wonokromo,Tennis,Tennis Court C,Outdoor,07:00,1,110000,110000,Cash,110000.0,Paid,2.0,Jumat,2025-02,07:00
+1153,1053,2025-02-14,Cancelled,29,Tio Lestari,Rungkut,Badminton,Badminton Court A,Indoor,11:00,1,60000,60000,,,,,Jumat,2025-02,11:00
+1022,933,2025-02-15,Completed,2,Clara Nugroho,Keputih,Basketball,Basketball Court B,Indoor,18:00,2,160000,368000,Bank Transfer,368000.0,Paid,5.0,Sabtu,2025-02,18:00
+1284,1169,2025-02-15,Completed,17,Zaki Wibowo,Kertajaya,Tennis,Tennis Court B,Outdoor,10:00,2,110000,220000,E-Wallet,220000.0,Paid,,Sabtu,2025-02,10:00
+937,856,2025-02-16,Pending,67,Bagas Saputra,Mulyorejo,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,,,,,Minggu,2025-02,18:00
+168,149,2025-02-17,Completed,19,Bima Hartono,Keputih,Tennis,Tennis Court C,Outdoor,09:00,2,110000,220000,QRIS,220000.0,Paid,5.0,Senin,2025-02,09:00
+828,755,2025-02-17,Completed,29,Tio Lestari,Rungkut,Badminton,Badminton Court D,Indoor,15:00,2,65000,130000,Bank Transfer,130000.0,Paid,,Senin,2025-02,15:00
+55,48,2025-02-18,Completed,129,Putri Wijaya,Wonokromo,Tennis,Tennis Court A,Outdoor,17:00,1,100000,115000,E-Wallet,115000.0,Paid,3.0,Selasa,2025-02,17:00
+262,236,2025-02-18,Completed,14,Indra Permata,Rungkut,Futsal,Futsal Court B,Indoor,14:00,1,200000,200000,QRIS,200000.0,Paid,,Selasa,2025-02,14:00
+304,273,2025-02-18,Cancelled,120,Oscar Ananda,Sukolilo,Badminton,Badminton Court A,Indoor,21:00,1,60000,69000,,,,,Selasa,2025-02,21:00
+573,525,2025-02-18,Completed,147,Intan Nugroho,Tenggilis,Futsal,Futsal Court A,Indoor,13:00,2,180000,360000,QRIS,360000.0,Paid,2.0,Selasa,2025-02,13:00
+656,598,2025-02-18,Completed,105,Vina Permata,Wonokromo,Tennis,Tennis Court A,Outdoor,20:00,3,100000,345000,Bank Transfer,345000.0,Paid,5.0,Selasa,2025-02,20:00
+675,615,2025-02-18,Completed,93,Farah Nugroho,Rungkut,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,Cash,200000.0,Paid,,Selasa,2025-02,16:00
+900,819,2025-02-18,Completed,47,Nadia Santoso,Tenggilis,Badminton,Badminton Court A,Indoor,18:00,4,60000,276000,Bank Transfer,276000.0,Paid,5.0,Selasa,2025-02,18:00
+1268,1154,2025-02-18,Completed,87,Bima Setiawan,Manyar,Tennis,Tennis Court A,Outdoor,08:00,3,100000,300000,QRIS,300000.0,Paid,3.0,Selasa,2025-02,08:00
+210,188,2025-02-19,Completed,143,Aditya Saputra,Tenggilis,Badminton,Badminton Court A,Indoor,09:00,2,60000,120000,Bank Transfer,120000.0,Paid,5.0,Rabu,2025-02,09:00
+419,383,2025-02-19,Completed,95,Kevin Maulana,Rungkut,Tennis,Tennis Court C,Outdoor,17:00,3,110000,379000,Cash,379000.0,Paid,4.0,Rabu,2025-02,17:00
+680,620,2025-02-19,Completed,30,Wahyu Maulana,Gubeng,Tennis,Tennis Court D,Outdoor,15:00,2,120000,240000,QRIS,240000.0,Paid,4.0,Rabu,2025-02,15:00
+171,152,2025-02-20,Completed,78,Laras Hartono,Manyar,Tennis,Tennis Court B,Outdoor,07:00,1,110000,110000,Bank Transfer,110000.0,Paid,5.0,Kamis,2025-02,07:00
+429,391,2025-02-20,Pending,139,Dimas Ananda,Wonokromo,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,,,,,Kamis,2025-02,20:00
+526,480,2025-02-20,Completed,62,Clara Nugroho,Sukolilo,Badminton,Badminton Court D,Indoor,08:00,1,65000,65000,E-Wallet,65000.0,Paid,4.0,Kamis,2025-02,08:00
+225,202,2025-02-21,Completed,15,Galih Siregar,Rungkut,Futsal,Futsal Court A,Indoor,07:00,2,180000,360000,Cash,360000.0,Paid,4.0,Jumat,2025-02,07:00
+228,205,2025-02-22,Cancelled,33,Yusuf Putri,Darmo,Basketball,Basketball Court B,Indoor,21:00,2,160000,368000,,,,,Sabtu,2025-02,21:00
+1014,926,2025-02-22,Completed,96,Intan Maulana,Wonokromo,Badminton,Badminton Court D,Indoor,18:00,2,65000,150000,Cash,150000.0,Paid,4.0,Sabtu,2025-02,18:00
+1067,972,2025-02-22,Pending,145,Reza Maulana,Keputih,Badminton,Badminton Court D,Indoor,21:00,2,65000,150000,,,,,Sabtu,2025-02,21:00
+121,107,2025-02-23,Completed,24,Maya Siregar,Wonokromo,Tennis,Tennis Court A,Outdoor,11:00,2,100000,200000,Bank Transfer,420000.0,Paid,4.0,Minggu,2025-02,11:00
+122,107,2025-02-23,Completed,24,Maya Siregar,Wonokromo,Tennis,Tennis Court C,Outdoor,11:00,2,110000,220000,Bank Transfer,420000.0,Paid,,Minggu,2025-02,11:00
+214,192,2025-02-23,Cancelled,80,Alya Hartono,Keputih,Tennis,Tennis Court B,Outdoor,10:00,1,110000,110000,,,,,Minggu,2025-02,10:00
+531,484,2025-02-23,Completed,169,Hana Wijaya,Gubeng,Futsal,Futsal Court A,Indoor,10:00,4,180000,720000,Cash,720000.0,Paid,1.0,Minggu,2025-02,10:00
+792,721,2025-02-23,Pending,72,Clara Wibowo,Kertajaya,Basketball,Basketball Court A,Indoor,21:00,2,150000,345000,,,,,Minggu,2025-02,21:00
+97,87,2025-02-24,Completed,149,Zaki Santoso,Wonokromo,Futsal,Futsal Court B,Indoor,17:00,2,200000,460000,E-Wallet,460000.0,Paid,4.0,Senin,2025-02,17:00
+770,701,2025-02-24,Completed,128,Vina Lestari,Manyar,Futsal,Futsal Court A,Indoor,20:00,2,180000,414000,E-Wallet,414000.0,Paid,3.0,Senin,2025-02,20:00
+920,839,2025-02-24,Completed,96,Intan Maulana,Wonokromo,Tennis,Tennis Court C,Outdoor,17:00,2,110000,253000,E-Wallet,253000.0,Paid,,Senin,2025-02,17:00
+361,328,2025-02-25,Completed,67,Bagas Saputra,Mulyorejo,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,QRIS,150000.0,Paid,,Selasa,2025-02,19:00
+552,504,2025-02-25,Completed,47,Nadia Santoso,Tenggilis,Basketball,Basketball Court A,Indoor,13:00,1,150000,150000,E-Wallet,150000.0,Paid,4.0,Selasa,2025-02,13:00
+577,528,2025-02-25,Completed,66,Alya Kusuma,Rungkut,Tennis,Tennis Court C,Outdoor,16:00,2,110000,220000,QRIS,220000.0,Paid,,Selasa,2025-02,16:00
+591,541,2025-02-25,Completed,13,Nabila Hartono,Sukolilo,Futsal,Futsal Court B,Indoor,17:00,1,200000,230000,QRIS,230000.0,Paid,4.0,Selasa,2025-02,17:00
+662,603,2025-02-25,Completed,119,Gita Wibowo,Wonokromo,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,QRIS,138000.0,Paid,,Selasa,2025-02,19:00
+719,654,2025-02-25,Cancelled,62,Clara Nugroho,Sukolilo,Futsal,Futsal Court A,Indoor,14:00,1,180000,180000,,,,,Selasa,2025-02,14:00
+39,35,2025-02-26,Pending,129,Putri Wijaya,Wonokromo,Tennis,Tennis Court D,Outdoor,09:00,1,120000,120000,,,,,Rabu,2025-02,09:00
+49,43,2025-02-26,Completed,27,Zaki Wijaya,Keputih,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,QRIS,138000.0,Paid,3.0,Rabu,2025-02,18:00
+794,723,2025-02-26,Pending,3,Niken Wibowo,Keputih,Badminton,Badminton Court A,Indoor,21:00,1,60000,69000,,,,,Rabu,2025-02,21:00
+1096,1000,2025-02-26,Completed,50,Intan Setiawan,Mulyorejo,Basketball,Basketball Court A,Indoor,16:00,1,150000,150000,Bank Transfer,150000.0,Paid,4.0,Rabu,2025-02,16:00
+34,31,2025-02-27,Completed,46,Oscar Hartono,Rungkut,Badminton,Badminton Court B,Indoor,21:00,1,60000,69000,Cash,69000.0,Paid,3.0,Kamis,2025-02,21:00
+69,59,2025-02-27,Completed,97,Galih Ananda,Kertajaya,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,E-Wallet,69000.0,Paid,,Kamis,2025-02,20:00
+89,79,2025-02-27,Completed,48,Dimas Wibowo,Darmo,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,QRIS,138000.0,Paid,4.0,Kamis,2025-02,18:00
+295,265,2025-02-27,Completed,39,Galih Permata,Wonokromo,Futsal,Futsal Court B,Indoor,19:00,2,200000,460000,Bank Transfer,460000.0,Paid,5.0,Kamis,2025-02,19:00
+410,374,2025-02-27,Completed,152,Tio Hidayat,Rungkut,Tennis,Tennis Court D,Outdoor,17:00,1,120000,138000,E-Wallet,138000.0,Paid,,Kamis,2025-02,17:00
+1205,1099,2025-02-27,Completed,164,Tania Pratama,Tenggilis,Tennis,Tennis Court C,Outdoor,08:00,2,110000,220000,E-Wallet,220000.0,Paid,,Kamis,2025-02,08:00
+150,134,2025-02-28,Completed,149,Zaki Santoso,Wonokromo,Basketball,Basketball Court A,Indoor,21:00,3,150000,517000,Bank Transfer,517000.0,Paid,4.0,Jumat,2025-02,21:00
+198,176,2025-02-28,Pending,60,Fajar Siregar,Manyar,Futsal,Futsal Court B,Indoor,13:00,2,200000,400000,,,,,Jumat,2025-02,13:00
+215,193,2025-02-28,Completed,61,Yusuf Saputra,Sukolilo,Badminton,Badminton Court B,Indoor,18:00,2,60000,138000,QRIS,138000.0,Paid,5.0,Jumat,2025-02,18:00
+525,479,2025-02-28,Cancelled,114,Citra Siregar,Sukolilo,Tennis,Tennis Court B,Outdoor,17:00,2,110000,253000,,,,,Jumat,2025-02,17:00
+12,12,2025-03-01,Completed,127,Bagas Setiawan,Sukolilo,Tennis,Tennis Court B,Outdoor,21:00,2,110000,253000,E-Wallet,253000.0,Paid,5.0,Sabtu,2025-03,21:00
+554,506,2025-03-01,Cancelled,82,Citra Wibowo,Keputih,Futsal,Futsal Court A,Indoor,18:00,3,180000,621000,,,,,Sabtu,2025-03,18:00
+730,664,2025-03-01,Completed,48,Dimas Wibowo,Darmo,Badminton,Badminton Court C,Indoor,09:00,1,65000,65000,Bank Transfer,65000.0,Paid,,Sabtu,2025-03,09:00
+973,890,2025-03-01,Completed,44,Vina Setiawan,Wonokromo,Futsal,Futsal Court A,Indoor,19:00,4,180000,828000,Bank Transfer,828000.0,Paid,,Sabtu,2025-03,19:00
+202,180,2025-03-02,Completed,126,Niken Setiawan,Darmo,Tennis,Tennis Court B,Outdoor,09:00,1,110000,110000,E-Wallet,110000.0,Paid,,Minggu,2025-03,09:00
+748,681,2025-03-02,Completed,61,Yusuf Saputra,Sukolilo,Badminton,Badminton Court D,Indoor,18:00,2,65000,150000,Bank Transfer,150000.0,Paid,4.0,Minggu,2025-03,18:00
+725,660,2025-03-03,Completed,129,Putri Wijaya,Wonokromo,Tennis,Tennis Court B,Outdoor,20:00,3,110000,379000,E-Wallet,632000.0,Paid,4.0,Senin,2025-03,20:00
+726,660,2025-03-03,Completed,129,Putri Wijaya,Wonokromo,Tennis,Tennis Court C,Outdoor,20:00,2,110000,253000,E-Wallet,632000.0,Paid,,Senin,2025-03,20:00
+817,745,2025-03-03,Completed,20,Hana Siregar,Mulyorejo,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,Bank Transfer,115000.0,Paid,5.0,Senin,2025-03,18:00
+1063,968,2025-03-03,Completed,7,Gita Setiawan,Darmo,Basketball,Basketball Court A,Indoor,18:00,2,150000,345000,QRIS,345000.0,Paid,5.0,Senin,2025-03,18:00
+1258,1146,2025-03-03,Pending,13,Nabila Hartono,Sukolilo,Tennis,Tennis Court D,Outdoor,21:00,2,120000,276000,,,,,Senin,2025-03,21:00
+1259,1146,2025-03-03,Pending,13,Nabila Hartono,Sukolilo,Basketball,Basketball Court B,Indoor,21:00,2,160000,368000,,,,,Senin,2025-03,21:00
+1301,1185,2025-03-03,Completed,99,Indra Wibowo,Manyar,Badminton,Badminton Court C,Indoor,21:00,2,65000,150000,E-Wallet,150000.0,Paid,5.0,Senin,2025-03,21:00
+383,348,2025-03-04,Completed,86,Wahyu Hartono,Mulyorejo,Tennis,Tennis Court C,Outdoor,19:00,1,110000,126000,QRIS,126000.0,Paid,,Selasa,2025-03,19:00
+1054,961,2025-03-04,Completed,8,Tio Lestari,Sukolilo,Futsal,Futsal Court A,Indoor,17:00,1,180000,207000,E-Wallet,207000.0,Paid,,Selasa,2025-03,17:00
+24,22,2025-03-07,Completed,149,Zaki Santoso,Wonokromo,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,E-Wallet,253000.0,Paid,,Jumat,2025-03,18:00
+971,888,2025-03-07,Completed,9,Bima Hartono,Wonokromo,Tennis,Tennis Court A,Outdoor,20:00,2,100000,230000,E-Wallet,230000.0,Paid,5.0,Jumat,2025-03,20:00
+1316,1199,2025-03-07,Completed,99,Indra Wibowo,Manyar,Tennis,Tennis Court B,Outdoor,19:00,2,110000,253000,Cash,253000.0,Paid,,Jumat,2025-03,19:00
+160,142,2025-03-08,Pending,52,Galih Wibowo,Manyar,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,,,,,Sabtu,2025-03,19:00
+289,260,2025-03-08,Completed,86,Wahyu Hartono,Mulyorejo,Tennis,Tennis Court A,Outdoor,19:00,1,100000,115000,E-Wallet,115000.0,Paid,,Sabtu,2025-03,19:00
+972,889,2025-03-08,Cancelled,38,Dewi Kusuma,Tenggilis,Tennis,Tennis Court B,Outdoor,19:00,1,110000,126000,,,,,Sabtu,2025-03,19:00
+1239,1127,2025-03-08,Completed,65,Oscar Wibowo,Darmo,Futsal,Futsal Court A,Indoor,20:00,2,180000,414000,Bank Transfer,414000.0,Paid,4.0,Sabtu,2025-03,20:00
+1035,944,2025-03-09,Completed,76,Tania Hidayat,Wonokromo,Tennis,Tennis Court B,Outdoor,10:00,1,110000,110000,Bank Transfer,110000.0,Paid,,Minggu,2025-03,10:00
+1315,1198,2025-03-09,Completed,93,Farah Nugroho,Rungkut,Badminton,Badminton Court B,Indoor,19:00,1,60000,69000,QRIS,69000.0,Paid,,Minggu,2025-03,19:00
+113,101,2025-03-10,Completed,1,Eka Siregar,Mulyorejo,Futsal,Futsal Court B,Indoor,14:00,3,200000,600000,Cash,665000.0,Paid,,Senin,2025-03,14:00
+114,101,2025-03-10,Completed,1,Eka Siregar,Mulyorejo,Badminton,Badminton Court C,Indoor,14:00,1,65000,65000,Cash,665000.0,Paid,,Senin,2025-03,14:00
+152,136,2025-03-10,Completed,107,Niken Lestari,Darmo,Tennis,Tennis Court D,Outdoor,16:00,1,120000,120000,QRIS,240000.0,Paid,3.0,Senin,2025-03,16:00
+153,136,2025-03-10,Completed,107,Niken Lestari,Darmo,Badminton,Badminton Court A,Indoor,16:00,2,60000,120000,QRIS,240000.0,Paid,,Senin,2025-03,16:00
+336,304,2025-03-10,Completed,133,Yusuf Permata,Manyar,Basketball,Basketball Court A,Indoor,19:00,1,150000,172000,QRIS,172000.0,Paid,4.0,Senin,2025-03,19:00
+443,404,2025-03-10,Completed,148,Tio Lestari,Gubeng,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,E-Wallet,460000.0,Paid,,Senin,2025-03,20:00
+697,634,2025-03-10,Completed,140,Tio Permata,Gubeng,Tennis,Tennis Court A,Outdoor,10:00,1,100000,100000,Bank Transfer,100000.0,Paid,,Senin,2025-03,10:00
+769,700,2025-03-10,Completed,49,Niken Permata,Darmo,Tennis,Tennis Court B,Outdoor,14:00,4,110000,440000,Cash,440000.0,Paid,5.0,Senin,2025-03,14:00
+82,72,2025-03-11,Completed,143,Aditya Saputra,Tenggilis,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,E-Wallet,230000.0,Paid,,Selasa,2025-03,20:00
+466,424,2025-03-11,Pending,30,Wahyu Maulana,Gubeng,Badminton,Badminton Court B,Indoor,16:00,3,60000,180000,,,,,Selasa,2025-03,16:00
+467,424,2025-03-11,Pending,30,Wahyu Maulana,Gubeng,Tennis,Tennis Court B,Outdoor,16:00,2,110000,220000,,,,,Selasa,2025-03,16:00
+501,456,2025-03-11,Pending,29,Tio Lestari,Rungkut,Badminton,Badminton Court B,Indoor,18:00,2,60000,138000,,,,,Selasa,2025-03,18:00
+721,656,2025-03-12,Completed,175,Fajar Hidayat,Darmo,Basketball,Basketball Court B,Indoor,21:00,4,160000,736000,QRIS,736000.0,Paid,,Rabu,2025-03,21:00
+991,904,2025-03-12,Completed,178,Kevin Saputra,Tenggilis,Badminton,Badminton Court C,Indoor,20:00,1,65000,75000,QRIS,75000.0,Paid,5.0,Rabu,2025-03,20:00
+1220,1112,2025-03-12,Completed,79,Indra Putri,Tenggilis,Badminton,Badminton Court C,Indoor,21:00,2,65000,150000,E-Wallet,150000.0,Paid,5.0,Rabu,2025-03,21:00
+31,28,2025-03-13,Completed,99,Indra Wibowo,Manyar,Basketball,Basketball Court A,Indoor,20:00,2,150000,345000,Cash,345000.0,Paid,5.0,Kamis,2025-03,20:00
+95,85,2025-03-13,Completed,122,Oscar Kusuma,Gubeng,Tennis,Tennis Court B,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,4.0,Kamis,2025-03,17:00
+315,284,2025-03-13,Completed,100,Nabila Ananda,Sukolilo,Tennis,Tennis Court B,Outdoor,19:00,1,110000,126000,QRIS,126000.0,Paid,5.0,Kamis,2025-03,19:00
+728,662,2025-03-13,Completed,158,Yasmin Putri,Rungkut,Tennis,Tennis Court C,Outdoor,15:00,3,110000,330000,E-Wallet,330000.0,Paid,,Kamis,2025-03,15:00
+1100,1004,2025-03-13,Completed,76,Tania Hidayat,Wonokromo,Badminton,Badminton Court A,Indoor,17:00,4,60000,276000,Bank Transfer,276000.0,Paid,,Kamis,2025-03,17:00
+1046,955,2025-03-14,Completed,153,Hana Setiawan,Sukolilo,Futsal,Futsal Court A,Indoor,11:00,1,180000,180000,E-Wallet,180000.0,Paid,,Jumat,2025-03,11:00
+75,65,2025-03-15,Completed,37,Putri Ananda,Wonokromo,Basketball,Basketball Court A,Indoor,15:00,2,150000,300000,Bank Transfer,300000.0,Paid,5.0,Sabtu,2025-03,15:00
+861,786,2025-03-15,Completed,170,Vina Pratama,Keputih,Tennis,Tennis Court A,Outdoor,18:00,2,100000,230000,QRIS,230000.0,Paid,1.0,Sabtu,2025-03,18:00
+176,156,2025-03-16,Completed,133,Yusuf Permata,Manyar,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,Bank Transfer,564000.0,Paid,,Minggu,2025-03,18:00
+177,156,2025-03-16,Completed,133,Yusuf Permata,Manyar,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,Bank Transfer,564000.0,Paid,,Minggu,2025-03,18:00
+246,222,2025-03-16,Completed,115,Niken Hidayat,Wonokromo,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,E-Wallet,207000.0,Paid,4.0,Minggu,2025-03,20:00
+305,274,2025-03-16,Completed,165,Farah Siregar,Kertajaya,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,QRIS,414000.0,Paid,3.0,Minggu,2025-03,18:00
+358,326,2025-03-16,Completed,91,Joko Nugroho,Manyar,Futsal,Futsal Court B,Indoor,10:00,2,200000,400000,Cash,400000.0,Paid,,Minggu,2025-03,10:00
+44,40,2025-03-17,Completed,57,Kevin Kusuma,Manyar,Badminton,Badminton Court A,Indoor,19:00,2,60000,138000,QRIS,322000.0,Paid,5.0,Senin,2025-03,19:00
+45,40,2025-03-17,Completed,57,Kevin Kusuma,Manyar,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,QRIS,322000.0,Paid,,Senin,2025-03,19:00
+536,489,2025-03-17,Cancelled,95,Kevin Maulana,Rungkut,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,,,,,Senin,2025-03,18:00
+149,133,2025-03-18,Pending,102,Bima Kusuma,Mulyorejo,Tennis,Tennis Court A,Outdoor,17:00,3,100000,345000,,,,,Selasa,2025-03,17:00
+440,401,2025-03-18,Completed,97,Galih Ananda,Kertajaya,Tennis,Tennis Court A,Outdoor,17:00,3,100000,345000,QRIS,345000.0,Paid,4.0,Selasa,2025-03,17:00
+615,563,2025-03-18,Completed,90,Eka Hartono,Sukolilo,Tennis,Tennis Court A,Outdoor,18:00,2,100000,230000,Cash,230000.0,Paid,5.0,Selasa,2025-03,18:00
+757,690,2025-03-18,Completed,3,Niken Wibowo,Keputih,Tennis,Tennis Court B,Outdoor,15:00,1,110000,110000,QRIS,110000.0,Paid,,Selasa,2025-03,15:00
+1084,989,2025-03-18,Completed,83,Alya Hidayat,Manyar,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,QRIS,368000.0,Paid,5.0,Selasa,2025-03,17:00
+1249,1137,2025-03-18,Cancelled,87,Bima Setiawan,Manyar,Tennis,Tennis Court A,Outdoor,14:00,1,100000,100000,,,,,Selasa,2025-03,14:00
+1257,1145,2025-03-18,Pending,104,Yusuf Putri,Darmo,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,,,,,Selasa,2025-03,18:00
+180,159,2025-03-19,Completed,174,Clara Nugroho,Mulyorejo,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,E-Wallet,126000.0,Paid,4.0,Rabu,2025-03,18:00
+1201,1096,2025-03-19,Cancelled,176,Nadia Lestari,Darmo,Basketball,Basketball Court B,Indoor,08:00,2,160000,320000,,,,,Rabu,2025-03,08:00
+1218,1110,2025-03-20,Completed,160,Tio Putri,Wonokromo,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,Bank Transfer,414000.0,Paid,,Kamis,2025-03,18:00
+1312,1195,2025-03-20,Pending,174,Clara Nugroho,Mulyorejo,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,,,,,Kamis,2025-03,18:00
+155,138,2025-03-21,Completed,138,Wahyu Putri,Manyar,Basketball,Basketball Court B,Indoor,19:00,2,160000,368000,E-Wallet,368000.0,Paid,5.0,Jumat,2025-03,19:00
+708,644,2025-03-21,Completed,99,Indra Wibowo,Manyar,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,E-Wallet,69000.0,Paid,,Jumat,2025-03,20:00
+48,42,2025-03-22,Completed,115,Niken Hidayat,Wonokromo,Badminton,Badminton Court B,Indoor,17:00,1,60000,69000,E-Wallet,69000.0,Paid,4.0,Sabtu,2025-03,17:00
+306,275,2025-03-22,Completed,73,Putri Wibowo,Darmo,Tennis,Tennis Court C,Outdoor,11:00,2,110000,220000,Cash,220000.0,Paid,4.0,Sabtu,2025-03,11:00
+400,364,2025-03-22,Completed,66,Alya Kusuma,Rungkut,Futsal,Futsal Court B,Indoor,19:00,3,200000,690000,QRIS,690000.0,Paid,,Sabtu,2025-03,19:00
+698,635,2025-03-22,Cancelled,139,Dimas Ananda,Wonokromo,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,,,,,Sabtu,2025-03,18:00
+761,694,2025-03-22,Completed,178,Kevin Saputra,Tenggilis,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,E-Wallet,414000.0,Paid,5.0,Sabtu,2025-03,18:00
+1111,1015,2025-03-22,Completed,84,Laras Wijaya,Manyar,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,Bank Transfer,75000.0,Paid,3.0,Sabtu,2025-03,19:00
+77,67,2025-03-23,Completed,105,Vina Permata,Wonokromo,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,QRIS,138000.0,Paid,,Minggu,2025-03,20:00
+493,449,2025-03-23,Completed,48,Dimas Wibowo,Darmo,Basketball,Basketball Court B,Indoor,09:00,1,160000,160000,Bank Transfer,160000.0,Paid,4.0,Minggu,2025-03,09:00
+624,571,2025-03-23,Completed,166,Vina Setiawan,Manyar,Tennis,Tennis Court C,Outdoor,13:00,2,110000,220000,E-Wallet,220000.0,Paid,4.0,Minggu,2025-03,13:00
+1089,994,2025-03-23,Completed,165,Farah Siregar,Kertajaya,Tennis,Tennis Court A,Outdoor,20:00,1,100000,115000,Bank Transfer,115000.0,Paid,,Minggu,2025-03,20:00
+1103,1007,2025-03-23,Cancelled,59,Yasmin Wibowo,Rungkut,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,,,,,Minggu,2025-03,20:00
+375,341,2025-03-24,Completed,174,Clara Nugroho,Mulyorejo,Badminton,Badminton Court A,Indoor,18:00,3,60000,207000,Bank Transfer,207000.0,Refunded,4.0,Senin,2025-03,18:00
+459,419,2025-03-24,Completed,28,Nabila Wibowo,Mulyorejo,Basketball,Basketball Court A,Indoor,07:00,1,150000,150000,Cash,470000.0,Paid,4.0,Senin,2025-03,07:00
+460,419,2025-03-24,Completed,28,Nabila Wibowo,Mulyorejo,Basketball,Basketball Court B,Indoor,07:00,2,160000,320000,Cash,470000.0,Paid,,Senin,2025-03,07:00
+545,498,2025-03-24,Completed,75,Alya Siregar,Manyar,Badminton,Badminton Court D,Indoor,19:00,2,65000,150000,QRIS,150000.0,Paid,4.0,Senin,2025-03,19:00
+804,732,2025-03-25,Pending,152,Tio Hidayat,Rungkut,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,,,,,Selasa,2025-03,20:00
+398,362,2025-03-26,Completed,1,Eka Siregar,Mulyorejo,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,QRIS,253000.0,Paid,4.0,Rabu,2025-03,18:00
+529,482,2025-03-26,Completed,53,Indra Wibowo,Darmo,Badminton,Badminton Court C,Indoor,09:00,4,65000,260000,QRIS,260000.0,Paid,4.0,Rabu,2025-03,09:00
+1109,1013,2025-03-26,Pending,117,Alya Pratama,Rungkut,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,,,,,Rabu,2025-03,20:00
+565,517,2025-03-27,Completed,10,Tania Wibowo,Tenggilis,Badminton,Badminton Court C,Indoor,16:00,2,65000,130000,QRIS,130000.0,Paid,5.0,Kamis,2025-03,16:00
+1073,978,2025-03-27,Completed,28,Nabila Wibowo,Mulyorejo,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,QRIS,230000.0,Paid,5.0,Kamis,2025-03,18:00
+618,566,2025-03-28,Completed,84,Laras Wijaya,Manyar,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,E-Wallet,414000.0,Paid,1.0,Jumat,2025-03,18:00
+803,731,2025-03-28,Completed,68,Tio Setiawan,Kertajaya,Tennis,Tennis Court A,Outdoor,21:00,1,100000,115000,Bank Transfer,115000.0,Paid,4.0,Jumat,2025-03,21:00
+834,761,2025-03-28,Cancelled,60,Fajar Siregar,Manyar,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,,,,,Jumat,2025-03,17:00
+935,854,2025-03-28,Completed,106,Reza Santoso,Kertajaya,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,E-Wallet,172000.0,Paid,3.0,Jumat,2025-03,18:00
+407,371,2025-03-29,Completed,166,Vina Setiawan,Manyar,Futsal,Futsal Court A,Indoor,07:00,2,180000,360000,E-Wallet,360000.0,Paid,2.0,Sabtu,2025-03,07:00
+496,452,2025-03-29,Completed,130,Gita Siregar,Kertajaya,Badminton,Badminton Court A,Indoor,21:00,3,60000,207000,QRIS,207000.0,Paid,,Sabtu,2025-03,21:00
+557,509,2025-03-29,Completed,70,Niken Hartono,Gubeng,Tennis,Tennis Court D,Outdoor,17:00,2,120000,276000,Bank Transfer,276000.0,Paid,4.0,Sabtu,2025-03,17:00
+1018,929,2025-03-29,Completed,167,Bima Siregar,Gubeng,Tennis,Tennis Court B,Outdoor,09:00,1,110000,110000,QRIS,110000.0,Paid,5.0,Sabtu,2025-03,09:00
+1310,1193,2025-03-29,Completed,64,Tania Hartono,Manyar,Badminton,Badminton Court D,Indoor,11:00,1,65000,65000,E-Wallet,65000.0,Paid,3.0,Sabtu,2025-03,11:00
+339,307,2025-03-30,Cancelled,175,Fajar Hidayat,Darmo,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,,,,,Minggu,2025-03,18:00
+1119,1022,2025-03-30,Completed,52,Galih Wibowo,Manyar,Basketball,Basketball Court B,Indoor,10:00,2,160000,320000,Bank Transfer,320000.0,Paid,3.0,Minggu,2025-03,10:00
+83,73,2025-03-31,Completed,81,Nabila Permata,Sukolilo,Tennis,Tennis Court D,Outdoor,17:00,1,120000,138000,E-Wallet,138000.0,Paid,5.0,Senin,2025-03,17:00
+438,399,2025-03-31,Cancelled,115,Niken Hidayat,Wonokromo,Futsal,Futsal Court A,Indoor,10:00,1,180000,180000,,,,,Senin,2025-03,10:00
+921,840,2025-03-31,Completed,39,Galih Permata,Wonokromo,Tennis,Tennis Court C,Outdoor,19:00,3,110000,379000,Bank Transfer,379000.0,Paid,,Senin,2025-03,19:00
+1023,934,2025-03-31,Pending,171,Vina Nugroho,Kertajaya,Basketball,Basketball Court B,Indoor,11:00,2,160000,320000,,,,,Senin,2025-03,11:00
+1169,1067,2025-03-31,Completed,74,Hana Wibowo,Sukolilo,Futsal,Futsal Court B,Indoor,17:00,2,200000,460000,E-Wallet,460000.0,Paid,,Senin,2025-03,17:00
+66,57,2025-04-01,Completed,107,Niken Lestari,Darmo,Tennis,Tennis Court D,Outdoor,17:00,2,120000,276000,QRIS,506000.0,Paid,4.0,Selasa,2025-04,17:00
+67,57,2025-04-01,Completed,107,Niken Lestari,Darmo,Tennis,Tennis Court A,Outdoor,17:00,2,100000,230000,QRIS,506000.0,Paid,,Selasa,2025-04,17:00
+667,608,2025-04-01,Pending,12,Kevin Hidayat,Gubeng,Basketball,Basketball Court A,Indoor,18:00,3,150000,517000,,,,,Selasa,2025-04,18:00
+668,608,2025-04-01,Pending,12,Kevin Hidayat,Gubeng,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,,,,,Selasa,2025-04,18:00
+736,669,2025-04-01,Completed,61,Yusuf Saputra,Sukolilo,Basketball,Basketball Court A,Indoor,14:00,1,150000,150000,Bank Transfer,150000.0,Paid,4.0,Selasa,2025-04,14:00
+264,238,2025-04-02,Completed,84,Laras Wijaya,Manyar,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,QRIS,172000.0,Paid,,Rabu,2025-04,18:00
+1250,1138,2025-04-02,Completed,60,Fajar Siregar,Manyar,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,Bank Transfer,75000.0,Paid,5.0,Rabu,2025-04,18:00
+1302,1186,2025-04-02,Completed,3,Niken Wibowo,Keputih,Basketball,Basketball Court B,Indoor,21:00,1,160000,184000,E-Wallet,184000.0,Paid,,Rabu,2025-04,21:00
+283,254,2025-04-03,Completed,153,Hana Setiawan,Sukolilo,Tennis,Tennis Court B,Outdoor,11:00,2,110000,220000,QRIS,220000.0,Paid,,Kamis,2025-04,11:00
+977,893,2025-04-03,Completed,76,Tania Hidayat,Wonokromo,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,QRIS,69000.0,Paid,,Kamis,2025-04,20:00
+1179,1075,2025-04-03,Completed,7,Gita Setiawan,Darmo,Tennis,Tennis Court A,Outdoor,19:00,4,100000,460000,Cash,460000.0,Paid,5.0,Kamis,2025-04,19:00
+6,6,2025-04-04,Completed,40,Indra Wijaya,Darmo,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,E-Wallet,184000.0,Paid,,Jumat,2025-04,19:00
+16,15,2025-04-04,Cancelled,74,Hana Wibowo,Sukolilo,Basketball,Basketball Court B,Indoor,21:00,1,160000,184000,,,,,Jumat,2025-04,21:00
+17,15,2025-04-04,Cancelled,74,Hana Wibowo,Sukolilo,Tennis,Tennis Court B,Outdoor,21:00,1,110000,126000,,,,,Jumat,2025-04,21:00
+1240,1128,2025-04-04,Completed,52,Galih Wibowo,Manyar,Tennis,Tennis Court B,Outdoor,10:00,1,110000,110000,Bank Transfer,110000.0,Paid,5.0,Jumat,2025-04,10:00
+427,389,2025-04-05,Completed,173,Alya Saputra,Rungkut,Badminton,Badminton Court B,Indoor,16:00,2,60000,120000,QRIS,120000.0,Paid,4.0,Sabtu,2025-04,16:00
+1216,1108,2025-04-05,Completed,155,Dimas Hidayat,Tenggilis,Tennis,Tennis Court A,Outdoor,10:00,1,100000,100000,Bank Transfer,100000.0,Paid,4.0,Sabtu,2025-04,10:00
+486,442,2025-04-06,Completed,155,Dimas Hidayat,Tenggilis,Badminton,Badminton Court A,Indoor,10:00,2,60000,120000,Bank Transfer,120000.0,Paid,2.0,Minggu,2025-04,10:00
+535,488,2025-04-06,Completed,102,Bima Kusuma,Mulyorejo,Badminton,Badminton Court A,Indoor,15:00,1,60000,60000,QRIS,60000.0,Paid,,Minggu,2025-04,15:00
+808,736,2025-04-06,Pending,88,Zaki Santoso,Darmo,Badminton,Badminton Court A,Indoor,15:00,2,60000,120000,,,,,Minggu,2025-04,15:00
+863,788,2025-04-06,Completed,46,Oscar Hartono,Rungkut,Badminton,Badminton Court A,Indoor,18:00,1,60000,69000,E-Wallet,69000.0,Paid,5.0,Minggu,2025-04,18:00
+758,691,2025-04-07,Completed,17,Zaki Wibowo,Kertajaya,Badminton,Badminton Court A,Indoor,17:00,1,60000,69000,E-Wallet,69000.0,Paid,5.0,Senin,2025-04,17:00
+827,754,2025-04-07,Completed,78,Laras Hartono,Manyar,Badminton,Badminton Court B,Indoor,13:00,1,60000,60000,Bank Transfer,60000.0,Paid,5.0,Senin,2025-04,13:00
+132,117,2025-04-08,Completed,128,Vina Lestari,Manyar,Basketball,Basketball Court B,Indoor,16:00,1,160000,160000,Bank Transfer,160000.0,Paid,2.0,Selasa,2025-04,16:00
+303,272,2025-04-08,Completed,128,Vina Lestari,Manyar,Badminton,Badminton Court D,Indoor,21:00,1,65000,75000,Bank Transfer,75000.0,Paid,3.0,Selasa,2025-04,21:00
+321,290,2025-04-08,Cancelled,80,Alya Hartono,Keputih,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,,,,,Selasa,2025-04,19:00
+384,349,2025-04-08,Cancelled,104,Yusuf Putri,Darmo,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,,,,,Selasa,2025-04,18:00
+385,349,2025-04-08,Cancelled,104,Yusuf Putri,Darmo,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,,,,,Selasa,2025-04,18:00
+532,485,2025-04-08,Completed,55,Zaki Setiawan,Gubeng,Tennis,Tennis Court A,Outdoor,11:00,1,100000,100000,Bank Transfer,100000.0,Paid,,Selasa,2025-04,11:00
+562,514,2025-04-08,Completed,61,Yusuf Saputra,Sukolilo,Tennis,Tennis Court B,Outdoor,08:00,3,110000,330000,E-Wallet,330000.0,Paid,,Selasa,2025-04,08:00
+751,684,2025-04-08,Completed,117,Alya Pratama,Rungkut,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,E-Wallet,69000.0,Paid,4.0,Selasa,2025-04,18:00
+788,718,2025-04-08,Completed,162,Rizky Siregar,Sukolilo,Tennis,Tennis Court A,Outdoor,07:00,3,100000,300000,QRIS,430000.0,Paid,,Selasa,2025-04,07:00
+789,718,2025-04-08,Completed,162,Rizky Siregar,Sukolilo,Badminton,Badminton Court C,Indoor,07:00,2,65000,130000,QRIS,430000.0,Paid,,Selasa,2025-04,07:00
+1149,1049,2025-04-08,Completed,34,Laras Wijaya,Wonokromo,Badminton,Badminton Court D,Indoor,14:00,2,65000,130000,QRIS,130000.0,Paid,3.0,Selasa,2025-04,14:00
+1243,1131,2025-04-08,Cancelled,1,Eka Siregar,Mulyorejo,Basketball,Basketball Court B,Indoor,07:00,1,160000,160000,,,,,Selasa,2025-04,07:00
+61,52,2025-04-09,Completed,72,Clara Wibowo,Kertajaya,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,Bank Transfer,207000.0,Paid,3.0,Rabu,2025-04,19:00
+714,649,2025-04-09,Pending,54,Bima Siregar,Kertajaya,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,,,,,Rabu,2025-04,19:00
+956,875,2025-04-09,Completed,87,Bima Setiawan,Manyar,Tennis,Tennis Court D,Outdoor,11:00,1,120000,120000,QRIS,120000.0,Paid,,Rabu,2025-04,11:00
+957,876,2025-04-09,Pending,142,Reza Lestari,Wonokromo,Badminton,Badminton Court D,Indoor,18:00,2,65000,150000,,,,,Rabu,2025-04,18:00
+209,187,2025-04-10,Completed,179,Wahyu Saputra,Keputih,Badminton,Badminton Court B,Indoor,11:00,1,60000,60000,E-Wallet,60000.0,Paid,4.0,Kamis,2025-04,11:00
+318,287,2025-04-10,Completed,82,Citra Wibowo,Keputih,Basketball,Basketball Court A,Indoor,11:00,2,150000,300000,QRIS,300000.0,Paid,1.0,Kamis,2025-04,11:00
+1306,1190,2025-04-10,Pending,10,Tania Wibowo,Tenggilis,Futsal,Futsal Court A,Indoor,14:00,1,180000,180000,,,,,Kamis,2025-04,14:00
+330,298,2025-04-11,Cancelled,38,Dewi Kusuma,Tenggilis,Badminton,Badminton Court B,Indoor,17:00,1,60000,69000,,,,,Jumat,2025-04,17:00
+37,33,2025-04-12,Completed,30,Wahyu Maulana,Gubeng,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,E-Wallet,138000.0,Paid,,Sabtu,2025-04,19:00
+352,320,2025-04-12,Completed,157,Aditya Putri,Mulyorejo,Badminton,Badminton Court B,Indoor,14:00,1,60000,60000,Bank Transfer,60000.0,Paid,5.0,Sabtu,2025-04,14:00
+1008,920,2025-04-12,Completed,56,Fajar Lestari,Rungkut,Basketball,Basketball Court A,Indoor,14:00,2,150000,300000,E-Wallet,300000.0,Paid,4.0,Sabtu,2025-04,14:00
+109,97,2025-04-13,Completed,61,Yusuf Saputra,Sukolilo,Tennis,Tennis Court B,Outdoor,20:00,2,110000,253000,Cash,253000.0,Paid,,Minggu,2025-04,20:00
+1242,1130,2025-04-13,Completed,24,Maya Siregar,Wonokromo,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,QRIS,126000.0,Paid,5.0,Minggu,2025-04,20:00
+65,56,2025-04-14,Completed,34,Laras Wijaya,Wonokromo,Badminton,Badminton Court B,Indoor,08:00,2,60000,120000,QRIS,120000.0,Paid,,Senin,2025-04,08:00
+151,135,2025-04-14,Completed,93,Farah Nugroho,Rungkut,Tennis,Tennis Court A,Outdoor,19:00,1,100000,115000,Bank Transfer,115000.0,Paid,5.0,Senin,2025-04,19:00
+1126,1029,2025-04-14,Completed,11,Dimas Hidayat,Gubeng,Badminton,Badminton Court C,Indoor,13:00,1,65000,65000,E-Wallet,185000.0,Paid,4.0,Senin,2025-04,13:00
+1127,1029,2025-04-14,Completed,11,Dimas Hidayat,Gubeng,Badminton,Badminton Court B,Indoor,13:00,2,60000,120000,E-Wallet,185000.0,Paid,,Senin,2025-04,13:00
+1155,1055,2025-04-14,Completed,72,Clara Wibowo,Kertajaya,Tennis,Tennis Court B,Outdoor,21:00,1,110000,126000,QRIS,126000.0,Paid,5.0,Senin,2025-04,21:00
+1215,1107,2025-04-14,Completed,149,Zaki Santoso,Wonokromo,Tennis,Tennis Court D,Outdoor,20:00,2,120000,276000,QRIS,276000.0,Paid,4.0,Senin,2025-04,20:00
+248,224,2025-04-15,Completed,124,Wahyu Wibowo,Manyar,Badminton,Badminton Court A,Indoor,17:00,2,60000,138000,QRIS,391000.0,Paid,4.0,Selasa,2025-04,17:00
+249,224,2025-04-15,Completed,124,Wahyu Wibowo,Manyar,Tennis,Tennis Court C,Outdoor,17:00,2,110000,253000,QRIS,391000.0,Paid,,Selasa,2025-04,17:00
+919,838,2025-04-16,Completed,176,Nadia Lestari,Darmo,Badminton,Badminton Court B,Indoor,14:00,2,60000,120000,Bank Transfer,120000.0,Paid,,Rabu,2025-04,14:00
+996,909,2025-04-16,Cancelled,75,Alya Siregar,Manyar,Badminton,Badminton Court D,Indoor,20:00,1,65000,75000,,,,,Rabu,2025-04,20:00
+1107,1011,2025-04-16,Completed,179,Wahyu Saputra,Keputih,Tennis,Tennis Court B,Outdoor,16:00,2,110000,220000,E-Wallet,220000.0,Paid,5.0,Rabu,2025-04,16:00
+322,291,2025-04-17,Completed,105,Vina Permata,Wonokromo,Tennis,Tennis Court D,Outdoor,16:00,1,120000,120000,E-Wallet,120000.0,Paid,5.0,Kamis,2025-04,16:00
+572,524,2025-04-17,Completed,32,Gita Wibowo,Tenggilis,Tennis,Tennis Court A,Outdoor,15:00,2,100000,200000,Cash,200000.0,Paid,5.0,Kamis,2025-04,15:00
+854,781,2025-04-17,Completed,154,Farah Nugroho,Sukolilo,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,Bank Transfer,207000.0,Paid,4.0,Kamis,2025-04,20:00
+253,227,2025-04-18,Completed,54,Bima Siregar,Kertajaya,Badminton,Badminton Court A,Indoor,14:00,3,60000,180000,QRIS,180000.0,Paid,5.0,Jumat,2025-04,14:00
+1106,1010,2025-04-18,Completed,116,Salsa Hidayat,Manyar,Basketball,Basketball Court A,Indoor,17:00,1,150000,172000,E-Wallet,172000.0,Paid,5.0,Jumat,2025-04,17:00
+1163,1061,2025-04-18,Completed,10,Tania Wibowo,Tenggilis,Tennis,Tennis Court D,Outdoor,13:00,2,120000,240000,QRIS,240000.0,Paid,4.0,Jumat,2025-04,13:00
+1172,1070,2025-04-18,Completed,49,Niken Permata,Darmo,Badminton,Badminton Court D,Indoor,10:00,1,65000,65000,QRIS,65000.0,Paid,4.0,Jumat,2025-04,10:00
+1209,1103,2025-04-18,Completed,86,Wahyu Hartono,Mulyorejo,Tennis,Tennis Court D,Outdoor,08:00,1,120000,120000,E-Wallet,440000.0,Paid,3.0,Jumat,2025-04,08:00
+1210,1103,2025-04-18,Completed,86,Wahyu Hartono,Mulyorejo,Basketball,Basketball Court B,Indoor,08:00,2,160000,320000,E-Wallet,440000.0,Paid,,Jumat,2025-04,08:00
+13,13,2025-04-19,Completed,93,Farah Nugroho,Rungkut,Tennis,Tennis Court D,Outdoor,11:00,1,120000,120000,Cash,120000.0,Paid,,Sabtu,2025-04,11:00
+374,340,2025-04-19,Completed,127,Bagas Setiawan,Sukolilo,Tennis,Tennis Court D,Outdoor,09:00,3,120000,360000,QRIS,360000.0,Refunded,,Sabtu,2025-04,09:00
+543,496,2025-04-19,Completed,130,Gita Siregar,Kertajaya,Futsal,Futsal Court B,Indoor,19:00,1,200000,230000,Cash,230000.0,Paid,,Sabtu,2025-04,19:00
+596,546,2025-04-19,Completed,128,Vina Lestari,Manyar,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,E-Wallet,253000.0,Paid,,Sabtu,2025-04,18:00
+597,546,2025-04-19,Completed,128,Vina Lestari,Manyar,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,E-Wallet,253000.0,Paid,,Sabtu,2025-04,18:00
+35,32,2025-04-20,Completed,28,Nabila Wibowo,Mulyorejo,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,QRIS,345000.0,Paid,3.0,Minggu,2025-04,18:00
+36,32,2025-04-20,Completed,28,Nabila Wibowo,Mulyorejo,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,QRIS,345000.0,Paid,,Minggu,2025-04,18:00
+138,123,2025-04-20,Completed,9,Bima Hartono,Wonokromo,Badminton,Badminton Court A,Indoor,14:00,2,60000,120000,Cash,120000.0,Paid,4.0,Minggu,2025-04,14:00
+787,717,2025-04-20,Completed,28,Nabila Wibowo,Mulyorejo,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,E-Wallet,276000.0,Paid,,Minggu,2025-04,18:00
+941,860,2025-04-20,Completed,129,Putri Wijaya,Wonokromo,Futsal,Futsal Court B,Indoor,11:00,1,200000,200000,E-Wallet,200000.0,Paid,,Minggu,2025-04,11:00
+964,882,2025-04-20,Completed,19,Bima Hartono,Keputih,Basketball,Basketball Court B,Indoor,08:00,1,160000,160000,Bank Transfer,160000.0,Paid,3.0,Minggu,2025-04,08:00
+1293,1178,2025-04-20,Completed,104,Yusuf Putri,Darmo,Badminton,Badminton Court C,Indoor,16:00,1,65000,65000,QRIS,65000.0,Paid,4.0,Minggu,2025-04,16:00
+52,46,2025-04-21,Completed,39,Galih Permata,Wonokromo,Tennis,Tennis Court C,Outdoor,16:00,1,110000,110000,Bank Transfer,510000.0,Paid,,Senin,2025-04,16:00
+53,46,2025-04-21,Completed,39,Galih Permata,Wonokromo,Futsal,Futsal Court B,Indoor,16:00,2,200000,400000,Bank Transfer,510000.0,Paid,,Senin,2025-04,16:00
+907,826,2025-04-21,Completed,105,Vina Permata,Wonokromo,Badminton,Badminton Court A,Indoor,16:00,1,60000,60000,QRIS,60000.0,Paid,,Senin,2025-04,16:00
+929,848,2025-04-21,Completed,159,Aditya Pratama,Manyar,Tennis,Tennis Court B,Outdoor,20:00,2,110000,253000,E-Wallet,253000.0,Paid,,Senin,2025-04,20:00
+57,50,2025-04-22,Completed,103,Farah Hidayat,Wonokromo,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,QRIS,144000.0,Paid,5.0,Selasa,2025-04,19:00
+58,50,2025-04-22,Completed,103,Farah Hidayat,Wonokromo,Badminton,Badminton Court A,Indoor,19:00,1,60000,69000,QRIS,144000.0,Paid,,Selasa,2025-04,19:00
+979,895,2025-04-22,Pending,57,Kevin Kusuma,Manyar,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,,,,,Selasa,2025-04,20:00
+125,110,2025-04-23,Completed,155,Dimas Hidayat,Tenggilis,Badminton,Badminton Court B,Indoor,20:00,3,60000,207000,QRIS,207000.0,Paid,,Rabu,2025-04,20:00
+1308,1192,2025-04-23,Cancelled,72,Clara Wibowo,Kertajaya,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,,,,,Rabu,2025-04,17:00
+1309,1192,2025-04-23,Cancelled,72,Clara Wibowo,Kertajaya,Badminton,Badminton Court D,Indoor,17:00,1,65000,75000,,,,,Rabu,2025-04,17:00
+343,311,2025-04-24,Completed,167,Bima Siregar,Gubeng,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,QRIS,207000.0,Paid,5.0,Kamis,2025-04,19:00
+864,789,2025-04-24,Cancelled,158,Yasmin Putri,Rungkut,Badminton,Badminton Court D,Indoor,18:00,1,65000,75000,,,,,Kamis,2025-04,18:00
+865,789,2025-04-24,Cancelled,158,Yasmin Putri,Rungkut,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,,,,,Kamis,2025-04,18:00
+963,881,2025-04-24,Cancelled,130,Gita Siregar,Kertajaya,Basketball,Basketball Court B,Indoor,17:00,1,160000,184000,,,,,Kamis,2025-04,17:00
+217,195,2025-04-25,Completed,116,Salsa Hidayat,Manyar,Tennis,Tennis Court D,Outdoor,21:00,1,120000,138000,QRIS,138000.0,Paid,5.0,Jumat,2025-04,21:00
+704,641,2025-04-25,Completed,108,Reza Setiawan,Kertajaya,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,QRIS,282000.0,Paid,,Jumat,2025-04,18:00
+705,641,2025-04-25,Completed,108,Reza Setiawan,Kertajaya,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,QRIS,282000.0,Paid,,Jumat,2025-04,18:00
+819,747,2025-04-25,Completed,130,Gita Siregar,Kertajaya,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,QRIS,322000.0,Paid,,Jumat,2025-04,18:00
+820,747,2025-04-25,Completed,130,Gita Siregar,Kertajaya,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,QRIS,322000.0,Paid,,Jumat,2025-04,18:00
+1121,1024,2025-04-25,Pending,111,Reza Hartono,Tenggilis,Badminton,Badminton Court B,Indoor,20:00,3,60000,207000,,,,,Jumat,2025-04,20:00
+631,578,2025-04-26,Completed,111,Reza Hartono,Tenggilis,Basketball,Basketball Court B,Indoor,08:00,1,160000,160000,E-Wallet,160000.0,Paid,,Sabtu,2025-04,08:00
+655,597,2025-04-26,Completed,118,Maya Saputra,Gubeng,Futsal,Futsal Court B,Indoor,21:00,1,200000,230000,QRIS,230000.0,Paid,,Sabtu,2025-04,21:00
+722,657,2025-04-26,Cancelled,173,Alya Saputra,Rungkut,Basketball,Basketball Court B,Indoor,20:00,2,160000,368000,,,,,Sabtu,2025-04,20:00
+810,738,2025-04-26,Completed,143,Aditya Saputra,Tenggilis,Basketball,Basketball Court B,Indoor,18:00,2,160000,368000,Bank Transfer,368000.0,Paid,4.0,Sabtu,2025-04,18:00
+917,836,2025-04-26,Completed,15,Galih Siregar,Rungkut,Tennis,Tennis Court C,Outdoor,09:00,1,110000,110000,E-Wallet,110000.0,Paid,3.0,Sabtu,2025-04,09:00
+1238,1126,2025-04-26,Completed,131,Hana Wijaya,Darmo,Tennis,Tennis Court A,Outdoor,10:00,2,100000,200000,Bank Transfer,200000.0,Paid,4.0,Sabtu,2025-04,10:00
+357,325,2025-04-27,Completed,171,Vina Nugroho,Kertajaya,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,QRIS,138000.0,Paid,3.0,Minggu,2025-04,19:00
+489,445,2025-04-27,Completed,26,Maya Putri,Kertajaya,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,E-Wallet,207000.0,Paid,,Minggu,2025-04,20:00
+1055,962,2025-04-27,Cancelled,44,Vina Setiawan,Wonokromo,Tennis,Tennis Court B,Outdoor,19:00,2,110000,253000,,,,,Minggu,2025-04,19:00
+1056,962,2025-04-27,Cancelled,44,Vina Setiawan,Wonokromo,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,,,,,Minggu,2025-04,19:00
+386,350,2025-04-28,Completed,6,Eka Wibowo,Tenggilis,Tennis,Tennis Court D,Outdoor,20:00,2,120000,276000,E-Wallet,276000.0,Paid,,Senin,2025-04,20:00
+395,359,2025-04-28,Completed,63,Bima Siregar,Darmo,Basketball,Basketball Court A,Indoor,17:00,1,150000,172000,QRIS,172000.0,Paid,3.0,Senin,2025-04,17:00
+938,857,2025-04-28,Cancelled,131,Hana Wijaya,Darmo,Badminton,Badminton Court D,Indoor,17:00,1,65000,75000,,,,,Senin,2025-04,17:00
+999,912,2025-04-28,Completed,111,Reza Hartono,Tenggilis,Tennis,Tennis Court A,Outdoor,20:00,1,100000,115000,Cash,115000.0,Paid,,Senin,2025-04,20:00
+499,454,2025-04-29,Completed,136,Gita Santoso,Tenggilis,Futsal,Futsal Court A,Indoor,09:00,1,180000,180000,QRIS,180000.0,Paid,,Selasa,2025-04,09:00
+563,515,2025-04-29,Completed,178,Kevin Saputra,Tenggilis,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,Bank Transfer,138000.0,Paid,5.0,Selasa,2025-04,20:00
+852,779,2025-04-29,Completed,159,Aditya Pratama,Manyar,Tennis,Tennis Court B,Outdoor,07:00,1,110000,110000,QRIS,110000.0,Refunded,,Selasa,2025-04,07:00
+8,8,2025-04-30,Completed,155,Dimas Hidayat,Tenggilis,Tennis,Tennis Court C,Outdoor,17:00,2,110000,253000,QRIS,253000.0,Paid,4.0,Rabu,2025-04,17:00
+139,124,2025-04-30,Pending,154,Farah Nugroho,Sukolilo,Tennis,Tennis Court B,Outdoor,07:00,2,110000,220000,,,,,Rabu,2025-04,07:00
+140,124,2025-04-30,Pending,154,Farah Nugroho,Sukolilo,Futsal,Futsal Court B,Indoor,07:00,2,200000,400000,,,,,Rabu,2025-04,07:00
+349,317,2025-04-30,Completed,48,Dimas Wibowo,Darmo,Basketball,Basketball Court A,Indoor,16:00,1,150000,150000,QRIS,150000.0,Paid,3.0,Rabu,2025-04,16:00
+797,726,2025-04-30,Completed,49,Niken Permata,Darmo,Badminton,Badminton Court B,Indoor,13:00,3,60000,180000,Bank Transfer,180000.0,Paid,5.0,Rabu,2025-04,13:00
+1291,1176,2025-04-30,Completed,150,Rafi Setiawan,Kertajaya,Basketball,Basketball Court A,Indoor,21:00,1,150000,172000,Bank Transfer,172000.0,Paid,,Rabu,2025-04,21:00
+575,527,2025-05-01,Completed,64,Tania Hartono,Manyar,Tennis,Tennis Court C,Outdoor,07:00,1,110000,110000,QRIS,270000.0,Paid,,Kamis,2025-05,07:00
+576,527,2025-05-01,Completed,64,Tania Hartono,Manyar,Basketball,Basketball Court B,Indoor,07:00,1,160000,160000,QRIS,270000.0,Paid,,Kamis,2025-05,07:00
+639,585,2025-05-01,Completed,76,Tania Hidayat,Wonokromo,Tennis,Tennis Court C,Outdoor,15:00,1,110000,110000,E-Wallet,110000.0,Paid,,Kamis,2025-05,15:00
+754,687,2025-05-01,Completed,6,Eka Wibowo,Tenggilis,Badminton,Badminton Court C,Indoor,17:00,3,65000,224000,E-Wallet,224000.0,Paid,5.0,Kamis,2025-05,17:00
+1062,967,2025-05-01,Completed,73,Putri Wibowo,Darmo,Tennis,Tennis Court C,Outdoor,09:00,3,110000,330000,QRIS,330000.0,Paid,,Kamis,2025-05,09:00
+658,600,2025-05-02,Pending,47,Nadia Santoso,Tenggilis,Futsal,Futsal Court B,Indoor,14:00,1,200000,200000,,,,,Jumat,2025-05,14:00
+718,653,2025-05-02,Completed,162,Rizky Siregar,Sukolilo,Badminton,Badminton Court C,Indoor,11:00,1,65000,65000,QRIS,65000.0,Paid,1.0,Jumat,2025-05,11:00
+985,901,2025-05-02,Completed,174,Clara Nugroho,Mulyorejo,Tennis,Tennis Court C,Outdoor,10:00,1,110000,110000,Cash,210000.0,Paid,,Jumat,2025-05,10:00
+986,901,2025-05-02,Completed,174,Clara Nugroho,Mulyorejo,Tennis,Tennis Court A,Outdoor,10:00,1,100000,100000,Cash,210000.0,Paid,,Jumat,2025-05,10:00
+1028,938,2025-05-02,Completed,49,Niken Permata,Darmo,Tennis,Tennis Court D,Outdoor,10:00,1,120000,120000,E-Wallet,120000.0,Paid,3.0,Jumat,2025-05,10:00
+523,477,2025-05-03,Completed,15,Galih Siregar,Rungkut,Basketball,Basketball Court A,Indoor,08:00,2,150000,300000,Bank Transfer,300000.0,Paid,,Sabtu,2025-05,08:00
+1122,1025,2025-05-03,Completed,27,Zaki Wijaya,Keputih,Badminton,Badminton Court C,Indoor,21:00,2,65000,150000,QRIS,150000.0,Paid,2.0,Sabtu,2025-05,21:00
+1279,1165,2025-05-03,Completed,105,Vina Permata,Wonokromo,Tennis,Tennis Court A,Outdoor,14:00,2,100000,200000,QRIS,200000.0,Paid,5.0,Sabtu,2025-05,14:00
+134,119,2025-05-04,Completed,69,Nadia Hartono,Gubeng,Badminton,Badminton Court A,Indoor,17:00,1,60000,69000,QRIS,69000.0,Paid,2.0,Minggu,2025-05,17:00
+942,861,2025-05-04,Completed,12,Kevin Hidayat,Gubeng,Tennis,Tennis Court C,Outdoor,20:00,2,110000,253000,QRIS,253000.0,Paid,,Minggu,2025-05,20:00
+404,368,2025-05-05,Completed,42,Hana Wijaya,Darmo,Tennis,Tennis Court C,Outdoor,16:00,2,110000,220000,E-Wallet,220000.0,Paid,4.0,Senin,2025-05,16:00
+464,422,2025-05-05,Completed,100,Nabila Ananda,Sukolilo,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,E-Wallet,184000.0,Refunded,3.0,Senin,2025-05,19:00
+692,630,2025-05-05,Pending,103,Farah Hidayat,Wonokromo,Basketball,Basketball Court A,Indoor,20:00,2,150000,345000,,,,,Senin,2025-05,20:00
+1151,1051,2025-05-05,Completed,97,Galih Ananda,Kertajaya,Tennis,Tennis Court A,Outdoor,21:00,1,100000,115000,E-Wallet,115000.0,Refunded,4.0,Senin,2025-05,21:00
+14,14,2025-05-06,Completed,157,Aditya Putri,Mulyorejo,Tennis,Tennis Court C,Outdoor,19:00,2,110000,253000,Cash,713000.0,Paid,4.0,Selasa,2025-05,19:00
+15,14,2025-05-06,Completed,157,Aditya Putri,Mulyorejo,Futsal,Futsal Court B,Indoor,19:00,2,200000,460000,Cash,713000.0,Paid,,Selasa,2025-05,19:00
+610,558,2025-05-06,Completed,159,Aditya Pratama,Manyar,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,E-Wallet,207000.0,Paid,4.0,Selasa,2025-05,19:00
+691,629,2025-05-06,Completed,47,Nadia Santoso,Tenggilis,Tennis,Tennis Court A,Outdoor,18:00,2,100000,230000,QRIS,230000.0,Paid,2.0,Selasa,2025-05,18:00
+829,756,2025-05-06,Completed,122,Oscar Kusuma,Gubeng,Tennis,Tennis Court A,Outdoor,14:00,2,100000,200000,E-Wallet,200000.0,Paid,4.0,Selasa,2025-05,14:00
+372,338,2025-05-07,Cancelled,106,Reza Santoso,Kertajaya,Basketball,Basketball Court A,Indoor,21:00,2,150000,345000,,,,,Rabu,2025-05,21:00
+390,354,2025-05-07,Completed,104,Yusuf Putri,Darmo,Tennis,Tennis Court B,Outdoor,19:00,2,110000,253000,QRIS,253000.0,Paid,5.0,Rabu,2025-05,19:00
+402,366,2025-05-07,Completed,13,Nabila Hartono,Sukolilo,Basketball,Basketball Court B,Indoor,20:00,1,160000,184000,QRIS,184000.0,Paid,4.0,Rabu,2025-05,20:00
+845,772,2025-05-07,Completed,27,Zaki Wijaya,Keputih,Badminton,Badminton Court A,Indoor,19:00,1,60000,69000,QRIS,69000.0,Paid,5.0,Rabu,2025-05,19:00
+1297,1181,2025-05-07,Completed,156,Putri Wijaya,Rungkut,Futsal,Futsal Court B,Indoor,10:00,2,200000,400000,E-Wallet,400000.0,Paid,4.0,Rabu,2025-05,10:00
+78,68,2025-05-08,Completed,75,Alya Siregar,Manyar,Futsal,Futsal Court B,Indoor,08:00,2,200000,400000,E-Wallet,400000.0,Paid,4.0,Kamis,2025-05,08:00
+669,609,2025-05-09,Cancelled,165,Farah Siregar,Kertajaya,Futsal,Futsal Court B,Indoor,17:00,2,200000,460000,,,,,Jumat,2025-05,17:00
+884,806,2025-05-09,Completed,157,Aditya Putri,Mulyorejo,Tennis,Tennis Court A,Outdoor,07:00,1,100000,100000,E-Wallet,100000.0,Paid,5.0,Jumat,2025-05,07:00
+1158,1057,2025-05-09,Completed,48,Dimas Wibowo,Darmo,Basketball,Basketball Court B,Indoor,19:00,2,160000,368000,Cash,368000.0,Paid,,Jumat,2025-05,19:00
+1271,1157,2025-05-09,Completed,60,Fajar Siregar,Manyar,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,E-Wallet,253000.0,Paid,,Jumat,2025-05,18:00
+22,20,2025-05-10,Completed,163,Bima Siregar,Rungkut,Futsal,Futsal Court A,Indoor,15:00,1,180000,180000,Bank Transfer,180000.0,Paid,4.0,Sabtu,2025-05,15:00
+213,191,2025-05-10,Completed,68,Tio Setiawan,Kertajaya,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,E-Wallet,150000.0,Paid,4.0,Sabtu,2025-05,19:00
+635,581,2025-05-10,Completed,98,Dimas Wijaya,Manyar,Basketball,Basketball Court B,Indoor,16:00,1,160000,160000,QRIS,160000.0,Paid,,Sabtu,2025-05,16:00
+823,750,2025-05-10,Completed,2,Clara Nugroho,Keputih,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,QRIS,138000.0,Paid,5.0,Sabtu,2025-05,19:00
+1147,1047,2025-05-10,Completed,23,Nabila Putri,Gubeng,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,Bank Transfer,172000.0,Paid,4.0,Sabtu,2025-05,18:00
+310,279,2025-05-11,Pending,47,Nadia Santoso,Tenggilis,Tennis,Tennis Court B,Outdoor,20:00,3,110000,379000,,,,,Minggu,2025-05,20:00
+484,440,2025-05-11,Pending,88,Zaki Santoso,Darmo,Tennis,Tennis Court D,Outdoor,21:00,1,120000,138000,,,,,Minggu,2025-05,21:00
+586,537,2025-05-11,Completed,11,Dimas Hidayat,Gubeng,Badminton,Badminton Court D,Indoor,16:00,4,65000,260000,Cash,260000.0,Paid,3.0,Minggu,2025-05,16:00
+1082,987,2025-05-11,Completed,160,Tio Putri,Wonokromo,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,QRIS,184000.0,Paid,4.0,Minggu,2025-05,19:00
+41,37,2025-05-12,Completed,142,Reza Lestari,Wonokromo,Tennis,Tennis Court D,Outdoor,10:00,1,120000,120000,QRIS,120000.0,Paid,4.0,Senin,2025-05,10:00
+147,131,2025-05-12,Completed,42,Hana Wijaya,Darmo,Tennis,Tennis Court B,Outdoor,20:00,1,110000,126000,Bank Transfer,126000.0,Paid,5.0,Senin,2025-05,20:00
+273,245,2025-05-12,Completed,178,Kevin Saputra,Tenggilis,Badminton,Badminton Court A,Indoor,17:00,1,60000,69000,Bank Transfer,69000.0,Paid,3.0,Senin,2025-05,17:00
+282,253,2025-05-12,Completed,173,Alya Saputra,Rungkut,Basketball,Basketball Court A,Indoor,16:00,2,150000,300000,E-Wallet,300000.0,Paid,3.0,Senin,2025-05,16:00
+649,593,2025-05-13,Completed,136,Gita Santoso,Tenggilis,Tennis,Tennis Court C,Outdoor,20:00,3,110000,379000,Cash,448000.0,Paid,,Selasa,2025-05,20:00
+650,593,2025-05-13,Completed,136,Gita Santoso,Tenggilis,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,Cash,448000.0,Paid,,Selasa,2025-05,20:00
+182,161,2025-05-14,Completed,17,Zaki Wibowo,Kertajaya,Tennis,Tennis Court C,Outdoor,17:00,2,110000,253000,E-Wallet,253000.0,Paid,3.0,Rabu,2025-05,17:00
+700,637,2025-05-14,Completed,71,Yusuf Pratama,Tenggilis,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,QRIS,138000.0,Paid,4.0,Rabu,2025-05,19:00
+948,867,2025-05-14,Completed,160,Tio Putri,Wonokromo,Futsal,Futsal Court B,Indoor,07:00,1,200000,200000,E-Wallet,200000.0,Paid,5.0,Rabu,2025-05,07:00
+1204,1098,2025-05-14,Completed,15,Galih Siregar,Rungkut,Badminton,Badminton Court D,Indoor,19:00,3,65000,224000,QRIS,224000.0,Paid,4.0,Rabu,2025-05,19:00
+1305,1189,2025-05-14,Completed,91,Joko Nugroho,Manyar,Tennis,Tennis Court D,Outdoor,20:00,3,120000,414000,Cash,414000.0,Paid,5.0,Rabu,2025-05,20:00
+166,147,2025-05-15,Completed,27,Zaki Wijaya,Keputih,Tennis,Tennis Court A,Outdoor,19:00,2,100000,230000,Cash,230000.0,Paid,,Kamis,2025-05,19:00
+335,303,2025-05-15,Pending,32,Gita Wibowo,Tenggilis,Badminton,Badminton Court C,Indoor,07:00,2,65000,130000,,,,,Kamis,2025-05,07:00
+862,787,2025-05-15,Pending,17,Zaki Wibowo,Kertajaya,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,,,,,Kamis,2025-05,18:00
+158,141,2025-05-16,Completed,14,Indra Permata,Rungkut,Futsal,Futsal Court A,Indoor,18:00,3,180000,621000,Bank Transfer,747000.0,Paid,4.0,Jumat,2025-05,18:00
+159,141,2025-05-16,Completed,14,Indra Permata,Rungkut,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,Bank Transfer,747000.0,Paid,,Jumat,2025-05,18:00
+208,186,2025-05-16,Completed,44,Vina Setiawan,Wonokromo,Tennis,Tennis Court C,Outdoor,09:00,2,110000,220000,Bank Transfer,220000.0,Paid,,Jumat,2025-05,09:00
+235,212,2025-05-16,Pending,81,Nabila Permata,Sukolilo,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,,,,,Jumat,2025-05,20:00
+275,247,2025-05-16,Completed,177,Eka Hartono,Wonokromo,Futsal,Futsal Court B,Indoor,09:00,2,200000,400000,E-Wallet,400000.0,Paid,4.0,Jumat,2025-05,09:00
+694,632,2025-05-16,Completed,85,Niken Setiawan,Kertajaya,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,Bank Transfer,230000.0,Paid,,Jumat,2025-05,18:00
+782,712,2025-05-16,Completed,52,Galih Wibowo,Manyar,Badminton,Badminton Court D,Indoor,14:00,2,65000,130000,QRIS,130000.0,Paid,,Jumat,2025-05,14:00
+876,799,2025-05-16,Completed,79,Indra Putri,Tenggilis,Futsal,Futsal Court A,Indoor,17:00,2,180000,414000,Bank Transfer,414000.0,Paid,5.0,Jumat,2025-05,17:00
+933,852,2025-05-16,Cancelled,168,Farah Lestari,Kertajaya,Badminton,Badminton Court A,Indoor,17:00,1,60000,69000,,,,,Jumat,2025-05,17:00
+173,154,2025-05-17,Completed,69,Nadia Hartono,Gubeng,Basketball,Basketball Court A,Indoor,19:00,1,150000,172000,QRIS,172000.0,Paid,4.0,Sabtu,2025-05,19:00
+345,313,2025-05-17,Pending,70,Niken Hartono,Gubeng,Basketball,Basketball Court A,Indoor,21:00,2,150000,345000,,,,,Sabtu,2025-05,21:00
+581,532,2025-05-17,Completed,147,Intan Nugroho,Tenggilis,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,E-Wallet,184000.0,Paid,4.0,Sabtu,2025-05,18:00
+588,539,2025-05-17,Completed,109,Reza Hartono,Kertajaya,Badminton,Badminton Court B,Indoor,18:00,3,60000,207000,QRIS,460000.0,Paid,,Sabtu,2025-05,18:00
+589,539,2025-05-17,Completed,109,Reza Hartono,Kertajaya,Tennis,Tennis Court B,Outdoor,18:00,2,110000,253000,QRIS,460000.0,Paid,,Sabtu,2025-05,18:00
+612,560,2025-05-17,Completed,138,Wahyu Putri,Manyar,Futsal,Futsal Court A,Indoor,16:00,1,180000,180000,QRIS,180000.0,Paid,3.0,Sabtu,2025-05,16:00
+743,676,2025-05-17,Completed,113,Dewi Santoso,Wonokromo,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,QRIS,138000.0,Paid,2.0,Sabtu,2025-05,19:00
+1167,1065,2025-05-17,Pending,159,Aditya Pratama,Manyar,Badminton,Badminton Court B,Indoor,17:00,2,60000,138000,,,,,Sabtu,2025-05,17:00
+1192,1087,2025-05-17,Completed,92,Zaki Wibowo,Rungkut,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,Cash,69000.0,Paid,5.0,Sabtu,2025-05,18:00
+765,697,2025-05-18,Cancelled,38,Dewi Kusuma,Tenggilis,Badminton,Badminton Court C,Indoor,08:00,1,65000,65000,,,,,Minggu,2025-05,08:00
+766,697,2025-05-18,Cancelled,38,Dewi Kusuma,Tenggilis,Basketball,Basketball Court B,Indoor,08:00,1,160000,160000,,,,,Minggu,2025-05,08:00
+778,709,2025-05-18,Completed,94,Putri Maulana,Sukolilo,Tennis,Tennis Court A,Outdoor,16:00,2,100000,200000,Bank Transfer,360000.0,Paid,,Minggu,2025-05,16:00
+779,709,2025-05-18,Completed,94,Putri Maulana,Sukolilo,Basketball,Basketball Court B,Indoor,16:00,1,160000,160000,Bank Transfer,360000.0,Paid,,Minggu,2025-05,16:00
+902,821,2025-05-19,Completed,159,Aditya Pratama,Manyar,Futsal,Futsal Court B,Indoor,16:00,2,200000,400000,E-Wallet,400000.0,Paid,,Senin,2025-05,16:00
+172,153,2025-05-20,Completed,179,Wahyu Saputra,Keputih,Futsal,Futsal Court A,Indoor,16:00,2,180000,360000,Cash,360000.0,Paid,4.0,Selasa,2025-05,16:00
+258,232,2025-05-20,Cancelled,22,Galih Maulana,Tenggilis,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,,,,,Selasa,2025-05,16:00
+468,425,2025-05-20,Completed,112,Hana Maulana,Darmo,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,Bank Transfer,75000.0,Paid,4.0,Selasa,2025-05,18:00
+492,448,2025-05-20,Completed,60,Fajar Siregar,Manyar,Futsal,Futsal Court A,Indoor,21:00,1,180000,207000,Bank Transfer,207000.0,Paid,,Selasa,2025-05,21:00
+608,556,2025-05-20,Completed,156,Putri Wijaya,Rungkut,Tennis,Tennis Court A,Outdoor,08:00,2,100000,200000,E-Wallet,200000.0,Paid,,Selasa,2025-05,08:00
+909,828,2025-05-20,Cancelled,14,Indra Permata,Rungkut,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,,,,,Selasa,2025-05,18:00
+1136,1037,2025-05-20,Completed,90,Eka Hartono,Sukolilo,Badminton,Badminton Court B,Indoor,09:00,1,60000,60000,E-Wallet,60000.0,Paid,5.0,Selasa,2025-05,09:00
+946,865,2025-05-21,Completed,69,Nadia Hartono,Gubeng,Badminton,Badminton Court A,Indoor,19:00,1,60000,69000,E-Wallet,69000.0,Paid,,Rabu,2025-05,19:00
+4,4,2025-05-22,Completed,131,Hana Wijaya,Darmo,Badminton,Badminton Court A,Indoor,18:00,2,60000,138000,QRIS,138000.0,Paid,1.0,Kamis,2025-05,18:00
+110,98,2025-05-22,Completed,177,Eka Hartono,Wonokromo,Basketball,Basketball Court B,Indoor,13:00,1,160000,160000,E-Wallet,160000.0,Paid,3.0,Kamis,2025-05,13:00
+1069,974,2025-05-22,Completed,49,Niken Permata,Darmo,Badminton,Badminton Court C,Indoor,07:00,2,65000,130000,QRIS,130000.0,Refunded,,Kamis,2025-05,07:00
+234,211,2025-05-23,Pending,37,Putri Ananda,Wonokromo,Badminton,Badminton Court B,Indoor,09:00,2,60000,120000,,,,,Jumat,2025-05,09:00
+437,398,2025-05-23,Completed,57,Kevin Kusuma,Manyar,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,E-Wallet,207000.0,Paid,5.0,Jumat,2025-05,18:00
+912,831,2025-05-23,Completed,30,Wahyu Maulana,Gubeng,Basketball,Basketball Court B,Indoor,08:00,1,160000,160000,Bank Transfer,160000.0,Paid,,Jumat,2025-05,08:00
+135,120,2025-05-24,Completed,11,Dimas Hidayat,Gubeng,Basketball,Basketball Court B,Indoor,08:00,2,160000,320000,E-Wallet,320000.0,Refunded,5.0,Sabtu,2025-05,08:00
+233,210,2025-05-24,Pending,57,Kevin Kusuma,Manyar,Futsal,Futsal Court A,Indoor,15:00,1,180000,180000,,,,,Sabtu,2025-05,15:00
+394,358,2025-05-24,Cancelled,92,Zaki Wibowo,Rungkut,Basketball,Basketball Court A,Indoor,16:00,2,150000,300000,,,,,Sabtu,2025-05,16:00
+500,455,2025-05-24,Completed,164,Tania Pratama,Tenggilis,Tennis,Tennis Court A,Outdoor,16:00,4,100000,400000,Bank Transfer,400000.0,Paid,3.0,Sabtu,2025-05,16:00
+627,574,2025-05-24,Completed,145,Reza Maulana,Keputih,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,QRIS,138000.0,Paid,,Sabtu,2025-05,20:00
+28,26,2025-05-25,Pending,65,Oscar Wibowo,Darmo,Tennis,Tennis Court D,Outdoor,07:00,2,120000,240000,,,,,Minggu,2025-05,07:00
+29,26,2025-05-25,Pending,65,Oscar Wibowo,Darmo,Basketball,Basketball Court B,Indoor,07:00,1,160000,160000,,,,,Minggu,2025-05,07:00
+207,185,2025-05-25,Completed,172,Kevin Maulana,Rungkut,Tennis,Tennis Court B,Outdoor,20:00,2,110000,253000,QRIS,253000.0,Paid,5.0,Minggu,2025-05,20:00
+319,288,2025-05-25,Cancelled,34,Laras Wijaya,Wonokromo,Tennis,Tennis Court A,Outdoor,15:00,1,100000,100000,,,,,Minggu,2025-05,15:00
+1053,960,2025-05-25,Completed,46,Oscar Hartono,Rungkut,Futsal,Futsal Court B,Indoor,18:00,2,200000,460000,Bank Transfer,460000.0,Paid,2.0,Minggu,2025-05,18:00
+422,385,2025-05-26,Completed,154,Farah Nugroho,Sukolilo,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,QRIS,276000.0,Paid,5.0,Senin,2025-05,20:00
+423,385,2025-05-26,Completed,154,Farah Nugroho,Sukolilo,Tennis,Tennis Court D,Outdoor,20:00,1,120000,138000,QRIS,276000.0,Paid,,Senin,2025-05,20:00
+860,785,2025-05-26,Completed,81,Nabila Permata,Sukolilo,Badminton,Badminton Court C,Indoor,15:00,1,65000,65000,Bank Transfer,65000.0,Paid,5.0,Senin,2025-05,15:00
+1110,1014,2025-05-26,Cancelled,127,Bagas Setiawan,Sukolilo,Tennis,Tennis Court B,Outdoor,19:00,2,110000,253000,,,,,Senin,2025-05,19:00
+580,531,2025-05-27,Completed,104,Yusuf Putri,Darmo,Badminton,Badminton Court B,Indoor,11:00,1,60000,60000,E-Wallet,60000.0,Paid,3.0,Selasa,2025-05,11:00
+309,278,2025-05-28,Completed,87,Bima Setiawan,Manyar,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,QRIS,138000.0,Paid,5.0,Rabu,2025-05,19:00
+585,536,2025-05-28,Completed,72,Clara Wibowo,Kertajaya,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,E-Wallet,138000.0,Paid,4.0,Rabu,2025-05,20:00
+604,552,2025-05-28,Completed,163,Bima Siregar,Rungkut,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,QRIS,75000.0,Paid,4.0,Rabu,2025-05,19:00
+830,757,2025-05-28,Completed,141,Putri Hidayat,Kertajaya,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,Cash,75000.0,Paid,,Rabu,2025-05,19:00
+874,798,2025-05-28,Completed,45,Laras Kusuma,Mulyorejo,Basketball,Basketball Court A,Indoor,21:00,2,150000,345000,Bank Transfer,552000.0,Paid,,Rabu,2025-05,21:00
+875,798,2025-05-28,Completed,45,Laras Kusuma,Mulyorejo,Futsal,Futsal Court A,Indoor,21:00,1,180000,207000,Bank Transfer,552000.0,Paid,,Rabu,2025-05,21:00
+111,99,2025-05-29,Completed,109,Reza Hartono,Kertajaya,Futsal,Futsal Court B,Indoor,17:00,3,200000,690000,Bank Transfer,690000.0,Paid,4.0,Kamis,2025-05,17:00
+701,638,2025-05-29,Cancelled,55,Zaki Setiawan,Gubeng,Tennis,Tennis Court A,Outdoor,20:00,2,100000,230000,,,,,Kamis,2025-05,20:00
+734,667,2025-05-29,Cancelled,90,Eka Hartono,Sukolilo,Badminton,Badminton Court B,Indoor,07:00,1,60000,60000,,,,,Kamis,2025-05,07:00
+750,683,2025-05-29,Completed,18,Reza Wijaya,Sukolilo,Badminton,Badminton Court D,Indoor,11:00,2,65000,130000,E-Wallet,130000.0,Paid,3.0,Kamis,2025-05,11:00
+1116,1019,2025-05-29,Pending,122,Oscar Kusuma,Gubeng,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,,,,,Kamis,2025-05,19:00
+1317,1200,2025-05-29,Completed,101,Farah Pratama,Manyar,Tennis,Tennis Court B,Outdoor,16:00,1,110000,110000,QRIS,110000.0,Paid,5.0,Kamis,2025-05,16:00
+551,503,2025-05-30,Completed,22,Galih Maulana,Tenggilis,Tennis,Tennis Court A,Outdoor,21:00,2,100000,230000,QRIS,230000.0,Paid,4.0,Jumat,2025-05,21:00
+112,100,2025-05-31,Cancelled,76,Tania Hidayat,Wonokromo,Badminton,Badminton Court D,Indoor,11:00,2,65000,130000,,,,,Sabtu,2025-05,11:00
+129,114,2025-05-31,Cancelled,39,Galih Permata,Wonokromo,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,,,,,Sabtu,2025-05,19:00
+389,353,2025-05-31,Completed,145,Reza Maulana,Keputih,Tennis,Tennis Court B,Outdoor,20:00,1,110000,126000,QRIS,126000.0,Paid,,Sabtu,2025-05,20:00
+593,543,2025-05-31,Completed,134,Indra Permata,Tenggilis,Futsal,Futsal Court A,Indoor,13:00,2,180000,360000,Bank Transfer,360000.0,Paid,4.0,Sabtu,2025-05,13:00
+644,589,2025-05-31,Completed,126,Niken Setiawan,Darmo,Futsal,Futsal Court B,Indoor,19:00,1,200000,230000,QRIS,230000.0,Paid,,Sabtu,2025-05,19:00
+1170,1068,2025-05-31,Completed,165,Farah Siregar,Kertajaya,Badminton,Badminton Court D,Indoor,21:00,1,65000,75000,QRIS,75000.0,Paid,3.0,Sabtu,2025-05,21:00
+274,246,2025-06-01,Completed,59,Yasmin Wibowo,Rungkut,Badminton,Badminton Court C,Indoor,17:00,1,65000,75000,QRIS,75000.0,Paid,5.0,Minggu,2025-06,17:00
+1019,930,2025-06-01,Pending,108,Reza Setiawan,Kertajaya,Tennis,Tennis Court D,Outdoor,17:00,4,120000,552000,,,,,Minggu,2025-06,17:00
+1020,931,2025-06-01,Completed,124,Wahyu Wibowo,Manyar,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,QRIS,230000.0,Paid,3.0,Minggu,2025-06,18:00
+1077,982,2025-06-01,Completed,94,Putri Maulana,Sukolilo,Badminton,Badminton Court B,Indoor,16:00,1,60000,60000,Cash,60000.0,Paid,4.0,Minggu,2025-06,16:00
+405,369,2025-06-02,Cancelled,54,Bima Siregar,Kertajaya,Tennis,Tennis Court D,Outdoor,19:00,2,120000,276000,,,,,Senin,2025-06,19:00
+146,130,2025-06-03,Completed,100,Nabila Ananda,Sukolilo,Tennis,Tennis Court D,Outdoor,15:00,1,120000,120000,Bank Transfer,120000.0,Paid,4.0,Selasa,2025-06,15:00
+348,316,2025-06-03,Completed,86,Wahyu Hartono,Mulyorejo,Tennis,Tennis Court D,Outdoor,18:00,3,120000,414000,E-Wallet,414000.0,Paid,2.0,Selasa,2025-06,18:00
+444,405,2025-06-04,Cancelled,25,Vina Putri,Wonokromo,Tennis,Tennis Court A,Outdoor,17:00,1,100000,115000,,,,,Rabu,2025-06,17:00
+560,512,2025-06-04,Completed,67,Bagas Saputra,Mulyorejo,Tennis,Tennis Court C,Outdoor,16:00,1,110000,110000,Cash,110000.0,Paid,,Rabu,2025-06,16:00
+1098,1002,2025-06-04,Completed,105,Vina Permata,Wonokromo,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,E-Wallet,126000.0,Paid,5.0,Rabu,2025-06,18:00
+1303,1187,2025-06-04,Completed,54,Bima Siregar,Kertajaya,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,E-Wallet,230000.0,Paid,,Rabu,2025-06,18:00
+162,144,2025-06-05,Completed,152,Tio Hidayat,Rungkut,Badminton,Badminton Court A,Indoor,16:00,3,60000,180000,Bank Transfer,180000.0,Paid,2.0,Kamis,2025-06,16:00
+432,393,2025-06-05,Completed,85,Niken Setiawan,Kertajaya,Tennis,Tennis Court C,Outdoor,20:00,2,110000,253000,Bank Transfer,253000.0,Paid,5.0,Kamis,2025-06,20:00
+497,453,2025-06-05,Completed,45,Laras Kusuma,Mulyorejo,Futsal,Futsal Court B,Indoor,16:00,2,200000,400000,QRIS,550000.0,Paid,,Kamis,2025-06,16:00
+498,453,2025-06-05,Completed,45,Laras Kusuma,Mulyorejo,Basketball,Basketball Court A,Indoor,16:00,1,150000,150000,QRIS,550000.0,Paid,,Kamis,2025-06,16:00
+807,735,2025-06-05,Pending,13,Nabila Hartono,Sukolilo,Basketball,Basketball Court A,Indoor,19:00,1,150000,172000,,,,,Kamis,2025-06,19:00
+1166,1064,2025-06-05,Completed,170,Vina Pratama,Keputih,Futsal,Futsal Court A,Indoor,19:00,2,180000,414000,Cash,414000.0,Paid,,Kamis,2025-06,19:00
+1246,1134,2025-06-05,Pending,99,Indra Wibowo,Manyar,Tennis,Tennis Court B,Outdoor,20:00,1,110000,126000,,,,,Kamis,2025-06,20:00
+313,282,2025-06-06,Completed,65,Oscar Wibowo,Darmo,Futsal,Futsal Court B,Indoor,17:00,1,200000,230000,QRIS,230000.0,Paid,,Jumat,2025-06,17:00
+1038,947,2025-06-06,Completed,19,Bima Hartono,Keputih,Tennis,Tennis Court B,Outdoor,10:00,1,110000,110000,QRIS,110000.0,Paid,5.0,Jumat,2025-06,10:00
+1213,1106,2025-06-06,Completed,79,Indra Putri,Tenggilis,Tennis,Tennis Court C,Outdoor,11:00,1,110000,110000,QRIS,210000.0,Paid,5.0,Jumat,2025-06,11:00
+1214,1106,2025-06-06,Completed,79,Indra Putri,Tenggilis,Tennis,Tennis Court A,Outdoor,11:00,1,100000,100000,QRIS,210000.0,Paid,,Jumat,2025-06,11:00
+43,39,2025-06-07,Completed,79,Indra Putri,Tenggilis,Futsal,Futsal Court A,Indoor,16:00,4,180000,720000,QRIS,720000.0,Paid,3.0,Sabtu,2025-06,16:00
+163,145,2025-06-07,Completed,38,Dewi Kusuma,Tenggilis,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,QRIS,437000.0,Paid,5.0,Sabtu,2025-06,20:00
+164,145,2025-06-07,Completed,38,Dewi Kusuma,Tenggilis,Tennis,Tennis Court A,Outdoor,20:00,2,100000,230000,QRIS,437000.0,Paid,,Sabtu,2025-06,20:00
+205,183,2025-06-07,Completed,2,Clara Nugroho,Keputih,Badminton,Badminton Court A,Indoor,16:00,1,60000,60000,QRIS,60000.0,Paid,5.0,Sabtu,2025-06,16:00
+327,295,2025-06-07,Pending,131,Hana Wijaya,Darmo,Tennis,Tennis Court D,Outdoor,09:00,2,120000,240000,,,,,Sabtu,2025-06,09:00
+949,868,2025-06-07,Completed,67,Bagas Saputra,Mulyorejo,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,QRIS,276000.0,Paid,4.0,Sabtu,2025-06,18:00
+1270,1156,2025-06-07,Cancelled,36,Dimas Kusuma,Manyar,Tennis,Tennis Court D,Outdoor,21:00,1,120000,138000,,,,,Sabtu,2025-06,21:00
+595,545,2025-06-08,Pending,45,Laras Kusuma,Mulyorejo,Basketball,Basketball Court A,Indoor,07:00,1,150000,150000,,,,,Minggu,2025-06,07:00
+798,727,2025-06-08,Completed,59,Yasmin Wibowo,Rungkut,Badminton,Badminton Court B,Indoor,11:00,1,60000,60000,E-Wallet,60000.0,Paid,3.0,Minggu,2025-06,11:00
+1188,1084,2025-06-08,Completed,136,Gita Santoso,Tenggilis,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,Bank Transfer,172000.0,Paid,5.0,Minggu,2025-06,18:00
+424,386,2025-06-09,Completed,144,Rizky Ananda,Darmo,Tennis,Tennis Court A,Outdoor,17:00,1,100000,115000,E-Wallet,115000.0,Paid,4.0,Senin,2025-06,17:00
+1137,1038,2025-06-09,Completed,26,Maya Putri,Kertajaya,Tennis,Tennis Court B,Outdoor,09:00,2,110000,220000,QRIS,220000.0,Paid,,Senin,2025-06,09:00
+1190,1086,2025-06-09,Completed,130,Gita Siregar,Kertajaya,Futsal,Futsal Court B,Indoor,17:00,3,200000,690000,E-Wallet,943000.0,Paid,4.0,Senin,2025-06,17:00
+1191,1086,2025-06-09,Completed,130,Gita Siregar,Kertajaya,Tennis,Tennis Court C,Outdoor,17:00,2,110000,253000,E-Wallet,943000.0,Paid,,Senin,2025-06,17:00
+1227,1117,2025-06-09,Pending,11,Dimas Hidayat,Gubeng,Futsal,Futsal Court A,Indoor,09:00,2,180000,360000,,,,,Senin,2025-06,09:00
+133,118,2025-06-10,Cancelled,161,Intan Santoso,Mulyorejo,Futsal,Futsal Court B,Indoor,19:00,2,200000,460000,,,,,Selasa,2025-06,19:00
+647,592,2025-06-10,Completed,115,Niken Hidayat,Wonokromo,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,E-Wallet,201000.0,Paid,4.0,Selasa,2025-06,20:00
+648,592,2025-06-10,Completed,115,Niken Hidayat,Wonokromo,Badminton,Badminton Court C,Indoor,20:00,1,65000,75000,E-Wallet,201000.0,Paid,,Selasa,2025-06,20:00
+752,685,2025-06-10,Completed,35,Aditya Maulana,Keputih,Tennis,Tennis Court A,Outdoor,07:00,1,100000,100000,QRIS,100000.0,Paid,4.0,Selasa,2025-06,07:00
+1025,936,2025-06-10,Completed,151,Laras Permata,Mulyorejo,Basketball,Basketball Court A,Indoor,08:00,1,150000,150000,E-Wallet,350000.0,Paid,4.0,Selasa,2025-06,08:00
+1026,936,2025-06-10,Completed,151,Laras Permata,Mulyorejo,Futsal,Futsal Court B,Indoor,08:00,1,200000,200000,E-Wallet,350000.0,Paid,,Selasa,2025-06,08:00
+64,55,2025-06-11,Cancelled,89,Gita Nugroho,Tenggilis,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,,,,,Rabu,2025-06,18:00
+412,376,2025-06-11,Completed,11,Dimas Hidayat,Gubeng,Futsal,Futsal Court B,Indoor,17:00,1,200000,230000,Bank Transfer,230000.0,Paid,,Rabu,2025-06,17:00
+843,770,2025-06-11,Cancelled,162,Rizky Siregar,Sukolilo,Badminton,Badminton Court C,Indoor,16:00,1,65000,65000,,,,,Rabu,2025-06,16:00
+1066,971,2025-06-11,Completed,60,Fajar Siregar,Manyar,Futsal,Futsal Court A,Indoor,17:00,1,180000,207000,Bank Transfer,207000.0,Paid,,Rabu,2025-06,17:00
+1132,1033,2025-06-11,Completed,99,Indra Wibowo,Manyar,Badminton,Badminton Court D,Indoor,16:00,1,65000,65000,Cash,65000.0,Paid,4.0,Rabu,2025-06,16:00
+414,378,2025-06-12,Cancelled,51,Tio Kusuma,Manyar,Badminton,Badminton Court C,Indoor,14:00,1,65000,65000,,,,,Kamis,2025-06,14:00
+533,486,2025-06-12,Pending,14,Indra Permata,Rungkut,Badminton,Badminton Court B,Indoor,11:00,1,60000,60000,,,,,Kamis,2025-06,11:00
+607,555,2025-06-12,Pending,68,Tio Setiawan,Kertajaya,Badminton,Badminton Court D,Indoor,17:00,1,65000,75000,,,,,Kamis,2025-06,17:00
+741,674,2025-06-12,Completed,60,Fajar Siregar,Manyar,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,E-Wallet,368000.0,Paid,,Kamis,2025-06,17:00
+796,725,2025-06-12,Completed,105,Vina Permata,Wonokromo,Badminton,Badminton Court D,Indoor,15:00,2,65000,130000,Bank Transfer,130000.0,Paid,4.0,Kamis,2025-06,15:00
+1047,956,2025-06-12,Completed,81,Nabila Permata,Sukolilo,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,E-Wallet,282000.0,Paid,,Kamis,2025-06,18:00
+1048,956,2025-06-12,Completed,81,Nabila Permata,Sukolilo,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,E-Wallet,282000.0,Paid,,Kamis,2025-06,18:00
+1184,1080,2025-06-12,Cancelled,117,Alya Pratama,Rungkut,Badminton,Badminton Court B,Indoor,07:00,1,60000,60000,,,,,Kamis,2025-06,07:00
+1283,1168,2025-06-12,Completed,178,Kevin Saputra,Tenggilis,Tennis,Tennis Court D,Outdoor,11:00,1,120000,120000,E-Wallet,120000.0,Paid,4.0,Kamis,2025-06,11:00
+1185,1081,2025-06-13,Completed,18,Reza Wijaya,Sukolilo,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,Bank Transfer,200000.0,Paid,5.0,Jumat,2025-06,16:00
+87,77,2025-06-14,Completed,39,Galih Permata,Wonokromo,Tennis,Tennis Court B,Outdoor,19:00,2,110000,253000,Bank Transfer,253000.0,Paid,,Sabtu,2025-06,19:00
+124,109,2025-06-14,Completed,101,Farah Pratama,Manyar,Tennis,Tennis Court A,Outdoor,18:00,2,100000,230000,QRIS,230000.0,Paid,3.0,Sabtu,2025-06,18:00
+270,243,2025-06-14,Completed,103,Farah Hidayat,Wonokromo,Badminton,Badminton Court D,Indoor,08:00,4,65000,260000,E-Wallet,260000.0,Paid,,Sabtu,2025-06,08:00
+693,631,2025-06-14,Completed,82,Citra Wibowo,Keputih,Badminton,Badminton Court A,Indoor,17:00,3,60000,207000,QRIS,207000.0,Paid,,Sabtu,2025-06,17:00
+93,83,2025-06-15,Completed,138,Wahyu Putri,Manyar,Futsal,Futsal Court A,Indoor,17:00,1,180000,207000,E-Wallet,207000.0,Paid,2.0,Minggu,2025-06,17:00
+104,93,2025-06-16,Completed,143,Aditya Saputra,Tenggilis,Futsal,Futsal Court A,Indoor,20:00,2,180000,414000,Bank Transfer,414000.0,Paid,5.0,Senin,2025-06,20:00
+932,851,2025-06-16,Completed,96,Intan Maulana,Wonokromo,Tennis,Tennis Court D,Outdoor,20:00,1,120000,138000,Bank Transfer,138000.0,Paid,5.0,Senin,2025-06,20:00
+640,586,2025-06-17,Completed,7,Gita Setiawan,Darmo,Badminton,Badminton Court D,Indoor,17:00,2,65000,150000,E-Wallet,150000.0,Paid,2.0,Selasa,2025-06,17:00
+887,808,2025-06-17,Completed,142,Reza Lestari,Wonokromo,Tennis,Tennis Court A,Outdoor,19:00,2,100000,230000,Bank Transfer,230000.0,Paid,4.0,Selasa,2025-06,19:00
+910,829,2025-06-17,Completed,67,Bagas Saputra,Mulyorejo,Futsal,Futsal Court B,Indoor,19:00,4,200000,920000,QRIS,920000.0,Paid,,Selasa,2025-06,19:00
+1081,986,2025-06-19,Completed,102,Bima Kusuma,Mulyorejo,Tennis,Tennis Court A,Outdoor,17:00,1,100000,115000,QRIS,115000.0,Paid,2.0,Kamis,2025-06,17:00
+1247,1135,2025-06-19,Completed,116,Salsa Hidayat,Manyar,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,QRIS,460000.0,Paid,4.0,Kamis,2025-06,20:00
+1253,1141,2025-06-19,Completed,121,Wahyu Santoso,Gubeng,Badminton,Badminton Court B,Indoor,19:00,1,60000,69000,QRIS,69000.0,Paid,4.0,Kamis,2025-06,19:00
+201,179,2025-06-20,Completed,24,Maya Siregar,Wonokromo,Tennis,Tennis Court A,Outdoor,20:00,1,100000,115000,Bank Transfer,115000.0,Paid,,Jumat,2025-06,20:00
+255,229,2025-06-20,Completed,33,Yusuf Putri,Darmo,Badminton,Badminton Court B,Indoor,20:00,3,60000,207000,QRIS,207000.0,Paid,5.0,Jumat,2025-06,20:00
+292,262,2025-06-20,Pending,28,Nabila Wibowo,Mulyorejo,Badminton,Badminton Court A,Indoor,20:00,3,60000,207000,,,,,Jumat,2025-06,20:00
+311,280,2025-06-20,Completed,146,Salsa Siregar,Darmo,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,Bank Transfer,230000.0,Paid,5.0,Jumat,2025-06,20:00
+688,627,2025-06-20,Completed,14,Indra Permata,Rungkut,Basketball,Basketball Court A,Indoor,20:00,1,150000,172000,E-Wallet,402000.0,Paid,,Jumat,2025-06,20:00
+689,627,2025-06-20,Completed,14,Indra Permata,Rungkut,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,E-Wallet,402000.0,Paid,,Jumat,2025-06,20:00
+1124,1027,2025-06-20,Cancelled,151,Laras Permata,Mulyorejo,Basketball,Basketball Court A,Indoor,09:00,3,150000,450000,,,,,Jumat,2025-06,09:00
+1152,1052,2025-06-20,Completed,88,Zaki Santoso,Darmo,Badminton,Badminton Court D,Indoor,18:00,1,65000,75000,Cash,75000.0,Paid,5.0,Jumat,2025-06,18:00
+54,47,2025-06-21,Cancelled,126,Niken Setiawan,Darmo,Badminton,Badminton Court C,Indoor,08:00,1,65000,65000,,,,,Sabtu,2025-06,08:00
+119,105,2025-06-21,Cancelled,178,Kevin Saputra,Tenggilis,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,,,,,Sabtu,2025-06,20:00
+880,803,2025-06-21,Completed,162,Rizky Siregar,Sukolilo,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,Bank Transfer,75000.0,Paid,4.0,Sabtu,2025-06,19:00
+1011,923,2025-06-21,Completed,39,Galih Permata,Wonokromo,Badminton,Badminton Court B,Indoor,19:00,1,60000,69000,QRIS,69000.0,Paid,,Sabtu,2025-06,19:00
+144,128,2025-06-22,Completed,26,Maya Putri,Kertajaya,Basketball,Basketball Court A,Indoor,07:00,1,150000,150000,E-Wallet,150000.0,Paid,5.0,Minggu,2025-06,07:00
+415,379,2025-06-22,Completed,126,Niken Setiawan,Darmo,Badminton,Badminton Court A,Indoor,18:00,2,60000,138000,Bank Transfer,138000.0,Paid,5.0,Minggu,2025-06,18:00
+835,762,2025-06-22,Completed,54,Bima Siregar,Kertajaya,Tennis,Tennis Court C,Outdoor,11:00,1,110000,110000,QRIS,110000.0,Paid,5.0,Minggu,2025-06,11:00
+1206,1100,2025-06-22,Completed,115,Niken Hidayat,Wonokromo,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,E-Wallet,69000.0,Paid,5.0,Minggu,2025-06,18:00
+220,198,2025-06-24,Completed,165,Farah Siregar,Kertajaya,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,Bank Transfer,460000.0,Paid,5.0,Selasa,2025-06,20:00
+450,411,2025-06-24,Completed,164,Tania Pratama,Tenggilis,Badminton,Badminton Court A,Indoor,21:00,3,60000,207000,E-Wallet,207000.0,Paid,,Selasa,2025-06,21:00
+556,508,2025-06-24,Completed,103,Farah Hidayat,Wonokromo,Basketball,Basketball Court A,Indoor,21:00,1,150000,172000,E-Wallet,172000.0,Paid,3.0,Selasa,2025-06,21:00
+709,645,2025-06-24,Completed,95,Kevin Maulana,Rungkut,Futsal,Futsal Court B,Indoor,16:00,2,200000,400000,Bank Transfer,400000.0,Paid,4.0,Selasa,2025-06,16:00
+939,858,2025-06-24,Completed,46,Oscar Hartono,Rungkut,Basketball,Basketball Court B,Indoor,21:00,2,160000,368000,QRIS,368000.0,Paid,4.0,Selasa,2025-06,21:00
+947,866,2025-06-24,Completed,132,Reza Setiawan,Sukolilo,Tennis,Tennis Court D,Outdoor,20:00,1,120000,138000,Cash,138000.0,Paid,5.0,Selasa,2025-06,20:00
+79,69,2025-06-26,Completed,155,Dimas Hidayat,Tenggilis,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,E-Wallet,200000.0,Paid,4.0,Kamis,2025-06,16:00
+530,483,2025-06-26,Completed,30,Wahyu Maulana,Gubeng,Basketball,Basketball Court B,Indoor,14:00,2,160000,320000,Cash,320000.0,Paid,,Kamis,2025-06,14:00
+890,810,2025-06-26,Completed,21,Laras Pratama,Keputih,Basketball,Basketball Court B,Indoor,17:00,1,160000,184000,Bank Transfer,184000.0,Paid,,Kamis,2025-06,17:00
+987,902,2025-06-26,Pending,167,Bima Siregar,Gubeng,Basketball,Basketball Court A,Indoor,18:00,2,150000,345000,,,,,Kamis,2025-06,18:00
+988,902,2025-06-26,Pending,167,Bima Siregar,Gubeng,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,,,,,Kamis,2025-06,18:00
+1300,1184,2025-06-26,Completed,137,Vina Saputra,Mulyorejo,Badminton,Badminton Court C,Indoor,07:00,1,65000,65000,QRIS,65000.0,Paid,5.0,Kamis,2025-06,07:00
+226,203,2025-06-27,Completed,52,Galih Wibowo,Manyar,Futsal,Futsal Court A,Indoor,17:00,1,180000,207000,QRIS,207000.0,Refunded,4.0,Jumat,2025-06,17:00
+428,390,2025-06-27,Pending,119,Gita Wibowo,Wonokromo,Tennis,Tennis Court D,Outdoor,20:00,3,120000,414000,,,,,Jumat,2025-06,20:00
+503,458,2025-06-27,Completed,68,Tio Setiawan,Kertajaya,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,,Jumat,2025-06,17:00
+507,462,2025-06-27,Completed,118,Maya Saputra,Gubeng,Tennis,Tennis Court A,Outdoor,13:00,2,100000,200000,Cash,200000.0,Paid,,Jumat,2025-06,13:00
+776,707,2025-06-27,Pending,162,Rizky Siregar,Sukolilo,Futsal,Futsal Court B,Indoor,19:00,4,200000,920000,,,,,Jumat,2025-06,19:00
+891,811,2025-06-27,Completed,39,Galih Permata,Wonokromo,Futsal,Futsal Court B,Indoor,09:00,3,200000,600000,Bank Transfer,600000.0,Paid,2.0,Jumat,2025-06,09:00
+732,666,2025-06-28,Pending,59,Yasmin Wibowo,Rungkut,Badminton,Badminton Court A,Indoor,17:00,2,60000,138000,,,,,Sabtu,2025-06,17:00
+733,666,2025-06-28,Pending,59,Yasmin Wibowo,Rungkut,Tennis,Tennis Court D,Outdoor,17:00,1,120000,138000,,,,,Sabtu,2025-06,17:00
+931,850,2025-06-28,Completed,63,Bima Siregar,Darmo,Futsal,Futsal Court A,Indoor,20:00,2,180000,414000,Bank Transfer,414000.0,Paid,4.0,Sabtu,2025-06,20:00
+940,859,2025-06-28,Completed,41,Aditya Saputra,Rungkut,Basketball,Basketball Court B,Indoor,09:00,3,160000,480000,Bank Transfer,480000.0,Paid,5.0,Sabtu,2025-06,09:00
+1290,1175,2025-06-28,Completed,165,Farah Siregar,Kertajaya,Badminton,Badminton Court A,Indoor,16:00,2,60000,120000,Bank Transfer,120000.0,Paid,2.0,Sabtu,2025-06,16:00
+430,392,2025-06-29,Completed,120,Oscar Ananda,Sukolilo,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,Bank Transfer,379000.0,Paid,4.0,Minggu,2025-06,18:00
+431,392,2025-06-29,Completed,120,Oscar Ananda,Sukolilo,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,Bank Transfer,379000.0,Paid,,Minggu,2025-06,18:00
+1125,1028,2025-06-29,Completed,37,Putri Ananda,Wonokromo,Basketball,Basketball Court A,Indoor,09:00,3,150000,450000,QRIS,450000.0,Paid,,Minggu,2025-06,09:00
+1267,1153,2025-06-29,Completed,101,Farah Pratama,Manyar,Futsal,Futsal Court B,Indoor,19:00,2,200000,460000,QRIS,460000.0,Paid,2.0,Minggu,2025-06,19:00
+491,447,2025-06-30,Completed,127,Bagas Setiawan,Sukolilo,Badminton,Badminton Court A,Indoor,19:00,3,60000,207000,QRIS,207000.0,Paid,4.0,Senin,2025-06,19:00
+671,611,2025-06-30,Completed,99,Indra Wibowo,Manyar,Futsal,Futsal Court B,Indoor,19:00,3,200000,690000,Cash,690000.0,Paid,4.0,Senin,2025-06,19:00
+777,708,2025-06-30,Completed,43,Putri Hartono,Rungkut,Tennis,Tennis Court D,Outdoor,18:00,3,120000,414000,QRIS,414000.0,Paid,,Senin,2025-06,18:00
+308,277,2025-07-01,Completed,22,Galih Maulana,Tenggilis,Futsal,Futsal Court B,Indoor,11:00,1,200000,200000,E-Wallet,200000.0,Paid,3.0,Selasa,2025-07,11:00
+387,351,2025-07-01,Completed,94,Putri Maulana,Sukolilo,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,QRIS,75000.0,Paid,4.0,Selasa,2025-07,18:00
+630,577,2025-07-01,Completed,11,Dimas Hidayat,Gubeng,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,E-Wallet,150000.0,Paid,2.0,Selasa,2025-07,19:00
+806,734,2025-07-01,Completed,143,Aditya Saputra,Tenggilis,Tennis,Tennis Court B,Outdoor,13:00,2,110000,220000,E-Wallet,220000.0,Paid,4.0,Selasa,2025-07,13:00
+108,96,2025-07-03,Completed,173,Alya Saputra,Rungkut,Futsal,Futsal Court B,Indoor,14:00,2,200000,400000,Bank Transfer,400000.0,Paid,5.0,Kamis,2025-07,14:00
+855,782,2025-07-03,Pending,7,Gita Setiawan,Darmo,Tennis,Tennis Court C,Outdoor,21:00,3,110000,379000,,,,,Kamis,2025-07,21:00
+997,910,2025-07-03,Completed,90,Eka Hartono,Sukolilo,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,Bank Transfer,69000.0,Paid,4.0,Kamis,2025-07,18:00
+1236,1124,2025-07-03,Completed,98,Dimas Wijaya,Manyar,Futsal,Futsal Court A,Indoor,16:00,1,180000,180000,E-Wallet,180000.0,Paid,,Kamis,2025-07,16:00
+409,373,2025-07-04,Cancelled,21,Laras Pratama,Keputih,Basketball,Basketball Court B,Indoor,16:00,1,160000,160000,,,,,Jumat,2025-07,16:00
+847,774,2025-07-04,Completed,155,Dimas Hidayat,Tenggilis,Basketball,Basketball Court A,Indoor,10:00,1,150000,150000,QRIS,150000.0,Paid,,Jumat,2025-07,10:00
+955,874,2025-07-05,Completed,180,Maya Putri,Keputih,Badminton,Badminton Court A,Indoor,10:00,2,60000,120000,QRIS,120000.0,Paid,4.0,Sabtu,2025-07,10:00
+1052,959,2025-07-05,Completed,64,Tania Hartono,Manyar,Futsal,Futsal Court B,Indoor,15:00,2,200000,400000,Bank Transfer,400000.0,Paid,5.0,Sabtu,2025-07,15:00
+266,240,2025-07-06,Completed,17,Zaki Wibowo,Kertajaya,Basketball,Basketball Court B,Indoor,14:00,1,160000,160000,QRIS,160000.0,Paid,,Minggu,2025-07,14:00
+453,414,2025-07-06,Pending,99,Indra Wibowo,Manyar,Futsal,Futsal Court B,Indoor,16:00,3,200000,600000,,,,,Minggu,2025-07,16:00
+508,463,2025-07-07,Pending,7,Gita Setiawan,Darmo,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,,,,,Senin,2025-07,20:00
+812,740,2025-07-07,Completed,80,Alya Hartono,Keputih,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,E-Wallet,126000.0,Paid,2.0,Senin,2025-07,18:00
+380,346,2025-07-08,Completed,24,Maya Siregar,Wonokromo,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,Cash,126000.0,Paid,4.0,Selasa,2025-07,18:00
+702,639,2025-07-08,Cancelled,25,Vina Putri,Wonokromo,Tennis,Tennis Court D,Outdoor,09:00,2,120000,240000,,,,,Selasa,2025-07,09:00
+23,21,2025-07-09,Pending,32,Gita Wibowo,Tenggilis,Basketball,Basketball Court A,Indoor,19:00,2,150000,345000,,,,,Rabu,2025-07,19:00
+115,102,2025-07-09,Completed,113,Dewi Santoso,Wonokromo,Basketball,Basketball Court B,Indoor,13:00,3,160000,480000,QRIS,610000.0,Paid,,Rabu,2025-07,13:00
+116,102,2025-07-09,Completed,113,Dewi Santoso,Wonokromo,Badminton,Badminton Court D,Indoor,13:00,2,65000,130000,QRIS,610000.0,Paid,,Rabu,2025-07,13:00
+326,294,2025-07-09,Cancelled,99,Indra Wibowo,Manyar,Badminton,Badminton Court A,Indoor,17:00,1,60000,69000,,,,,Rabu,2025-07,17:00
+740,673,2025-07-09,Completed,37,Putri Ananda,Wonokromo,Basketball,Basketball Court B,Indoor,14:00,2,160000,320000,E-Wallet,320000.0,Paid,5.0,Rabu,2025-07,14:00
+559,511,2025-07-10,Completed,14,Indra Permata,Rungkut,Badminton,Badminton Court A,Indoor,20:00,1,60000,69000,E-Wallet,69000.0,Paid,4.0,Kamis,2025-07,20:00
+1299,1183,2025-07-10,Cancelled,16,Yusuf Wibowo,Keputih,Futsal,Futsal Court B,Indoor,09:00,1,200000,200000,,,,,Kamis,2025-07,09:00
+738,671,2025-07-11,Cancelled,50,Intan Setiawan,Mulyorejo,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,,,,,Jumat,2025-07,20:00
+980,896,2025-07-11,Completed,106,Reza Santoso,Kertajaya,Badminton,Badminton Court D,Indoor,19:00,2,65000,150000,QRIS,150000.0,Paid,4.0,Jumat,2025-07,19:00
+285,256,2025-07-12,Completed,66,Alya Kusuma,Rungkut,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,Bank Transfer,460000.0,Paid,4.0,Sabtu,2025-07,20:00
+378,344,2025-07-13,Completed,21,Laras Pratama,Keputih,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,QRIS,460000.0,Paid,4.0,Minggu,2025-07,20:00
+463,421,2025-07-13,Completed,36,Dimas Kusuma,Manyar,Basketball,Basketball Court B,Indoor,08:00,1,160000,160000,QRIS,160000.0,Paid,4.0,Minggu,2025-07,08:00
+978,894,2025-07-13,Completed,88,Zaki Santoso,Darmo,Badminton,Badminton Court C,Indoor,13:00,1,65000,65000,QRIS,65000.0,Paid,2.0,Minggu,2025-07,13:00
+1037,946,2025-07-13,Completed,151,Laras Permata,Mulyorejo,Tennis,Tennis Court A,Outdoor,19:00,1,100000,115000,E-Wallet,115000.0,Paid,4.0,Minggu,2025-07,19:00
+1130,1031,2025-07-13,Completed,138,Wahyu Putri,Manyar,Futsal,Futsal Court A,Indoor,19:00,2,180000,414000,QRIS,414000.0,Paid,4.0,Minggu,2025-07,19:00
+605,553,2025-07-14,Completed,151,Laras Permata,Mulyorejo,Badminton,Badminton Court B,Indoor,17:00,1,60000,69000,Bank Transfer,69000.0,Paid,,Senin,2025-07,17:00
+3,3,2025-07-15,Completed,172,Kevin Maulana,Rungkut,Tennis,Tennis Court C,Outdoor,08:00,3,110000,330000,Bank Transfer,330000.0,Paid,4.0,Selasa,2025-07,08:00
+600,549,2025-07-15,Completed,28,Nabila Wibowo,Mulyorejo,Tennis,Tennis Court B,Outdoor,20:00,1,110000,126000,QRIS,126000.0,Paid,5.0,Selasa,2025-07,20:00
+281,252,2025-07-16,Completed,135,Rafi Permata,Tenggilis,Badminton,Badminton Court B,Indoor,20:00,3,60000,207000,Bank Transfer,207000.0,Paid,4.0,Rabu,2025-07,20:00
+898,817,2025-07-16,Cancelled,176,Nadia Lestari,Darmo,Tennis,Tennis Court A,Outdoor,08:00,2,100000,200000,,,,,Rabu,2025-07,08:00
+1150,1050,2025-07-16,Completed,33,Yusuf Putri,Darmo,Futsal,Futsal Court B,Indoor,19:00,3,200000,690000,QRIS,690000.0,Paid,,Rabu,2025-07,19:00
+1198,1093,2025-07-16,Cancelled,110,Dimas Saputra,Mulyorejo,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,,,,,Rabu,2025-07,19:00
+567,519,2025-07-17,Completed,44,Vina Setiawan,Wonokromo,Tennis,Tennis Court C,Outdoor,19:00,2,110000,253000,Cash,253000.0,Paid,,Kamis,2025-07,19:00
+1027,937,2025-07-18,Completed,12,Kevin Hidayat,Gubeng,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,Bank Transfer,138000.0,Paid,4.0,Jumat,2025-07,18:00
+1090,995,2025-07-18,Completed,1,Eka Siregar,Mulyorejo,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,QRIS,184000.0,Paid,4.0,Jumat,2025-07,18:00
+145,129,2025-07-20,Completed,108,Reza Setiawan,Kertajaya,Badminton,Badminton Court D,Indoor,17:00,1,65000,75000,E-Wallet,75000.0,Paid,2.0,Minggu,2025-07,17:00
+231,208,2025-07-20,Pending,128,Vina Lestari,Manyar,Basketball,Basketball Court B,Indoor,19:00,2,160000,368000,,,,,Minggu,2025-07,19:00
+261,235,2025-07-20,Completed,9,Bima Hartono,Wonokromo,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,Bank Transfer,253000.0,Paid,4.0,Minggu,2025-07,18:00
+331,299,2025-07-20,Completed,102,Bima Kusuma,Mulyorejo,Tennis,Tennis Court D,Outdoor,21:00,1,120000,138000,E-Wallet,138000.0,Paid,,Minggu,2025-07,21:00
+570,522,2025-07-20,Completed,165,Farah Siregar,Kertajaya,Badminton,Badminton Court B,Indoor,10:00,1,60000,60000,Cash,60000.0,Paid,5.0,Minggu,2025-07,10:00
+1223,1114,2025-07-20,Completed,39,Galih Permata,Wonokromo,Futsal,Futsal Court B,Indoor,16:00,2,200000,400000,E-Wallet,400000.0,Paid,4.0,Minggu,2025-07,16:00
+30,27,2025-07-21,Completed,167,Bima Siregar,Gubeng,Badminton,Badminton Court D,Indoor,13:00,4,65000,260000,QRIS,260000.0,Paid,4.0,Senin,2025-07,13:00
+340,308,2025-07-21,Completed,155,Dimas Hidayat,Tenggilis,Tennis,Tennis Court B,Outdoor,16:00,1,110000,110000,E-Wallet,110000.0,Paid,5.0,Senin,2025-07,16:00
+480,436,2025-07-21,Completed,179,Wahyu Saputra,Keputih,Tennis,Tennis Court C,Outdoor,19:00,1,110000,126000,Bank Transfer,126000.0,Paid,4.0,Senin,2025-07,19:00
+903,822,2025-07-21,Completed,66,Alya Kusuma,Rungkut,Badminton,Badminton Court B,Indoor,17:00,1,60000,69000,QRIS,69000.0,Paid,5.0,Senin,2025-07,17:00
+925,844,2025-07-21,Pending,5,Yusuf Pratama,Keputih,Badminton,Badminton Court B,Indoor,17:00,1,60000,69000,,,,,Senin,2025-07,17:00
+1276,1162,2025-07-21,Completed,25,Vina Putri,Wonokromo,Badminton,Badminton Court A,Indoor,09:00,2,60000,120000,Bank Transfer,120000.0,Paid,5.0,Senin,2025-07,09:00
+678,618,2025-07-22,Completed,94,Putri Maulana,Sukolilo,Tennis,Tennis Court D,Outdoor,20:00,1,120000,138000,Cash,138000.0,Paid,4.0,Selasa,2025-07,20:00
+739,672,2025-07-22,Completed,86,Wahyu Hartono,Mulyorejo,Badminton,Badminton Court A,Indoor,17:00,2,60000,138000,E-Wallet,138000.0,Paid,,Selasa,2025-07,17:00
+369,335,2025-07-23,Completed,48,Dimas Wibowo,Darmo,Futsal,Futsal Court A,Indoor,14:00,1,180000,180000,QRIS,180000.0,Paid,1.0,Rabu,2025-07,14:00
+755,688,2025-07-23,Completed,178,Kevin Saputra,Tenggilis,Tennis,Tennis Court C,Outdoor,21:00,2,110000,253000,QRIS,253000.0,Paid,,Rabu,2025-07,21:00
+825,752,2025-07-23,Completed,144,Rizky Ananda,Darmo,Tennis,Tennis Court D,Outdoor,15:00,1,120000,120000,Cash,120000.0,Paid,5.0,Rabu,2025-07,15:00
+32,29,2025-07-24,Completed,2,Clara Nugroho,Keputih,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,E-Wallet,150000.0,Paid,5.0,Kamis,2025-07,19:00
+118,104,2025-07-24,Completed,118,Maya Saputra,Gubeng,Tennis,Tennis Court B,Outdoor,17:00,3,110000,379000,Bank Transfer,379000.0,Paid,2.0,Kamis,2025-07,17:00
+642,588,2025-07-24,Completed,180,Maya Putri,Keputih,Futsal,Futsal Court B,Indoor,08:00,1,200000,200000,QRIS,330000.0,Paid,5.0,Kamis,2025-07,08:00
+643,588,2025-07-24,Completed,180,Maya Putri,Keputih,Badminton,Badminton Court D,Indoor,08:00,2,65000,130000,QRIS,330000.0,Paid,,Kamis,2025-07,08:00
+1088,993,2025-07-24,Completed,126,Niken Setiawan,Darmo,Basketball,Basketball Court B,Indoor,19:00,1,160000,184000,QRIS,184000.0,Paid,,Kamis,2025-07,19:00
+191,170,2025-07-25,Cancelled,14,Indra Permata,Rungkut,Badminton,Badminton Court B,Indoor,16:00,1,60000,60000,,,,,Jumat,2025-07,16:00
+277,249,2025-07-25,Completed,169,Hana Wijaya,Gubeng,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,Cash,276000.0,Paid,5.0,Jumat,2025-07,18:00
+38,34,2025-07-26,Pending,93,Farah Nugroho,Rungkut,Futsal,Futsal Court A,Indoor,21:00,1,180000,207000,,,,,Sabtu,2025-07,21:00
+502,457,2025-07-26,Completed,100,Nabila Ananda,Sukolilo,Basketball,Basketball Court B,Indoor,21:00,4,160000,736000,Cash,736000.0,Paid,1.0,Sabtu,2025-07,21:00
+710,646,2025-07-26,Pending,163,Bima Siregar,Rungkut,Badminton,Badminton Court B,Indoor,14:00,2,60000,120000,,,,,Sabtu,2025-07,14:00
+1314,1197,2025-07-26,Cancelled,46,Oscar Hartono,Rungkut,Tennis,Tennis Court A,Outdoor,14:00,1,100000,100000,,,,,Sabtu,2025-07,14:00
+334,302,2025-07-27,Completed,76,Tania Hidayat,Wonokromo,Tennis,Tennis Court C,Outdoor,16:00,3,110000,330000,QRIS,330000.0,Paid,,Minggu,2025-07,16:00
+488,444,2025-07-27,Completed,48,Dimas Wibowo,Darmo,Badminton,Badminton Court D,Indoor,16:00,2,65000,130000,E-Wallet,130000.0,Paid,,Minggu,2025-07,16:00
+729,663,2025-07-27,Cancelled,12,Kevin Hidayat,Gubeng,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,,,,,Minggu,2025-07,19:00
+737,670,2025-07-27,Completed,100,Nabila Ananda,Sukolilo,Badminton,Badminton Court D,Indoor,10:00,1,65000,65000,E-Wallet,65000.0,Paid,4.0,Minggu,2025-07,10:00
+742,675,2025-07-27,Cancelled,94,Putri Maulana,Sukolilo,Futsal,Futsal Court B,Indoor,19:00,1,200000,230000,,,,,Minggu,2025-07,19:00
+749,682,2025-07-27,Completed,43,Putri Hartono,Rungkut,Tennis,Tennis Court D,Outdoor,21:00,2,120000,276000,QRIS,276000.0,Paid,,Minggu,2025-07,21:00
+897,816,2025-07-27,Pending,77,Bima Nugroho,Rungkut,Futsal,Futsal Court B,Indoor,07:00,2,200000,400000,,,,,Minggu,2025-07,07:00
+256,230,2025-07-29,Completed,176,Nadia Lestari,Darmo,Tennis,Tennis Court D,Outdoor,18:00,3,120000,414000,Bank Transfer,414000.0,Paid,4.0,Selasa,2025-07,18:00
+482,438,2025-07-29,Completed,48,Dimas Wibowo,Darmo,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,QRIS,150000.0,Paid,5.0,Selasa,2025-07,20:00
+1039,948,2025-07-29,Completed,168,Farah Lestari,Kertajaya,Badminton,Badminton Court A,Indoor,19:00,3,60000,207000,Bank Transfer,207000.0,Paid,4.0,Selasa,2025-07,19:00
+1156,1056,2025-07-29,Completed,136,Gita Santoso,Tenggilis,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,QRIS,345000.0,Paid,5.0,Selasa,2025-07,18:00
+1157,1056,2025-07-29,Completed,136,Gita Santoso,Tenggilis,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,QRIS,345000.0,Paid,,Selasa,2025-07,18:00
+239,216,2025-07-30,Completed,58,Niken Hartono,Sukolilo,Badminton,Badminton Court B,Indoor,15:00,4,60000,240000,QRIS,240000.0,Paid,,Rabu,2025-07,15:00
+393,357,2025-07-30,Completed,124,Wahyu Wibowo,Manyar,Basketball,Basketball Court B,Indoor,18:00,2,160000,368000,QRIS,368000.0,Paid,,Rabu,2025-07,18:00
+1255,1143,2025-07-30,Cancelled,162,Rizky Siregar,Sukolilo,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,,,,,Rabu,2025-07,18:00
+68,58,2025-07-31,Completed,169,Hana Wijaya,Gubeng,Tennis,Tennis Court D,Outdoor,07:00,1,120000,120000,Bank Transfer,120000.0,Paid,,Kamis,2025-07,07:00
+341,309,2025-07-31,Completed,35,Aditya Maulana,Keputih,Basketball,Basketball Court A,Indoor,10:00,2,150000,300000,QRIS,300000.0,Paid,5.0,Kamis,2025-07,10:00
+445,406,2025-07-31,Completed,65,Oscar Wibowo,Darmo,Tennis,Tennis Court A,Outdoor,14:00,3,100000,300000,QRIS,300000.0,Paid,,Kamis,2025-07,14:00
+302,271,2025-08-01,Completed,87,Bima Setiawan,Manyar,Tennis,Tennis Court B,Outdoor,09:00,3,110000,330000,QRIS,330000.0,Paid,3.0,Jumat,2025-08,09:00
+513,468,2025-08-01,Completed,13,Nabila Hartono,Sukolilo,Basketball,Basketball Court B,Indoor,21:00,2,160000,368000,E-Wallet,368000.0,Paid,,Jumat,2025-08,21:00
+584,535,2025-08-01,Completed,93,Farah Nugroho,Rungkut,Futsal,Futsal Court A,Indoor,20:00,3,180000,621000,QRIS,621000.0,Paid,4.0,Jumat,2025-08,20:00
+632,579,2025-08-01,Completed,115,Niken Hidayat,Wonokromo,Tennis,Tennis Court D,Outdoor,20:00,2,120000,276000,QRIS,483000.0,Paid,4.0,Jumat,2025-08,20:00
+633,579,2025-08-01,Completed,115,Niken Hidayat,Wonokromo,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,QRIS,483000.0,Paid,,Jumat,2025-08,20:00
+672,612,2025-08-01,Completed,103,Farah Hidayat,Wonokromo,Badminton,Badminton Court D,Indoor,16:00,1,65000,65000,Bank Transfer,65000.0,Paid,,Jumat,2025-08,16:00
+928,847,2025-08-01,Cancelled,89,Gita Nugroho,Tenggilis,Tennis,Tennis Court D,Outdoor,21:00,4,120000,552000,,,,,Jumat,2025-08,21:00
+476,432,2025-08-02,Completed,91,Joko Nugroho,Manyar,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,Cash,414000.0,Paid,2.0,Sabtu,2025-08,18:00
+954,873,2025-08-02,Completed,174,Clara Nugroho,Mulyorejo,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,E-Wallet,207000.0,Paid,5.0,Sabtu,2025-08,18:00
+280,251,2025-08-03,Completed,15,Galih Siregar,Rungkut,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,QRIS,414000.0,Refunded,,Minggu,2025-08,18:00
+368,334,2025-08-03,Pending,87,Bima Setiawan,Manyar,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,,,,,Minggu,2025-08,18:00
+578,529,2025-08-03,Completed,82,Citra Wibowo,Keputih,Futsal,Futsal Court A,Indoor,10:00,1,180000,180000,QRIS,180000.0,Paid,4.0,Minggu,2025-08,10:00
+652,595,2025-08-03,Pending,158,Yasmin Putri,Rungkut,Futsal,Futsal Court B,Indoor,19:00,2,200000,460000,,,,,Minggu,2025-08,19:00
+568,520,2025-08-04,Completed,15,Galih Siregar,Rungkut,Basketball,Basketball Court A,Indoor,16:00,2,150000,300000,Bank Transfer,300000.0,Paid,4.0,Senin,2025-08,16:00
+1050,958,2025-08-05,Completed,83,Alya Hidayat,Manyar,Badminton,Badminton Court A,Indoor,19:00,2,60000,138000,E-Wallet,264000.0,Paid,,Selasa,2025-08,19:00
+1051,958,2025-08-05,Completed,83,Alya Hidayat,Manyar,Tennis,Tennis Court B,Outdoor,19:00,1,110000,126000,E-Wallet,264000.0,Paid,,Selasa,2025-08,19:00
+1175,1072,2025-08-05,Completed,21,Laras Pratama,Keputih,Futsal,Futsal Court A,Indoor,21:00,1,180000,207000,Cash,207000.0,Paid,,Selasa,2025-08,21:00
+603,551,2025-08-06,Completed,49,Niken Permata,Darmo,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,1.0,Rabu,2025-08,17:00
+914,833,2025-08-06,Completed,124,Wahyu Wibowo,Manyar,Basketball,Basketball Court B,Indoor,16:00,2,160000,320000,E-Wallet,320000.0,Paid,,Rabu,2025-08,16:00
+1036,945,2025-08-06,Pending,179,Wahyu Saputra,Keputih,Tennis,Tennis Court C,Outdoor,14:00,2,110000,220000,,,,,Rabu,2025-08,14:00
+504,459,2025-08-07,Completed,50,Intan Setiawan,Mulyorejo,Tennis,Tennis Court D,Outdoor,17:00,1,120000,138000,E-Wallet,138000.0,Paid,5.0,Kamis,2025-08,17:00
+542,495,2025-08-07,Completed,5,Yusuf Pratama,Keputih,Badminton,Badminton Court B,Indoor,13:00,1,60000,60000,E-Wallet,60000.0,Paid,,Kamis,2025-08,13:00
+676,616,2025-08-07,Completed,39,Galih Permata,Wonokromo,Tennis,Tennis Court C,Outdoor,08:00,3,110000,330000,Bank Transfer,330000.0,Paid,5.0,Kamis,2025-08,08:00
+802,730,2025-08-07,Completed,65,Oscar Wibowo,Darmo,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,E-Wallet,184000.0,Paid,5.0,Kamis,2025-08,18:00
+1195,1090,2025-08-07,Completed,3,Niken Wibowo,Keputih,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,Cash,115000.0,Paid,4.0,Kamis,2025-08,18:00
+1261,1148,2025-08-07,Completed,147,Intan Nugroho,Tenggilis,Futsal,Futsal Court A,Indoor,11:00,1,180000,180000,E-Wallet,180000.0,Paid,5.0,Kamis,2025-08,11:00
+312,281,2025-08-08,Completed,76,Tania Hidayat,Wonokromo,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,Cash,230000.0,Paid,4.0,Jumat,2025-08,18:00
+879,802,2025-08-08,Completed,174,Clara Nugroho,Mulyorejo,Badminton,Badminton Court C,Indoor,19:00,2,65000,150000,QRIS,150000.0,Paid,4.0,Jumat,2025-08,19:00
+257,231,2025-08-09,Pending,51,Tio Kusuma,Manyar,Futsal,Futsal Court B,Indoor,07:00,1,200000,200000,,,,,Sabtu,2025-08,07:00
+1146,1046,2025-08-09,Completed,56,Fajar Lestari,Rungkut,Tennis,Tennis Court B,Outdoor,07:00,1,110000,110000,QRIS,110000.0,Paid,,Sabtu,2025-08,07:00
+92,82,2025-08-10,Completed,178,Kevin Saputra,Tenggilis,Badminton,Badminton Court B,Indoor,21:00,2,60000,138000,QRIS,138000.0,Paid,4.0,Minggu,2025-08,21:00
+370,336,2025-08-10,Pending,86,Wahyu Hartono,Mulyorejo,Badminton,Badminton Court A,Indoor,18:00,1,60000,69000,,,,,Minggu,2025-08,18:00
+659,601,2025-08-10,Cancelled,139,Dimas Ananda,Wonokromo,Tennis,Tennis Court B,Outdoor,21:00,1,110000,126000,,,,,Minggu,2025-08,21:00
+660,601,2025-08-10,Cancelled,139,Dimas Ananda,Wonokromo,Basketball,Basketball Court A,Indoor,21:00,1,150000,172000,,,,,Minggu,2025-08,21:00
+922,841,2025-08-10,Completed,45,Laras Kusuma,Mulyorejo,Basketball,Basketball Court A,Indoor,14:00,1,150000,150000,QRIS,150000.0,Refunded,,Minggu,2025-08,14:00
+1042,951,2025-08-10,Pending,68,Tio Setiawan,Kertajaya,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,,,,,Minggu,2025-08,19:00
+1183,1079,2025-08-10,Completed,147,Intan Nugroho,Tenggilis,Tennis,Tennis Court B,Outdoor,20:00,1,110000,126000,QRIS,126000.0,Paid,3.0,Minggu,2025-08,20:00
+94,84,2025-08-11,Completed,132,Reza Setiawan,Sukolilo,Futsal,Futsal Court A,Indoor,17:00,1,180000,207000,QRIS,207000.0,Paid,4.0,Senin,2025-08,17:00
+713,648,2025-08-11,Completed,137,Vina Saputra,Mulyorejo,Badminton,Badminton Court B,Indoor,19:00,3,60000,207000,QRIS,207000.0,Paid,,Senin,2025-08,19:00
+744,677,2025-08-11,Completed,176,Nadia Lestari,Darmo,Futsal,Futsal Court A,Indoor,07:00,3,180000,540000,Bank Transfer,540000.0,Paid,,Senin,2025-08,07:00
+59,51,2025-08-12,Completed,80,Alya Hartono,Keputih,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,QRIS,265000.0,Paid,,Selasa,2025-08,18:00
+60,51,2025-08-12,Completed,80,Alya Hartono,Keputih,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,QRIS,265000.0,Paid,,Selasa,2025-08,18:00
+566,518,2025-08-12,Completed,81,Nabila Permata,Sukolilo,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,E-Wallet,75000.0,Paid,4.0,Selasa,2025-08,18:00
+783,713,2025-08-12,Completed,90,Eka Hartono,Sukolilo,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,,Selasa,2025-08,17:00
+1143,1044,2025-08-12,Completed,163,Bima Siregar,Rungkut,Futsal,Futsal Court B,Indoor,17:00,2,200000,460000,QRIS,460000.0,Paid,1.0,Selasa,2025-08,17:00
+1212,1105,2025-08-13,Completed,113,Dewi Santoso,Wonokromo,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,QRIS,230000.0,Paid,5.0,Rabu,2025-08,20:00
+1280,1166,2025-08-13,Pending,20,Hana Siregar,Mulyorejo,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,,,,,Rabu,2025-08,16:00
+1281,1166,2025-08-13,Pending,20,Hana Siregar,Mulyorejo,Basketball,Basketball Court B,Indoor,16:00,2,160000,320000,,,,,Rabu,2025-08,16:00
+126,111,2025-08-14,Completed,162,Rizky Siregar,Sukolilo,Badminton,Badminton Court D,Indoor,18:00,2,65000,150000,QRIS,150000.0,Paid,,Kamis,2025-08,18:00
+629,576,2025-08-14,Completed,60,Fajar Siregar,Manyar,Badminton,Badminton Court D,Indoor,17:00,1,65000,75000,QRIS,75000.0,Paid,1.0,Kamis,2025-08,17:00
+674,614,2025-08-14,Pending,82,Citra Wibowo,Keputih,Tennis,Tennis Court C,Outdoor,17:00,2,110000,253000,,,,,Kamis,2025-08,17:00
+841,768,2025-08-15,Completed,52,Galih Wibowo,Manyar,Tennis,Tennis Court C,Outdoor,10:00,4,110000,440000,QRIS,440000.0,Paid,5.0,Jumat,2025-08,10:00
+1237,1125,2025-08-15,Completed,43,Putri Hartono,Rungkut,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,E-Wallet,230000.0,Paid,5.0,Jumat,2025-08,20:00
+558,510,2025-08-16,Cancelled,61,Yusuf Saputra,Sukolilo,Badminton,Badminton Court B,Indoor,17:00,2,60000,138000,,,,,Sabtu,2025-08,17:00
+187,166,2025-08-17,Completed,71,Yusuf Pratama,Tenggilis,Futsal,Futsal Court B,Indoor,18:00,2,200000,460000,QRIS,460000.0,Paid,4.0,Minggu,2025-08,18:00
+747,680,2025-08-17,Completed,125,Hana Saputra,Tenggilis,Tennis,Tennis Court D,Outdoor,10:00,1,120000,120000,E-Wallet,120000.0,Paid,4.0,Minggu,2025-08,10:00
+1114,1017,2025-08-17,Completed,87,Bima Setiawan,Manyar,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,QRIS,150000.0,Paid,3.0,Minggu,2025-08,18:00
+436,397,2025-08-18,Completed,157,Aditya Putri,Mulyorejo,Basketball,Basketball Court B,Indoor,15:00,1,160000,160000,Bank Transfer,160000.0,Paid,5.0,Senin,2025-08,15:00
+895,814,2025-08-19,Completed,179,Wahyu Saputra,Keputih,Futsal,Futsal Court B,Indoor,19:00,2,200000,460000,Bank Transfer,460000.0,Paid,5.0,Selasa,2025-08,19:00
+1041,950,2025-08-19,Completed,178,Kevin Saputra,Tenggilis,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,QRIS,368000.0,Paid,5.0,Selasa,2025-08,17:00
+441,402,2025-08-20,Completed,21,Laras Pratama,Keputih,Badminton,Badminton Court A,Indoor,21:00,2,60000,138000,Cash,138000.0,Paid,5.0,Rabu,2025-08,21:00
+442,403,2025-08-20,Completed,118,Maya Saputra,Gubeng,Badminton,Badminton Court C,Indoor,21:00,1,65000,75000,Cash,75000.0,Paid,4.0,Rabu,2025-08,21:00
+723,658,2025-08-20,Pending,48,Dimas Wibowo,Darmo,Tennis,Tennis Court B,Outdoor,21:00,2,110000,253000,,,,,Rabu,2025-08,21:00
+844,771,2025-08-20,Cancelled,13,Nabila Hartono,Sukolilo,Tennis,Tennis Court A,Outdoor,14:00,1,100000,100000,,,,,Rabu,2025-08,14:00
+1072,977,2025-08-20,Pending,41,Aditya Saputra,Rungkut,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,,,,,Rabu,2025-08,16:00
+1296,1180,2025-08-20,Completed,146,Salsa Siregar,Darmo,Basketball,Basketball Court A,Indoor,21:00,2,150000,345000,E-Wallet,345000.0,Paid,4.0,Rabu,2025-08,21:00
+1128,1030,2025-08-21,Completed,35,Aditya Maulana,Keputih,Futsal,Futsal Court B,Indoor,21:00,3,200000,690000,Bank Transfer,816000.0,Paid,2.0,Kamis,2025-08,21:00
+1129,1030,2025-08-21,Completed,35,Aditya Maulana,Keputih,Tennis,Tennis Court C,Outdoor,21:00,1,110000,126000,Bank Transfer,816000.0,Paid,,Kamis,2025-08,21:00
+379,345,2025-08-22,Completed,163,Bima Siregar,Rungkut,Tennis,Tennis Court C,Outdoor,14:00,2,110000,220000,Bank Transfer,220000.0,Paid,4.0,Jumat,2025-08,14:00
+793,722,2025-08-22,Completed,60,Fajar Siregar,Manyar,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,E-Wallet,138000.0,Paid,5.0,Jumat,2025-08,19:00
+894,813,2025-08-22,Completed,13,Nabila Hartono,Sukolilo,Badminton,Badminton Court B,Indoor,20:00,4,60000,276000,QRIS,276000.0,Paid,,Jumat,2025-08,20:00
+936,855,2025-08-22,Cancelled,3,Niken Wibowo,Keputih,Tennis,Tennis Court B,Outdoor,20:00,1,110000,126000,,,,,Jumat,2025-08,20:00
+960,879,2025-08-22,Completed,83,Alya Hidayat,Manyar,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,QRIS,138000.0,Paid,3.0,Jumat,2025-08,18:00
+1049,957,2025-08-23,Completed,126,Niken Setiawan,Darmo,Badminton,Badminton Court D,Indoor,10:00,3,65000,195000,E-Wallet,195000.0,Paid,3.0,Sabtu,2025-08,10:00
+764,696,2025-08-24,Completed,131,Hana Wijaya,Darmo,Futsal,Futsal Court A,Indoor,09:00,1,180000,180000,QRIS,180000.0,Paid,,Minggu,2025-08,09:00
+1058,964,2025-08-24,Cancelled,132,Reza Setiawan,Sukolilo,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,,,,,Minggu,2025-08,20:00
+350,318,2025-08-25,Completed,48,Dimas Wibowo,Darmo,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,E-Wallet,138000.0,Paid,4.0,Senin,2025-08,19:00
+471,428,2025-08-25,Completed,55,Zaki Setiawan,Gubeng,Badminton,Badminton Court D,Indoor,21:00,1,65000,75000,E-Wallet,75000.0,Paid,,Senin,2025-08,21:00
+1193,1088,2025-08-25,Completed,28,Nabila Wibowo,Mulyorejo,Tennis,Tennis Court A,Outdoor,11:00,1,100000,100000,QRIS,100000.0,Paid,,Senin,2025-08,11:00
+1285,1170,2025-08-25,Cancelled,84,Laras Wijaya,Manyar,Badminton,Badminton Court B,Indoor,13:00,2,60000,120000,,,,,Senin,2025-08,13:00
+399,363,2025-08-26,Completed,13,Nabila Hartono,Sukolilo,Badminton,Badminton Court C,Indoor,08:00,1,65000,65000,E-Wallet,65000.0,Paid,4.0,Selasa,2025-08,08:00
+470,427,2025-08-26,Completed,102,Bima Kusuma,Mulyorejo,Badminton,Badminton Court C,Indoor,07:00,2,65000,130000,Bank Transfer,130000.0,Paid,5.0,Selasa,2025-08,07:00
+703,640,2025-08-26,Completed,81,Nabila Permata,Sukolilo,Tennis,Tennis Court D,Outdoor,20:00,2,120000,276000,Bank Transfer,276000.0,Paid,1.0,Selasa,2025-08,20:00
+1135,1036,2025-08-26,Completed,30,Wahyu Maulana,Gubeng,Futsal,Futsal Court B,Indoor,17:00,2,200000,460000,QRIS,460000.0,Paid,3.0,Selasa,2025-08,17:00
+1217,1109,2025-08-26,Completed,120,Oscar Ananda,Sukolilo,Basketball,Basketball Court A,Indoor,13:00,2,150000,300000,Bank Transfer,300000.0,Paid,4.0,Selasa,2025-08,13:00
+250,225,2025-08-27,Completed,25,Vina Putri,Wonokromo,Badminton,Badminton Court B,Indoor,09:00,1,60000,60000,E-Wallet,60000.0,Paid,,Rabu,2025-08,09:00
+455,416,2025-08-27,Completed,174,Clara Nugroho,Mulyorejo,Futsal,Futsal Court A,Indoor,10:00,1,180000,180000,Bank Transfer,180000.0,Paid,4.0,Rabu,2025-08,10:00
+62,53,2025-08-28,Completed,53,Indra Wibowo,Darmo,Tennis,Tennis Court D,Outdoor,17:00,4,120000,552000,Bank Transfer,552000.0,Paid,5.0,Kamis,2025-08,17:00
+81,71,2025-08-28,Completed,78,Laras Hartono,Manyar,Badminton,Badminton Court D,Indoor,20:00,1,65000,75000,E-Wallet,75000.0,Paid,,Kamis,2025-08,20:00
+416,380,2025-08-28,Completed,110,Dimas Saputra,Mulyorejo,Tennis,Tennis Court C,Outdoor,21:00,1,110000,126000,E-Wallet,126000.0,Paid,3.0,Kamis,2025-08,21:00
+785,715,2025-08-28,Completed,103,Farah Hidayat,Wonokromo,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,E-Wallet,138000.0,Paid,,Kamis,2025-08,19:00
+975,892,2025-08-28,Completed,162,Rizky Siregar,Sukolilo,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,E-Wallet,351000.0,Paid,5.0,Kamis,2025-08,18:00
+976,892,2025-08-28,Completed,162,Rizky Siregar,Sukolilo,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,E-Wallet,351000.0,Paid,,Kamis,2025-08,18:00
+992,905,2025-08-28,Pending,120,Oscar Ananda,Sukolilo,Tennis,Tennis Court D,Outdoor,13:00,1,120000,120000,,,,,Kamis,2025-08,13:00
+5,5,2025-08-29,Completed,99,Indra Wibowo,Manyar,Futsal,Futsal Court A,Indoor,11:00,2,180000,360000,E-Wallet,360000.0,Paid,5.0,Jumat,2025-08,11:00
+998,911,2025-08-29,Pending,36,Dimas Kusuma,Manyar,Tennis,Tennis Court B,Outdoor,16:00,2,110000,220000,,,,,Jumat,2025-08,16:00
+1282,1167,2025-08-29,Cancelled,50,Intan Setiawan,Mulyorejo,Basketball,Basketball Court B,Indoor,20:00,1,160000,184000,,,,,Jumat,2025-08,20:00
+587,538,2025-08-30,Pending,70,Niken Hartono,Gubeng,Badminton,Badminton Court A,Indoor,20:00,1,60000,69000,,,,,Sabtu,2025-08,20:00
+364,330,2025-08-31,Completed,57,Kevin Kusuma,Manyar,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,Bank Transfer,69000.0,Paid,,Minggu,2025-08,18:00
+511,466,2025-08-31,Completed,109,Reza Hartono,Kertajaya,Tennis,Tennis Court B,Outdoor,13:00,2,110000,220000,E-Wallet,220000.0,Paid,5.0,Minggu,2025-08,13:00
+816,744,2025-08-31,Completed,41,Aditya Saputra,Rungkut,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,Cash,126000.0,Paid,4.0,Minggu,2025-08,18:00
+1235,1123,2025-08-31,Completed,49,Niken Permata,Darmo,Tennis,Tennis Court C,Outdoor,17:00,3,110000,379000,QRIS,379000.0,Paid,5.0,Minggu,2025-08,17:00
+1273,1159,2025-08-31,Completed,35,Aditya Maulana,Keputih,Badminton,Badminton Court D,Indoor,18:00,3,65000,224000,E-Wallet,224000.0,Paid,,Minggu,2025-08,18:00
+130,115,2025-09-01,Completed,119,Gita Wibowo,Wonokromo,Tennis,Tennis Court C,Outdoor,15:00,1,110000,110000,E-Wallet,110000.0,Paid,5.0,Senin,2025-09,15:00
+598,547,2025-09-01,Completed,136,Gita Santoso,Tenggilis,Tennis,Tennis Court A,Outdoor,10:00,3,100000,300000,Bank Transfer,300000.0,Paid,4.0,Senin,2025-09,10:00
+686,625,2025-09-01,Completed,159,Aditya Pratama,Manyar,Basketball,Basketball Court A,Indoor,16:00,1,150000,150000,QRIS,150000.0,Paid,5.0,Senin,2025-09,16:00
+943,862,2025-09-01,Completed,147,Intan Nugroho,Tenggilis,Tennis,Tennis Court B,Outdoor,10:00,1,110000,110000,Cash,110000.0,Paid,,Senin,2025-09,10:00
+1108,1012,2025-09-01,Completed,99,Indra Wibowo,Manyar,Basketball,Basketball Court B,Indoor,07:00,3,160000,480000,Bank Transfer,480000.0,Paid,5.0,Senin,2025-09,07:00
+1272,1158,2025-09-01,Pending,31,Galih Kusuma,Darmo,Basketball,Basketball Court B,Indoor,11:00,3,160000,480000,,,,,Senin,2025-09,11:00
+454,415,2025-09-02,Completed,117,Alya Pratama,Rungkut,Basketball,Basketball Court A,Indoor,21:00,1,150000,172000,QRIS,172000.0,Paid,4.0,Selasa,2025-09,21:00
+51,45,2025-09-03,Completed,143,Aditya Saputra,Tenggilis,Futsal,Futsal Court A,Indoor,11:00,2,180000,360000,QRIS,360000.0,Paid,4.0,Rabu,2025-09,11:00
+286,257,2025-09-03,Completed,135,Rafi Permata,Tenggilis,Futsal,Futsal Court A,Indoor,17:00,1,180000,207000,Cash,207000.0,Paid,4.0,Rabu,2025-09,17:00
+1059,965,2025-09-03,Completed,135,Rafi Permata,Tenggilis,Tennis,Tennis Court D,Outdoor,20:00,1,120000,138000,QRIS,506000.0,Paid,4.0,Rabu,2025-09,20:00
+1060,965,2025-09-03,Completed,135,Rafi Permata,Tenggilis,Basketball,Basketball Court B,Indoor,20:00,2,160000,368000,QRIS,506000.0,Paid,,Rabu,2025-09,20:00
+670,610,2025-09-04,Cancelled,1,Eka Siregar,Mulyorejo,Tennis,Tennis Court B,Outdoor,18:00,2,110000,253000,,,,,Kamis,2025-09,18:00
+1171,1069,2025-09-04,Completed,20,Hana Siregar,Mulyorejo,Tennis,Tennis Court B,Outdoor,16:00,2,110000,220000,E-Wallet,220000.0,Paid,3.0,Kamis,2025-09,16:00
+1241,1129,2025-09-04,Completed,100,Nabila Ananda,Sukolilo,Badminton,Badminton Court C,Indoor,17:00,1,65000,75000,E-Wallet,75000.0,Paid,,Kamis,2025-09,17:00
+1231,1120,2025-09-05,Completed,81,Nabila Permata,Sukolilo,Badminton,Badminton Court B,Indoor,10:00,1,60000,60000,QRIS,60000.0,Paid,,Jumat,2025-09,10:00
+1182,1078,2025-09-06,Completed,56,Fajar Lestari,Rungkut,Tennis,Tennis Court A,Outdoor,20:00,2,100000,230000,QRIS,230000.0,Paid,4.0,Sabtu,2025-09,20:00
+1289,1174,2025-09-06,Completed,177,Eka Hartono,Wonokromo,Futsal,Futsal Court B,Indoor,13:00,1,200000,200000,Cash,200000.0,Paid,1.0,Sabtu,2025-09,13:00
+994,907,2025-09-07,Completed,176,Nadia Lestari,Darmo,Basketball,Basketball Court B,Indoor,15:00,2,160000,320000,E-Wallet,320000.0,Paid,2.0,Minggu,2025-09,15:00
+1043,952,2025-09-07,Completed,119,Gita Wibowo,Wonokromo,Tennis,Tennis Court C,Outdoor,07:00,1,110000,110000,E-Wallet,110000.0,Paid,5.0,Minggu,2025-09,07:00
+1178,1074,2025-09-07,Pending,150,Rafi Setiawan,Kertajaya,Tennis,Tennis Court C,Outdoor,19:00,1,110000,126000,,,,,Minggu,2025-09,19:00
+40,36,2025-09-08,Completed,11,Dimas Hidayat,Gubeng,Badminton,Badminton Court A,Indoor,20:00,1,60000,69000,QRIS,69000.0,Paid,1.0,Senin,2025-09,20:00
+663,604,2025-09-10,Completed,103,Farah Hidayat,Wonokromo,Badminton,Badminton Court D,Indoor,07:00,2,65000,130000,Bank Transfer,130000.0,Paid,,Rabu,2025-09,07:00
+837,764,2025-09-10,Completed,86,Wahyu Hartono,Mulyorejo,Tennis,Tennis Court A,Outdoor,17:00,1,100000,115000,QRIS,115000.0,Paid,4.0,Rabu,2025-09,17:00
+1087,992,2025-09-10,Completed,44,Vina Setiawan,Wonokromo,Futsal,Futsal Court B,Indoor,21:00,2,200000,460000,QRIS,460000.0,Paid,2.0,Rabu,2025-09,21:00
+265,239,2025-09-11,Cancelled,101,Farah Pratama,Manyar,Badminton,Badminton Court A,Indoor,19:00,1,60000,69000,,,,,Kamis,2025-09,19:00
+877,800,2025-09-11,Completed,107,Niken Lestari,Darmo,Tennis,Tennis Court A,Outdoor,11:00,3,100000,300000,E-Wallet,300000.0,Paid,4.0,Kamis,2025-09,11:00
+878,801,2025-09-11,Pending,178,Kevin Saputra,Tenggilis,Tennis,Tennis Court B,Outdoor,11:00,1,110000,110000,,,,,Kamis,2025-09,11:00
+236,213,2025-09-12,Completed,73,Putri Wibowo,Darmo,Futsal,Futsal Court B,Indoor,08:00,1,200000,200000,Cash,200000.0,Paid,,Jumat,2025-09,08:00
+506,461,2025-09-12,Completed,16,Yusuf Wibowo,Keputih,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,Bank Transfer,150000.0,Paid,,Jumat,2025-09,18:00
+617,565,2025-09-12,Completed,113,Dewi Santoso,Wonokromo,Basketball,Basketball Court B,Indoor,09:00,3,160000,480000,Cash,480000.0,Paid,4.0,Jumat,2025-09,09:00
+1092,997,2025-09-12,Completed,21,Laras Pratama,Keputih,Tennis,Tennis Court B,Outdoor,11:00,2,110000,220000,E-Wallet,220000.0,Paid,2.0,Jumat,2025-09,11:00
+1252,1140,2025-09-12,Completed,8,Tio Lestari,Sukolilo,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,QRIS,150000.0,Paid,,Jumat,2025-09,20:00
+892,812,2025-09-13,Completed,27,Zaki Wijaya,Keputih,Tennis,Tennis Court C,Outdoor,21:00,1,110000,126000,QRIS,540000.0,Paid,3.0,Sabtu,2025-09,21:00
+893,812,2025-09-13,Completed,27,Zaki Wijaya,Keputih,Futsal,Futsal Court A,Indoor,21:00,2,180000,414000,QRIS,540000.0,Paid,,Sabtu,2025-09,21:00
+365,331,2025-09-14,Completed,77,Bima Nugroho,Rungkut,Tennis,Tennis Court C,Outdoor,14:00,1,110000,110000,QRIS,110000.0,Paid,4.0,Minggu,2025-09,14:00
+417,381,2025-09-14,Completed,131,Hana Wijaya,Darmo,Tennis,Tennis Court C,Outdoor,08:00,2,110000,220000,E-Wallet,220000.0,Paid,,Minggu,2025-09,08:00
+924,843,2025-09-14,Completed,79,Indra Putri,Tenggilis,Badminton,Badminton Court C,Indoor,10:00,2,65000,130000,Bank Transfer,130000.0,Paid,,Minggu,2025-09,10:00
+1015,927,2025-09-14,Cancelled,48,Dimas Wibowo,Darmo,Badminton,Badminton Court D,Indoor,21:00,3,65000,224000,,,,,Minggu,2025-09,21:00
+1016,927,2025-09-14,Cancelled,48,Dimas Wibowo,Darmo,Badminton,Badminton Court A,Indoor,21:00,1,60000,69000,,,,,Minggu,2025-09,21:00
+174,155,2025-09-15,Completed,147,Intan Nugroho,Tenggilis,Tennis,Tennis Court B,Outdoor,18:00,2,110000,253000,Bank Transfer,391000.0,Paid,2.0,Senin,2025-09,18:00
+175,155,2025-09-15,Completed,147,Intan Nugroho,Tenggilis,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,Bank Transfer,391000.0,Paid,,Senin,2025-09,18:00
+188,167,2025-09-15,Completed,19,Bima Hartono,Keputih,Badminton,Badminton Court D,Indoor,10:00,1,65000,65000,Bank Transfer,65000.0,Paid,5.0,Senin,2025-09,10:00
+353,321,2025-09-15,Completed,154,Farah Nugroho,Sukolilo,Futsal,Futsal Court A,Indoor,19:00,2,180000,414000,Cash,414000.0,Paid,,Senin,2025-09,19:00
+355,323,2025-09-15,Cancelled,164,Tania Pratama,Tenggilis,Tennis,Tennis Court C,Outdoor,18:00,2,110000,253000,,,,,Senin,2025-09,18:00
+373,339,2025-09-15,Pending,108,Reza Setiawan,Kertajaya,Tennis,Tennis Court D,Outdoor,21:00,2,120000,276000,,,,,Senin,2025-09,21:00
+967,885,2025-09-15,Completed,45,Laras Kusuma,Mulyorejo,Tennis,Tennis Court C,Outdoor,19:00,1,110000,126000,E-Wallet,471000.0,Paid,5.0,Senin,2025-09,19:00
+968,885,2025-09-15,Completed,45,Laras Kusuma,Mulyorejo,Basketball,Basketball Court A,Indoor,19:00,2,150000,345000,E-Wallet,471000.0,Paid,,Senin,2025-09,19:00
+1012,924,2025-09-15,Cancelled,162,Rizky Siregar,Sukolilo,Tennis,Tennis Court B,Outdoor,21:00,1,110000,126000,,,,,Senin,2025-09,21:00
+156,139,2025-09-16,Completed,167,Bima Siregar,Gubeng,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,Bank Transfer,230000.0,Paid,4.0,Selasa,2025-09,20:00
+238,215,2025-09-16,Cancelled,50,Intan Setiawan,Mulyorejo,Tennis,Tennis Court C,Outdoor,07:00,2,110000,220000,,,,,Selasa,2025-09,07:00
+619,567,2025-09-16,Pending,62,Clara Nugroho,Sukolilo,Tennis,Tennis Court D,Outdoor,14:00,1,120000,120000,,,,,Selasa,2025-09,14:00
+870,794,2025-09-16,Completed,139,Dimas Ananda,Wonokromo,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,QRIS,207000.0,Paid,,Selasa,2025-09,19:00
+46,41,2025-09-18,Cancelled,68,Tio Setiawan,Kertajaya,Tennis,Tennis Court B,Outdoor,09:00,2,110000,220000,,,,,Kamis,2025-09,09:00
+47,41,2025-09-18,Cancelled,68,Tio Setiawan,Kertajaya,Basketball,Basketball Court A,Indoor,09:00,2,150000,300000,,,,,Kamis,2025-09,09:00
+637,583,2025-09-18,Completed,117,Alya Pratama,Rungkut,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,E-Wallet,172000.0,Paid,3.0,Kamis,2025-09,18:00
+664,605,2025-09-18,Completed,116,Salsa Hidayat,Manyar,Badminton,Badminton Court D,Indoor,17:00,1,65000,75000,E-Wallet,75000.0,Paid,4.0,Kamis,2025-09,17:00
+26,24,2025-09-19,Completed,43,Putri Hartono,Rungkut,Tennis,Tennis Court B,Outdoor,18:00,2,110000,253000,Bank Transfer,253000.0,Paid,4.0,Jumat,2025-09,18:00
+1142,1043,2025-09-19,Cancelled,18,Reza Wijaya,Sukolilo,Tennis,Tennis Court D,Outdoor,13:00,4,120000,480000,,,,,Jumat,2025-09,13:00
+1251,1139,2025-09-19,Completed,139,Dimas Ananda,Wonokromo,Tennis,Tennis Court A,Outdoor,08:00,1,100000,100000,Cash,100000.0,Paid,,Jumat,2025-09,08:00
+98,88,2025-09-20,Completed,131,Hana Wijaya,Darmo,Badminton,Badminton Court C,Indoor,13:00,1,65000,65000,Cash,65000.0,Paid,3.0,Sabtu,2025-09,13:00
+540,493,2025-09-20,Completed,36,Dimas Kusuma,Manyar,Tennis,Tennis Court B,Outdoor,10:00,1,110000,110000,Bank Transfer,110000.0,Paid,5.0,Sabtu,2025-09,10:00
+869,793,2025-09-20,Completed,47,Nadia Santoso,Tenggilis,Tennis,Tennis Court B,Outdoor,07:00,1,110000,110000,QRIS,110000.0,Paid,5.0,Sabtu,2025-09,07:00
+101,90,2025-09-21,Completed,41,Aditya Saputra,Rungkut,Tennis,Tennis Court B,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,3.0,Minggu,2025-09,17:00
+840,767,2025-09-21,Completed,33,Yusuf Putri,Darmo,Basketball,Basketball Court B,Indoor,20:00,2,160000,368000,Bank Transfer,368000.0,Paid,4.0,Minggu,2025-09,20:00
+881,804,2025-09-21,Completed,156,Putri Wijaya,Rungkut,Badminton,Badminton Court A,Indoor,10:00,2,60000,120000,Cash,120000.0,Paid,5.0,Minggu,2025-09,10:00
+1254,1142,2025-09-21,Completed,135,Rafi Permata,Tenggilis,Tennis,Tennis Court C,Outdoor,11:00,2,110000,220000,QRIS,220000.0,Paid,3.0,Minggu,2025-09,11:00
+141,125,2025-09-22,Completed,140,Tio Permata,Gubeng,Futsal,Futsal Court B,Indoor,21:00,1,200000,230000,QRIS,230000.0,Paid,4.0,Senin,2025-09,21:00
+930,849,2025-09-22,Completed,137,Vina Saputra,Mulyorejo,Badminton,Badminton Court D,Indoor,08:00,3,65000,195000,QRIS,195000.0,Paid,,Senin,2025-09,08:00
+974,891,2025-09-22,Completed,96,Intan Maulana,Wonokromo,Tennis,Tennis Court B,Outdoor,09:00,1,110000,110000,Cash,110000.0,Paid,3.0,Senin,2025-09,09:00
+1034,943,2025-09-23,Completed,130,Gita Siregar,Kertajaya,Badminton,Badminton Court C,Indoor,11:00,2,65000,130000,QRIS,130000.0,Paid,4.0,Selasa,2025-09,11:00
+1085,990,2025-09-23,Pending,64,Tania Hartono,Manyar,Tennis,Tennis Court C,Outdoor,16:00,2,110000,220000,,,,,Selasa,2025-09,16:00
+329,297,2025-09-24,Completed,73,Putri Wibowo,Darmo,Badminton,Badminton Court A,Indoor,18:00,1,60000,69000,QRIS,69000.0,Paid,5.0,Rabu,2025-09,18:00
+679,619,2025-09-24,Completed,139,Dimas Ananda,Wonokromo,Badminton,Badminton Court A,Indoor,18:00,2,60000,138000,E-Wallet,138000.0,Paid,5.0,Rabu,2025-09,18:00
+873,797,2025-09-24,Completed,87,Bima Setiawan,Manyar,Badminton,Badminton Court A,Indoor,17:00,3,60000,207000,E-Wallet,207000.0,Paid,3.0,Rabu,2025-09,17:00
+1134,1035,2025-09-24,Completed,49,Niken Permata,Darmo,Badminton,Badminton Court C,Indoor,14:00,1,65000,65000,QRIS,65000.0,Paid,5.0,Rabu,2025-09,14:00
+271,244,2025-09-25,Completed,20,Hana Siregar,Mulyorejo,Tennis,Tennis Court D,Outdoor,20:00,3,120000,414000,QRIS,489000.0,Paid,,Kamis,2025-09,20:00
+272,244,2025-09-25,Completed,20,Hana Siregar,Mulyorejo,Badminton,Badminton Court C,Indoor,20:00,1,65000,75000,QRIS,489000.0,Paid,,Kamis,2025-09,20:00
+1000,913,2025-09-25,Completed,164,Tania Pratama,Tenggilis,Tennis,Tennis Court B,Outdoor,18:00,2,110000,253000,QRIS,253000.0,Paid,4.0,Kamis,2025-09,18:00
+1160,1059,2025-09-25,Completed,93,Farah Nugroho,Rungkut,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,QRIS,69000.0,Paid,2.0,Kamis,2025-09,18:00
+411,375,2025-09-26,Cancelled,166,Vina Setiawan,Manyar,Tennis,Tennis Court D,Outdoor,17:00,2,120000,276000,,,,,Jumat,2025-09,17:00
+458,418,2025-09-26,Completed,141,Putri Hidayat,Kertajaya,Futsal,Futsal Court B,Indoor,13:00,1,200000,200000,Bank Transfer,200000.0,Paid,5.0,Jumat,2025-09,13:00
+1234,1122,2025-09-27,Completed,107,Niken Lestari,Darmo,Basketball,Basketball Court A,Indoor,18:00,3,150000,517000,E-Wallet,517000.0,Paid,,Sabtu,2025-09,18:00
+186,165,2025-09-28,Completed,34,Laras Wijaya,Wonokromo,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,Bank Transfer,126000.0,Paid,,Minggu,2025-09,20:00
+346,314,2025-09-28,Completed,30,Wahyu Maulana,Gubeng,Basketball,Basketball Court A,Indoor,19:00,3,150000,517000,QRIS,517000.0,Paid,4.0,Minggu,2025-09,19:00
+351,319,2025-09-29,Completed,179,Wahyu Saputra,Keputih,Futsal,Futsal Court A,Indoor,20:00,2,180000,414000,Bank Transfer,414000.0,Paid,4.0,Senin,2025-09,20:00
+517,472,2025-09-29,Completed,22,Galih Maulana,Tenggilis,Tennis,Tennis Court D,Outdoor,07:00,2,120000,240000,Cash,305000.0,Paid,,Senin,2025-09,07:00
+518,472,2025-09-29,Completed,22,Galih Maulana,Tenggilis,Badminton,Badminton Court D,Indoor,07:00,1,65000,65000,Cash,305000.0,Paid,,Senin,2025-09,07:00
+521,475,2025-09-29,Completed,105,Vina Permata,Wonokromo,Tennis,Tennis Court C,Outdoor,20:00,2,110000,253000,QRIS,253000.0,Paid,3.0,Senin,2025-09,20:00
+524,478,2025-09-29,Completed,134,Indra Permata,Tenggilis,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,QRIS,115000.0,Paid,4.0,Senin,2025-09,18:00
+544,497,2025-09-29,Completed,25,Vina Putri,Wonokromo,Tennis,Tennis Court B,Outdoor,15:00,1,110000,110000,Cash,110000.0,Paid,3.0,Senin,2025-09,15:00
+628,575,2025-09-29,Completed,6,Eka Wibowo,Tenggilis,Basketball,Basketball Court A,Indoor,14:00,3,150000,450000,Bank Transfer,450000.0,Paid,,Senin,2025-09,14:00
+1277,1163,2025-09-29,Completed,70,Niken Hartono,Gubeng,Badminton,Badminton Court D,Indoor,20:00,1,65000,75000,QRIS,75000.0,Paid,4.0,Senin,2025-09,20:00
+316,285,2025-09-30,Completed,61,Yusuf Saputra,Sukolilo,Badminton,Badminton Court B,Indoor,17:00,1,60000,69000,QRIS,69000.0,Paid,2.0,Selasa,2025-09,17:00
+824,751,2025-10-01,Completed,13,Nabila Hartono,Sukolilo,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,Bank Transfer,460000.0,Paid,1.0,Rabu,2025-10,20:00
+27,25,2025-10-02,Completed,147,Intan Nugroho,Tenggilis,Tennis,Tennis Court A,Outdoor,14:00,1,100000,100000,E-Wallet,100000.0,Paid,2.0,Kamis,2025-10,14:00
+896,815,2025-10-02,Completed,126,Niken Setiawan,Darmo,Tennis,Tennis Court B,Outdoor,09:00,1,110000,110000,E-Wallet,110000.0,Paid,3.0,Kamis,2025-10,09:00
+1101,1005,2025-10-02,Completed,27,Zaki Wijaya,Keputih,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,QRIS,207000.0,Paid,,Kamis,2025-10,18:00
+1164,1062,2025-10-02,Completed,107,Niken Lestari,Darmo,Badminton,Badminton Court B,Indoor,21:00,1,60000,69000,E-Wallet,69000.0,Paid,5.0,Kamis,2025-10,21:00
+7,7,2025-10-03,Completed,5,Yusuf Pratama,Keputih,Tennis,Tennis Court B,Outdoor,16:00,1,110000,110000,QRIS,110000.0,Paid,4.0,Jumat,2025-10,16:00
+179,158,2025-10-03,Completed,120,Oscar Ananda,Sukolilo,Futsal,Futsal Court A,Indoor,07:00,1,180000,180000,QRIS,180000.0,Paid,4.0,Jumat,2025-10,07:00
+211,189,2025-10-03,Completed,168,Farah Lestari,Kertajaya,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,Bank Transfer,200000.0,Paid,4.0,Jumat,2025-10,16:00
+356,324,2025-10-03,Completed,135,Rafi Permata,Tenggilis,Tennis,Tennis Court A,Outdoor,19:00,2,100000,230000,QRIS,230000.0,Paid,5.0,Jumat,2025-10,19:00
+579,530,2025-10-03,Pending,33,Yusuf Putri,Darmo,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,,,,,Jumat,2025-10,20:00
+620,568,2025-10-03,Completed,126,Niken Setiawan,Darmo,Basketball,Basketball Court B,Indoor,20:00,2,160000,368000,QRIS,368000.0,Paid,5.0,Jumat,2025-10,20:00
+795,724,2025-10-03,Completed,148,Tio Lestari,Gubeng,Badminton,Badminton Court A,Indoor,20:00,1,60000,69000,E-Wallet,69000.0,Paid,5.0,Jumat,2025-10,20:00
+850,777,2025-10-03,Completed,177,Eka Hartono,Wonokromo,Basketball,Basketball Court B,Indoor,18:00,1,160000,184000,E-Wallet,184000.0,Paid,4.0,Jumat,2025-10,18:00
+1079,984,2025-10-04,Completed,137,Vina Saputra,Mulyorejo,Badminton,Badminton Court C,Indoor,09:00,1,65000,65000,E-Wallet,65000.0,Paid,,Sabtu,2025-10,09:00
+106,95,2025-10-05,Completed,158,Yasmin Putri,Rungkut,Basketball,Basketball Court A,Indoor,10:00,2,150000,300000,QRIS,360000.0,Paid,2.0,Minggu,2025-10,10:00
+107,95,2025-10-05,Completed,158,Yasmin Putri,Rungkut,Badminton,Badminton Court A,Indoor,10:00,1,60000,60000,QRIS,360000.0,Paid,,Minggu,2025-10,10:00
+746,679,2025-10-05,Completed,92,Zaki Wibowo,Rungkut,Basketball,Basketball Court A,Indoor,11:00,2,150000,300000,QRIS,300000.0,Paid,3.0,Minggu,2025-10,11:00
+165,146,2025-10-06,Completed,118,Maya Saputra,Gubeng,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,E-Wallet,75000.0,Paid,4.0,Senin,2025-10,19:00
+169,150,2025-10-06,Completed,38,Dewi Kusuma,Tenggilis,Futsal,Futsal Court B,Indoor,17:00,1,200000,230000,Bank Transfer,230000.0,Paid,,Senin,2025-10,17:00
+276,248,2025-10-06,Completed,19,Bima Hartono,Keputih,Tennis,Tennis Court B,Outdoor,17:00,2,110000,253000,E-Wallet,253000.0,Paid,3.0,Senin,2025-10,17:00
+413,377,2025-10-06,Pending,108,Reza Setiawan,Kertajaya,Badminton,Badminton Court B,Indoor,20:00,1,60000,69000,,,,,Senin,2025-10,20:00
+687,626,2025-10-06,Completed,170,Vina Pratama,Keputih,Badminton,Badminton Court A,Indoor,15:00,2,60000,120000,QRIS,120000.0,Paid,4.0,Senin,2025-10,15:00
+1262,1149,2025-10-06,Completed,96,Intan Maulana,Wonokromo,Basketball,Basketball Court A,Indoor,18:00,2,150000,345000,QRIS,345000.0,Paid,2.0,Senin,2025-10,18:00
+406,370,2025-10-07,Completed,34,Laras Wijaya,Wonokromo,Futsal,Futsal Court B,Indoor,07:00,2,200000,400000,QRIS,400000.0,Paid,3.0,Selasa,2025-10,07:00
+541,494,2025-10-07,Completed,73,Putri Wibowo,Darmo,Futsal,Futsal Court B,Indoor,16:00,2,200000,400000,E-Wallet,400000.0,Paid,4.0,Selasa,2025-10,16:00
+934,853,2025-10-07,Completed,146,Salsa Siregar,Darmo,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,QRIS,69000.0,Paid,3.0,Selasa,2025-10,18:00
+1274,1160,2025-10-07,Completed,38,Dewi Kusuma,Tenggilis,Badminton,Badminton Court C,Indoor,20:00,1,65000,75000,QRIS,75000.0,Paid,3.0,Selasa,2025-10,20:00
+1074,979,2025-10-08,Completed,123,Zaki Maulana,Rungkut,Badminton,Badminton Court C,Indoor,09:00,2,65000,130000,QRIS,130000.0,Paid,5.0,Rabu,2025-10,09:00
+483,439,2025-10-09,Completed,41,Aditya Saputra,Rungkut,Tennis,Tennis Court D,Outdoor,17:00,2,120000,276000,E-Wallet,276000.0,Paid,,Kamis,2025-10,17:00
+699,636,2025-10-09,Completed,11,Dimas Hidayat,Gubeng,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,Bank Transfer,138000.0,Paid,,Kamis,2025-10,20:00
+1161,1060,2025-10-09,Completed,24,Maya Siregar,Wonokromo,Tennis,Tennis Court A,Outdoor,21:00,2,100000,230000,QRIS,299000.0,Paid,4.0,Kamis,2025-10,21:00
+1162,1060,2025-10-09,Completed,24,Maya Siregar,Wonokromo,Badminton,Badminton Court A,Indoor,21:00,1,60000,69000,QRIS,299000.0,Paid,,Kamis,2025-10,21:00
+1304,1188,2025-10-09,Completed,121,Wahyu Santoso,Gubeng,Tennis,Tennis Court D,Outdoor,09:00,1,120000,120000,QRIS,120000.0,Paid,3.0,Kamis,2025-10,09:00
+229,206,2025-10-10,Completed,162,Rizky Siregar,Sukolilo,Tennis,Tennis Court C,Outdoor,13:00,2,110000,220000,QRIS,220000.0,Paid,4.0,Jumat,2025-10,13:00
+613,561,2025-10-10,Completed,165,Farah Siregar,Kertajaya,Badminton,Badminton Court B,Indoor,20:00,2,60000,138000,Bank Transfer,138000.0,Paid,4.0,Jumat,2025-10,20:00
+872,796,2025-10-10,Pending,34,Laras Wijaya,Wonokromo,Basketball,Basketball Court A,Indoor,19:00,1,150000,172000,,,,,Jumat,2025-10,19:00
+10,10,2025-10-11,Pending,158,Yasmin Putri,Rungkut,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,,,,,Sabtu,2025-10,20:00
+25,23,2025-10-11,Completed,22,Galih Maulana,Tenggilis,Badminton,Badminton Court D,Indoor,16:00,1,65000,65000,Bank Transfer,65000.0,Paid,5.0,Sabtu,2025-10,16:00
+888,809,2025-10-11,Completed,152,Tio Hidayat,Rungkut,Basketball,Basketball Court B,Indoor,21:00,1,160000,184000,QRIS,414000.0,Paid,3.0,Sabtu,2025-10,21:00
+889,809,2025-10-11,Completed,152,Tio Hidayat,Rungkut,Futsal,Futsal Court B,Indoor,21:00,1,200000,230000,QRIS,414000.0,Paid,,Sabtu,2025-10,21:00
+1061,966,2025-10-11,Completed,174,Clara Nugroho,Mulyorejo,Badminton,Badminton Court D,Indoor,19:00,2,65000,150000,QRIS,150000.0,Paid,,Sabtu,2025-10,19:00
+1080,985,2025-10-11,Completed,178,Kevin Saputra,Tenggilis,Tennis,Tennis Court B,Outdoor,15:00,1,110000,110000,E-Wallet,110000.0,Paid,,Sabtu,2025-10,15:00
+1187,1083,2025-10-11,Completed,1,Eka Siregar,Mulyorejo,Futsal,Futsal Court B,Indoor,14:00,1,200000,200000,QRIS,200000.0,Paid,3.0,Sabtu,2025-10,14:00
+227,204,2025-10-12,Pending,42,Hana Wijaya,Darmo,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,,,,,Minggu,2025-10,18:00
+294,264,2025-10-12,Completed,131,Hana Wijaya,Darmo,Tennis,Tennis Court A,Outdoor,16:00,2,100000,200000,E-Wallet,200000.0,Paid,,Minggu,2025-10,16:00
+866,790,2025-10-12,Completed,116,Salsa Hidayat,Manyar,Tennis,Tennis Court D,Outdoor,14:00,2,120000,240000,QRIS,240000.0,Paid,3.0,Minggu,2025-10,14:00
+1071,976,2025-10-12,Completed,129,Putri Wijaya,Wonokromo,Futsal,Futsal Court B,Indoor,17:00,2,200000,460000,E-Wallet,460000.0,Paid,2.0,Minggu,2025-10,17:00
+1148,1048,2025-10-12,Completed,142,Reza Lestari,Wonokromo,Futsal,Futsal Court A,Indoor,15:00,1,180000,180000,E-Wallet,180000.0,Paid,4.0,Minggu,2025-10,15:00
+120,106,2025-10-13,Cancelled,50,Intan Setiawan,Mulyorejo,Badminton,Badminton Court B,Indoor,10:00,2,60000,120000,,,,,Senin,2025-10,10:00
+401,365,2025-10-13,Completed,71,Yusuf Pratama,Tenggilis,Futsal,Futsal Court B,Indoor,16:00,1,200000,200000,QRIS,200000.0,Paid,,Senin,2025-10,16:00
+494,450,2025-10-13,Completed,34,Laras Wijaya,Wonokromo,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,QRIS,75000.0,Paid,5.0,Senin,2025-10,19:00
+539,492,2025-10-13,Completed,19,Bima Hartono,Keputih,Futsal,Futsal Court B,Indoor,21:00,1,200000,230000,QRIS,230000.0,Refunded,5.0,Senin,2025-10,21:00
+1001,914,2025-10-13,Completed,23,Nabila Putri,Gubeng,Tennis,Tennis Court C,Outdoor,16:00,1,110000,110000,Bank Transfer,110000.0,Refunded,,Senin,2025-10,16:00
+1165,1063,2025-10-13,Completed,164,Tania Pratama,Tenggilis,Badminton,Badminton Court A,Indoor,10:00,1,60000,60000,QRIS,60000.0,Paid,5.0,Senin,2025-10,10:00
+784,714,2025-10-14,Completed,110,Dimas Saputra,Mulyorejo,Tennis,Tennis Court A,Outdoor,11:00,3,100000,300000,E-Wallet,300000.0,Paid,4.0,Selasa,2025-10,11:00
+1202,1097,2025-10-14,Completed,111,Reza Hartono,Tenggilis,Badminton,Badminton Court B,Indoor,18:00,1,60000,69000,QRIS,241000.0,Paid,2.0,Selasa,2025-10,18:00
+1203,1097,2025-10-14,Completed,111,Reza Hartono,Tenggilis,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,QRIS,241000.0,Paid,,Selasa,2025-10,18:00
+63,54,2025-10-15,Completed,47,Nadia Santoso,Tenggilis,Futsal,Futsal Court A,Indoor,07:00,1,180000,180000,E-Wallet,180000.0,Paid,5.0,Rabu,2025-10,07:00
+181,160,2025-10-15,Completed,100,Nabila Ananda,Sukolilo,Futsal,Futsal Court B,Indoor,14:00,1,200000,200000,QRIS,200000.0,Paid,4.0,Rabu,2025-10,14:00
+853,780,2025-10-16,Completed,66,Alya Kusuma,Rungkut,Basketball,Basketball Court A,Indoor,09:00,1,150000,150000,QRIS,150000.0,Paid,,Kamis,2025-10,09:00
+1186,1082,2025-10-16,Completed,120,Oscar Ananda,Sukolilo,Futsal,Futsal Court B,Indoor,17:00,1,200000,230000,QRIS,230000.0,Paid,,Kamis,2025-10,17:00
+194,173,2025-10-17,Completed,48,Dimas Wibowo,Darmo,Tennis,Tennis Court D,Outdoor,20:00,4,120000,552000,Cash,552000.0,Paid,4.0,Jumat,2025-10,20:00
+791,720,2025-10-17,Completed,100,Nabila Ananda,Sukolilo,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,QRIS,126000.0,Paid,2.0,Jumat,2025-10,17:00
+1211,1104,2025-10-17,Completed,117,Alya Pratama,Rungkut,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,Bank Transfer,207000.0,Paid,4.0,Jumat,2025-10,18:00
+183,162,2025-10-18,Completed,147,Intan Nugroho,Tenggilis,Futsal,Futsal Court A,Indoor,16:00,4,180000,720000,QRIS,720000.0,Paid,3.0,Sabtu,2025-10,16:00
+614,562,2025-10-18,Completed,81,Nabila Permata,Sukolilo,Basketball,Basketball Court A,Indoor,07:00,2,150000,300000,Cash,300000.0,Paid,5.0,Sabtu,2025-10,07:00
+1031,941,2025-10-18,Completed,134,Indra Permata,Tenggilis,Basketball,Basketball Court A,Indoor,11:00,1,150000,150000,QRIS,310000.0,Paid,2.0,Sabtu,2025-10,11:00
+1032,941,2025-10-18,Completed,134,Indra Permata,Tenggilis,Basketball,Basketball Court B,Indoor,11:00,1,160000,160000,QRIS,310000.0,Paid,,Sabtu,2025-10,11:00
+1078,983,2025-10-18,Completed,168,Farah Lestari,Kertajaya,Futsal,Futsal Court B,Indoor,08:00,1,200000,200000,E-Wallet,200000.0,Paid,5.0,Sabtu,2025-10,08:00
+19,17,2025-10-19,Completed,60,Fajar Siregar,Manyar,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,E-Wallet,414000.0,Paid,4.0,Minggu,2025-10,18:00
+711,647,2025-10-19,Completed,12,Kevin Hidayat,Gubeng,Badminton,Badminton Court C,Indoor,18:00,2,65000,150000,Cash,426000.0,Paid,,Minggu,2025-10,18:00
+712,647,2025-10-19,Completed,12,Kevin Hidayat,Gubeng,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,Cash,426000.0,Paid,,Minggu,2025-10,18:00
+724,659,2025-10-19,Completed,69,Nadia Hartono,Gubeng,Basketball,Basketball Court B,Indoor,18:00,2,160000,368000,E-Wallet,368000.0,Paid,4.0,Minggu,2025-10,18:00
+1044,953,2025-10-19,Completed,153,Hana Setiawan,Sukolilo,Badminton,Badminton Court D,Indoor,15:00,1,65000,65000,QRIS,65000.0,Paid,5.0,Minggu,2025-10,15:00
+1123,1026,2025-10-19,Completed,112,Hana Maulana,Darmo,Futsal,Futsal Court B,Indoor,17:00,1,200000,230000,QRIS,230000.0,Paid,4.0,Minggu,2025-10,17:00
+1141,1042,2025-10-19,Completed,50,Intan Setiawan,Mulyorejo,Futsal,Futsal Court A,Indoor,08:00,2,180000,360000,QRIS,360000.0,Paid,,Minggu,2025-10,08:00
+1275,1161,2025-10-19,Completed,156,Putri Wijaya,Rungkut,Badminton,Badminton Court C,Indoor,17:00,2,65000,150000,QRIS,150000.0,Paid,,Minggu,2025-10,17:00
+381,347,2025-10-21,Completed,10,Tania Wibowo,Tenggilis,Basketball,Basketball Court B,Indoor,09:00,1,160000,160000,Bank Transfer,520000.0,Paid,5.0,Selasa,2025-10,09:00
+382,347,2025-10-21,Completed,10,Tania Wibowo,Tenggilis,Futsal,Futsal Court A,Indoor,09:00,2,180000,360000,Bank Transfer,520000.0,Paid,,Selasa,2025-10,09:00
+831,758,2025-10-21,Completed,96,Intan Maulana,Wonokromo,Tennis,Tennis Court B,Outdoor,11:00,3,110000,330000,Bank Transfer,330000.0,Paid,,Selasa,2025-10,11:00
+961,880,2025-10-21,Completed,67,Bagas Saputra,Mulyorejo,Tennis,Tennis Court A,Outdoor,09:00,1,100000,100000,E-Wallet,500000.0,Paid,5.0,Selasa,2025-10,09:00
+962,880,2025-10-21,Completed,67,Bagas Saputra,Mulyorejo,Futsal,Futsal Court B,Indoor,09:00,2,200000,400000,E-Wallet,500000.0,Paid,,Selasa,2025-10,09:00
+323,292,2025-10-22,Completed,62,Clara Nugroho,Sukolilo,Badminton,Badminton Court D,Indoor,18:00,1,65000,75000,E-Wallet,282000.0,Paid,2.0,Rabu,2025-10,18:00
+324,292,2025-10-22,Completed,62,Clara Nugroho,Sukolilo,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,E-Wallet,282000.0,Paid,,Rabu,2025-10,18:00
+377,343,2025-10-22,Completed,125,Hana Saputra,Tenggilis,Tennis,Tennis Court B,Outdoor,19:00,2,110000,253000,E-Wallet,253000.0,Paid,5.0,Rabu,2025-10,19:00
+780,710,2025-10-22,Pending,8,Tio Lestari,Sukolilo,Futsal,Futsal Court B,Indoor,08:00,1,200000,200000,,,,,Rabu,2025-10,08:00
+1265,1152,2025-10-22,Cancelled,54,Bima Siregar,Kertajaya,Badminton,Badminton Court C,Indoor,20:00,2,65000,150000,,,,,Rabu,2025-10,20:00
+1266,1152,2025-10-22,Cancelled,54,Bima Siregar,Kertajaya,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,,,,,Rabu,2025-10,20:00
+1057,963,2025-10-23,Completed,171,Vina Nugroho,Kertajaya,Tennis,Tennis Court A,Outdoor,17:00,2,100000,230000,E-Wallet,230000.0,Paid,4.0,Kamis,2025-10,17:00
+1,1,2025-10-24,Completed,165,Farah Siregar,Kertajaya,Futsal,Futsal Court B,Indoor,08:00,2,200000,400000,E-Wallet,400000.0,Paid,4.0,Jumat,2025-10,08:00
+1117,1020,2025-10-24,Completed,38,Dewi Kusuma,Tenggilis,Futsal,Futsal Court B,Indoor,20:00,2,200000,460000,E-Wallet,460000.0,Paid,,Jumat,2025-10,20:00
+203,181,2025-10-25,Completed,156,Putri Wijaya,Rungkut,Futsal,Futsal Court A,Indoor,09:00,2,180000,360000,QRIS,360000.0,Paid,,Sabtu,2025-10,09:00
+478,434,2025-10-25,Completed,107,Niken Lestari,Darmo,Badminton,Badminton Court D,Indoor,21:00,1,65000,75000,QRIS,75000.0,Paid,4.0,Sabtu,2025-10,21:00
+661,602,2025-10-25,Completed,49,Niken Permata,Darmo,Badminton,Badminton Court C,Indoor,08:00,1,65000,65000,QRIS,65000.0,Paid,,Sabtu,2025-10,08:00
+366,332,2025-10-26,Pending,126,Niken Setiawan,Darmo,Badminton,Badminton Court A,Indoor,17:00,3,60000,207000,,,,,Minggu,2025-10,17:00
+1002,915,2025-10-26,Completed,132,Reza Setiawan,Sukolilo,Tennis,Tennis Court D,Outdoor,08:00,2,120000,240000,E-Wallet,600000.0,Paid,4.0,Minggu,2025-10,08:00
+1003,915,2025-10-26,Completed,132,Reza Setiawan,Sukolilo,Futsal,Futsal Court A,Indoor,08:00,2,180000,360000,E-Wallet,600000.0,Paid,,Minggu,2025-10,08:00
+601,550,2025-10-27,Completed,112,Hana Maulana,Darmo,Basketball,Basketball Court B,Indoor,19:00,3,160000,552000,QRIS,667000.0,Paid,5.0,Senin,2025-10,19:00
+602,550,2025-10-27,Completed,112,Hana Maulana,Darmo,Tennis,Tennis Court A,Outdoor,19:00,1,100000,115000,QRIS,667000.0,Paid,,Senin,2025-10,19:00
+1139,1040,2025-10-27,Cancelled,3,Niken Wibowo,Keputih,Badminton,Badminton Court A,Indoor,08:00,4,60000,240000,,,,,Senin,2025-10,08:00
+290,261,2025-10-28,Completed,81,Nabila Permata,Sukolilo,Basketball,Basketball Court B,Indoor,20:00,1,160000,184000,QRIS,322000.0,Paid,,Selasa,2025-10,20:00
+291,261,2025-10-28,Completed,81,Nabila Permata,Sukolilo,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,QRIS,322000.0,Paid,,Selasa,2025-10,20:00
+735,668,2025-10-28,Completed,157,Aditya Putri,Mulyorejo,Tennis,Tennis Court A,Outdoor,14:00,2,100000,200000,QRIS,200000.0,Paid,5.0,Selasa,2025-10,14:00
+982,898,2025-10-28,Completed,142,Reza Lestari,Wonokromo,Basketball,Basketball Court A,Indoor,19:00,1,150000,172000,QRIS,172000.0,Paid,3.0,Selasa,2025-10,19:00
+216,194,2025-10-29,Completed,25,Vina Putri,Wonokromo,Basketball,Basketball Court B,Indoor,20:00,1,160000,184000,Bank Transfer,184000.0,Paid,4.0,Rabu,2025-10,20:00
+514,469,2025-10-29,Completed,64,Tania Hartono,Manyar,Tennis,Tennis Court D,Outdoor,19:00,2,120000,276000,E-Wallet,276000.0,Paid,5.0,Rabu,2025-10,19:00
+538,491,2025-10-30,Cancelled,125,Hana Saputra,Tenggilis,Badminton,Badminton Court B,Indoor,17:00,3,60000,207000,,,,,Kamis,2025-10,17:00
+775,706,2025-10-30,Cancelled,74,Hana Wibowo,Sukolilo,Futsal,Futsal Court A,Indoor,15:00,1,180000,180000,,,,,Kamis,2025-10,15:00
+1065,970,2025-10-30,Completed,148,Tio Lestari,Gubeng,Badminton,Badminton Court A,Indoor,19:00,1,60000,69000,E-Wallet,69000.0,Paid,4.0,Kamis,2025-10,19:00
+196,175,2025-10-31,Pending,127,Bagas Setiawan,Sukolilo,Basketball,Basketball Court B,Indoor,08:00,1,160000,160000,,,,,Jumat,2025-10,08:00
+197,175,2025-10-31,Pending,127,Bagas Setiawan,Sukolilo,Tennis,Tennis Court C,Outdoor,08:00,1,110000,110000,,,,,Jumat,2025-10,08:00
+420,384,2025-10-31,Completed,99,Indra Wibowo,Manyar,Basketball,Basketball Court A,Indoor,21:00,3,150000,517000,E-Wallet,770000.0,Paid,4.0,Jumat,2025-10,21:00
+421,384,2025-10-31,Completed,99,Indra Wibowo,Manyar,Tennis,Tennis Court C,Outdoor,21:00,2,110000,253000,E-Wallet,770000.0,Paid,,Jumat,2025-10,21:00
+439,400,2025-10-31,Completed,111,Reza Hartono,Tenggilis,Tennis,Tennis Court D,Outdoor,20:00,1,120000,138000,QRIS,138000.0,Paid,5.0,Jumat,2025-10,20:00
+1244,1132,2025-10-31,Pending,3,Niken Wibowo,Keputih,Badminton,Badminton Court B,Indoor,10:00,1,60000,60000,,,,,Jumat,2025-10,10:00
+636,582,2025-11-01,Completed,146,Salsa Siregar,Darmo,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,QRIS,138000.0,Paid,,Sabtu,2025-11,20:00
+86,76,2025-11-02,Completed,147,Intan Nugroho,Tenggilis,Badminton,Badminton Court C,Indoor,16:00,4,65000,260000,Bank Transfer,260000.0,Paid,,Minggu,2025-11,16:00
+684,623,2025-11-02,Pending,145,Reza Maulana,Keputih,Badminton,Badminton Court C,Indoor,13:00,1,65000,65000,,,,,Minggu,2025-11,13:00
+727,661,2025-11-02,Cancelled,111,Reza Hartono,Tenggilis,Futsal,Futsal Court A,Indoor,20:00,4,180000,828000,,,,,Minggu,2025-11,20:00
+818,746,2025-11-02,Cancelled,119,Gita Wibowo,Wonokromo,Badminton,Badminton Court D,Indoor,19:00,2,65000,150000,,,,,Minggu,2025-11,19:00
+1013,925,2025-11-03,Completed,25,Vina Putri,Wonokromo,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,E-Wallet,126000.0,Paid,4.0,Senin,2025-11,18:00
+178,157,2025-11-04,Completed,96,Intan Maulana,Wonokromo,Basketball,Basketball Court B,Indoor,20:00,3,160000,552000,Bank Transfer,552000.0,Paid,,Selasa,2025-11,20:00
+307,276,2025-11-04,Completed,132,Reza Setiawan,Sukolilo,Badminton,Badminton Court A,Indoor,15:00,1,60000,60000,E-Wallet,60000.0,Paid,2.0,Selasa,2025-11,15:00
+759,692,2025-11-04,Completed,40,Indra Wijaya,Darmo,Tennis,Tennis Court D,Outdoor,17:00,2,120000,276000,E-Wallet,276000.0,Paid,3.0,Selasa,2025-11,17:00
+848,775,2025-11-04,Completed,141,Putri Hidayat,Kertajaya,Badminton,Badminton Court D,Indoor,16:00,2,65000,130000,QRIS,130000.0,Paid,,Selasa,2025-11,16:00
+1030,940,2025-11-04,Cancelled,42,Hana Wijaya,Darmo,Futsal,Futsal Court A,Indoor,08:00,1,180000,180000,,,,,Selasa,2025-11,08:00
+1307,1191,2025-11-04,Completed,38,Dewi Kusuma,Tenggilis,Basketball,Basketball Court B,Indoor,07:00,1,160000,160000,QRIS,160000.0,Paid,,Selasa,2025-11,07:00
+71,61,2025-11-05,Completed,25,Vina Putri,Wonokromo,Badminton,Badminton Court C,Indoor,08:00,1,65000,65000,Bank Transfer,65000.0,Paid,5.0,Rabu,2025-11,08:00
+981,897,2025-11-05,Completed,84,Laras Wijaya,Manyar,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,QRIS,368000.0,Paid,4.0,Rabu,2025-11,17:00
+297,267,2025-11-06,Cancelled,20,Hana Siregar,Mulyorejo,Tennis,Tennis Court A,Outdoor,20:00,2,100000,230000,,,,,Kamis,2025-11,20:00
+299,269,2025-11-06,Completed,166,Vina Setiawan,Manyar,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,QRIS,506000.0,Paid,5.0,Kamis,2025-11,18:00
+300,269,2025-11-06,Completed,166,Vina Setiawan,Manyar,Tennis,Tennis Court A,Outdoor,18:00,2,100000,230000,QRIS,506000.0,Paid,,Kamis,2025-11,18:00
+653,596,2025-11-06,Completed,7,Gita Setiawan,Darmo,Tennis,Tennis Court D,Outdoor,18:00,2,120000,276000,QRIS,402000.0,Paid,,Kamis,2025-11,18:00
+654,596,2025-11-06,Completed,7,Gita Setiawan,Darmo,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,QRIS,402000.0,Paid,,Kamis,2025-11,18:00
+927,846,2025-11-06,Completed,34,Laras Wijaya,Wonokromo,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,E-Wallet,230000.0,Paid,5.0,Kamis,2025-11,20:00
+1070,975,2025-11-06,Completed,156,Putri Wijaya,Rungkut,Tennis,Tennis Court B,Outdoor,15:00,3,110000,330000,E-Wallet,330000.0,Paid,4.0,Kamis,2025-11,15:00
+232,209,2025-11-07,Completed,178,Kevin Saputra,Tenggilis,Futsal,Futsal Court A,Indoor,20:00,1,180000,207000,Bank Transfer,207000.0,Paid,4.0,Jumat,2025-11,20:00
+564,516,2025-11-07,Completed,5,Yusuf Pratama,Keputih,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,QRIS,138000.0,Paid,4.0,Jumat,2025-11,20:00
+1112,1016,2025-11-07,Completed,162,Rizky Siregar,Sukolilo,Futsal,Futsal Court A,Indoor,19:00,2,180000,414000,Bank Transfer,489000.0,Paid,,Jumat,2025-11,19:00
+1113,1016,2025-11-07,Completed,162,Rizky Siregar,Sukolilo,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,Bank Transfer,489000.0,Paid,,Jumat,2025-11,19:00
+127,112,2025-11-08,Pending,138,Wahyu Putri,Manyar,Basketball,Basketball Court A,Indoor,21:00,2,150000,345000,,,,,Sabtu,2025-11,21:00
+425,387,2025-11-08,Completed,38,Dewi Kusuma,Tenggilis,Tennis,Tennis Court A,Outdoor,08:00,3,100000,300000,Cash,300000.0,Paid,,Sabtu,2025-11,08:00
+452,413,2025-11-08,Completed,11,Dimas Hidayat,Gubeng,Basketball,Basketball Court A,Indoor,16:00,3,150000,450000,E-Wallet,450000.0,Paid,5.0,Sabtu,2025-11,16:00
+582,533,2025-11-08,Completed,106,Reza Santoso,Kertajaya,Basketball,Basketball Court A,Indoor,11:00,3,150000,450000,Bank Transfer,450000.0,Paid,3.0,Sabtu,2025-11,11:00
+842,769,2025-11-08,Completed,123,Zaki Maulana,Rungkut,Futsal,Futsal Court A,Indoor,08:00,1,180000,180000,QRIS,180000.0,Paid,4.0,Sabtu,2025-11,08:00
+1102,1006,2025-11-08,Pending,178,Kevin Saputra,Tenggilis,Tennis,Tennis Court C,Outdoor,08:00,1,110000,110000,,,,,Sabtu,2025-11,08:00
+320,289,2025-11-09,Completed,173,Alya Saputra,Rungkut,Badminton,Badminton Court B,Indoor,07:00,2,60000,120000,QRIS,120000.0,Paid,5.0,Minggu,2025-11,07:00
+767,698,2025-11-09,Completed,140,Tio Permata,Gubeng,Tennis,Tennis Court C,Outdoor,15:00,1,110000,110000,QRIS,110000.0,Paid,,Minggu,2025-11,15:00
+799,728,2025-11-10,Completed,118,Maya Saputra,Gubeng,Tennis,Tennis Court B,Outdoor,16:00,3,110000,330000,Cash,330000.0,Paid,2.0,Senin,2025-11,16:00
+1021,932,2025-11-10,Cancelled,138,Wahyu Putri,Manyar,Badminton,Badminton Court A,Indoor,20:00,1,60000,69000,,,,,Senin,2025-11,20:00
+332,300,2025-11-11,Completed,41,Aditya Saputra,Rungkut,Tennis,Tennis Court C,Outdoor,10:00,2,110000,220000,E-Wallet,220000.0,Paid,4.0,Selasa,2025-11,10:00
+561,513,2025-11-11,Completed,158,Yasmin Putri,Rungkut,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,Bank Transfer,75000.0,Paid,,Selasa,2025-11,19:00
+1064,969,2025-11-11,Completed,148,Tio Lestari,Gubeng,Tennis,Tennis Court C,Outdoor,20:00,3,110000,379000,Bank Transfer,379000.0,Paid,1.0,Selasa,2025-11,20:00
+1097,1001,2025-11-11,Completed,16,Yusuf Wibowo,Keputih,Futsal,Futsal Court A,Indoor,18:00,3,180000,621000,QRIS,621000.0,Paid,3.0,Selasa,2025-11,18:00
+102,91,2025-11-12,Completed,165,Farah Siregar,Kertajaya,Tennis,Tennis Court A,Outdoor,08:00,1,100000,100000,Cash,100000.0,Paid,,Rabu,2025-11,08:00
+192,171,2025-11-12,Completed,3,Niken Wibowo,Keputih,Basketball,Basketball Court B,Indoor,19:00,2,160000,368000,Cash,368000.0,Paid,5.0,Rabu,2025-11,19:00
+161,143,2025-11-13,Completed,163,Bima Siregar,Rungkut,Badminton,Badminton Court D,Indoor,18:00,1,65000,75000,E-Wallet,75000.0,Paid,,Kamis,2025-11,18:00
+103,92,2025-11-14,Completed,104,Yusuf Putri,Darmo,Tennis,Tennis Court B,Outdoor,17:00,3,110000,379000,QRIS,379000.0,Paid,4.0,Jumat,2025-11,17:00
+117,103,2025-11-14,Completed,27,Zaki Wijaya,Keputih,Tennis,Tennis Court C,Outdoor,19:00,2,110000,253000,E-Wallet,253000.0,Paid,2.0,Jumat,2025-11,19:00
+461,420,2025-11-14,Completed,164,Tania Pratama,Tenggilis,Tennis,Tennis Court B,Outdoor,15:00,2,110000,220000,QRIS,380000.0,Paid,5.0,Jumat,2025-11,15:00
+462,420,2025-11-14,Completed,164,Tania Pratama,Tenggilis,Basketball,Basketball Court B,Indoor,15:00,1,160000,160000,QRIS,380000.0,Paid,,Jumat,2025-11,15:00
+505,460,2025-11-14,Completed,135,Rafi Permata,Tenggilis,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,E-Wallet,115000.0,Paid,,Jumat,2025-11,18:00
+645,590,2025-11-14,Completed,5,Yusuf Pratama,Keputih,Badminton,Badminton Court C,Indoor,20:00,2,65000,150000,E-Wallet,150000.0,Paid,5.0,Jumat,2025-11,20:00
+983,899,2025-11-14,Pending,164,Tania Pratama,Tenggilis,Badminton,Badminton Court B,Indoor,21:00,2,60000,138000,,,,,Jumat,2025-11,21:00
+1196,1091,2025-11-14,Pending,136,Gita Santoso,Tenggilis,Badminton,Badminton Court C,Indoor,14:00,1,65000,65000,,,,,Jumat,2025-11,14:00
+84,74,2025-11-15,Completed,35,Aditya Maulana,Keputih,Tennis,Tennis Court D,Outdoor,20:00,4,120000,552000,QRIS,552000.0,Paid,,Sabtu,2025-11,20:00
+99,89,2025-11-15,Completed,107,Niken Lestari,Darmo,Tennis,Tennis Court C,Outdoor,09:00,1,110000,110000,E-Wallet,170000.0,Paid,2.0,Sabtu,2025-11,09:00
+100,89,2025-11-15,Completed,107,Niken Lestari,Darmo,Badminton,Badminton Court A,Indoor,09:00,1,60000,60000,E-Wallet,170000.0,Paid,,Sabtu,2025-11,09:00
+344,312,2025-11-15,Pending,59,Yasmin Wibowo,Rungkut,Badminton,Badminton Court C,Indoor,20:00,2,65000,150000,,,,,Sabtu,2025-11,20:00
+762,695,2025-11-15,Completed,28,Nabila Wibowo,Mulyorejo,Tennis,Tennis Court D,Outdoor,17:00,1,120000,138000,Bank Transfer,288000.0,Paid,,Sabtu,2025-11,17:00
+763,695,2025-11-15,Completed,28,Nabila Wibowo,Mulyorejo,Badminton,Badminton Court C,Indoor,17:00,2,65000,150000,Bank Transfer,288000.0,Paid,,Sabtu,2025-11,17:00
+1208,1102,2025-11-15,Pending,150,Rafi Setiawan,Kertajaya,Badminton,Badminton Court A,Indoor,15:00,1,60000,60000,,,,,Sabtu,2025-11,15:00
+337,305,2025-11-16,Cancelled,172,Kevin Maulana,Rungkut,Tennis,Tennis Court A,Outdoor,08:00,1,100000,100000,,,,,Minggu,2025-11,08:00
+522,476,2025-11-16,Completed,3,Niken Wibowo,Keputih,Futsal,Futsal Court B,Indoor,18:00,1,200000,230000,QRIS,230000.0,Paid,,Minggu,2025-11,18:00
+534,487,2025-11-16,Completed,69,Nadia Hartono,Gubeng,Badminton,Badminton Court D,Indoor,13:00,1,65000,65000,Bank Transfer,65000.0,Paid,,Minggu,2025-11,13:00
+90,80,2025-11-17,Completed,120,Oscar Ananda,Sukolilo,Badminton,Badminton Court B,Indoor,11:00,3,60000,180000,QRIS,180000.0,Paid,3.0,Senin,2025-11,11:00
+1029,939,2025-11-17,Completed,61,Yusuf Saputra,Sukolilo,Basketball,Basketball Court B,Indoor,21:00,1,160000,184000,Bank Transfer,184000.0,Paid,,Senin,2025-11,21:00
+50,44,2025-11-18,Completed,19,Bima Hartono,Keputih,Tennis,Tennis Court C,Outdoor,10:00,1,110000,110000,QRIS,110000.0,Paid,3.0,Selasa,2025-11,10:00
+474,431,2025-11-18,Completed,139,Dimas Ananda,Wonokromo,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,QRIS,391000.0,Paid,,Selasa,2025-11,19:00
+475,431,2025-11-18,Completed,139,Dimas Ananda,Wonokromo,Tennis,Tennis Court C,Outdoor,19:00,2,110000,253000,QRIS,391000.0,Paid,,Selasa,2025-11,19:00
+481,437,2025-11-18,Completed,89,Gita Nugroho,Tenggilis,Badminton,Badminton Court D,Indoor,11:00,1,65000,65000,QRIS,65000.0,Paid,4.0,Selasa,2025-11,11:00
+490,446,2025-11-18,Completed,37,Putri Ananda,Wonokromo,Tennis,Tennis Court B,Outdoor,18:00,3,110000,379000,QRIS,379000.0,Paid,5.0,Selasa,2025-11,18:00
+901,820,2025-11-18,Completed,13,Nabila Hartono,Sukolilo,Badminton,Badminton Court D,Indoor,09:00,1,65000,65000,E-Wallet,65000.0,Paid,3.0,Selasa,2025-11,09:00
+11,11,2025-11-20,Completed,39,Galih Permata,Wonokromo,Basketball,Basketball Court B,Indoor,18:00,3,160000,552000,E-Wallet,552000.0,Paid,,Kamis,2025-11,18:00
+128,113,2025-11-20,Completed,10,Tania Wibowo,Tenggilis,Futsal,Futsal Court A,Indoor,19:00,3,180000,621000,Bank Transfer,621000.0,Paid,3.0,Kamis,2025-11,19:00
+465,423,2025-11-20,Completed,71,Yusuf Pratama,Tenggilis,Futsal,Futsal Court A,Indoor,08:00,4,180000,720000,Bank Transfer,720000.0,Paid,4.0,Kamis,2025-11,08:00
+512,467,2025-11-20,Completed,47,Nadia Santoso,Tenggilis,Futsal,Futsal Court A,Indoor,19:00,3,180000,621000,E-Wallet,621000.0,Paid,5.0,Kamis,2025-11,19:00
+527,481,2025-11-20,Completed,6,Eka Wibowo,Tenggilis,Badminton,Badminton Court A,Indoor,19:00,3,60000,207000,QRIS,322000.0,Paid,,Kamis,2025-11,19:00
+528,481,2025-11-20,Completed,6,Eka Wibowo,Tenggilis,Tennis,Tennis Court A,Outdoor,19:00,1,100000,115000,QRIS,322000.0,Paid,,Kamis,2025-11,19:00
+768,699,2025-11-20,Completed,19,Bima Hartono,Keputih,Basketball,Basketball Court B,Indoor,17:00,1,160000,184000,QRIS,184000.0,Paid,3.0,Kamis,2025-11,17:00
+21,19,2025-11-21,Completed,136,Gita Santoso,Tenggilis,Tennis,Tennis Court D,Outdoor,20:00,1,120000,138000,QRIS,138000.0,Paid,5.0,Jumat,2025-11,20:00
+224,201,2025-11-21,Completed,92,Zaki Wibowo,Rungkut,Badminton,Badminton Court A,Indoor,13:00,2,60000,120000,E-Wallet,120000.0,Paid,,Jumat,2025-11,13:00
+913,832,2025-11-21,Completed,75,Alya Siregar,Manyar,Tennis,Tennis Court A,Outdoor,14:00,2,100000,200000,Cash,200000.0,Paid,5.0,Jumat,2025-11,14:00
+951,870,2025-11-21,Completed,106,Reza Santoso,Kertajaya,Basketball,Basketball Court A,Indoor,13:00,2,150000,300000,E-Wallet,300000.0,Paid,,Jumat,2025-11,13:00
+1086,991,2025-11-21,Cancelled,136,Gita Santoso,Tenggilis,Basketball,Basketball Court B,Indoor,18:00,2,160000,368000,,,,,Jumat,2025-11,18:00
+189,168,2025-11-22,Completed,156,Putri Wijaya,Rungkut,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,Cash,207000.0,Paid,4.0,Sabtu,2025-11,19:00
+200,178,2025-11-22,Completed,35,Aditya Maulana,Keputih,Basketball,Basketball Court A,Indoor,17:00,1,150000,172000,QRIS,172000.0,Paid,,Sabtu,2025-11,17:00
+641,587,2025-11-22,Completed,12,Kevin Hidayat,Gubeng,Tennis,Tennis Court D,Outdoor,21:00,3,120000,414000,QRIS,414000.0,Paid,,Sabtu,2025-11,21:00
+1264,1151,2025-11-22,Completed,115,Niken Hidayat,Wonokromo,Basketball,Basketball Court A,Indoor,19:00,3,150000,517000,QRIS,517000.0,Paid,1.0,Sabtu,2025-11,19:00
+247,223,2025-11-23,Pending,98,Dimas Wijaya,Manyar,Tennis,Tennis Court C,Outdoor,20:00,1,110000,126000,,,,,Minggu,2025-11,20:00
+520,474,2025-11-23,Pending,166,Vina Setiawan,Manyar,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,,,,,Minggu,2025-11,18:00
+950,869,2025-11-24,Completed,141,Putri Hidayat,Kertajaya,Tennis,Tennis Court A,Outdoor,21:00,2,100000,230000,E-Wallet,230000.0,Paid,3.0,Senin,2025-11,21:00
+260,234,2025-11-25,Completed,140,Tio Permata,Gubeng,Tennis,Tennis Court C,Outdoor,11:00,1,110000,110000,QRIS,110000.0,Paid,,Selasa,2025-11,11:00
+1229,1119,2025-11-25,Completed,137,Vina Saputra,Mulyorejo,Tennis,Tennis Court D,Outdoor,21:00,2,120000,276000,E-Wallet,402000.0,Paid,,Selasa,2025-11,21:00
+1230,1119,2025-11-25,Completed,137,Vina Saputra,Mulyorejo,Tennis,Tennis Court B,Outdoor,21:00,1,110000,126000,E-Wallet,402000.0,Paid,,Selasa,2025-11,21:00
+1181,1077,2025-11-26,Completed,156,Putri Wijaya,Rungkut,Badminton,Badminton Court B,Indoor,19:00,2,60000,138000,E-Wallet,138000.0,Paid,5.0,Rabu,2025-11,19:00
+1200,1095,2025-11-26,Completed,78,Laras Hartono,Manyar,Tennis,Tennis Court D,Outdoor,19:00,1,120000,138000,QRIS,138000.0,Paid,4.0,Rabu,2025-11,19:00
+219,197,2025-11-27,Completed,137,Vina Saputra,Mulyorejo,Futsal,Futsal Court A,Indoor,17:00,2,180000,414000,QRIS,414000.0,Paid,,Kamis,2025-11,17:00
+392,356,2025-11-27,Cancelled,161,Intan Santoso,Mulyorejo,Basketball,Basketball Court B,Indoor,17:00,2,160000,368000,,,,,Kamis,2025-11,17:00
+918,837,2025-11-27,Completed,99,Indra Wibowo,Manyar,Tennis,Tennis Court A,Outdoor,14:00,1,100000,100000,QRIS,100000.0,Paid,,Kamis,2025-11,14:00
+1232,1121,2025-11-27,Completed,71,Yusuf Pratama,Tenggilis,Tennis,Tennis Court C,Outdoor,08:00,3,110000,330000,Bank Transfer,395000.0,Paid,,Kamis,2025-11,08:00
+1233,1121,2025-11-27,Completed,71,Yusuf Pratama,Tenggilis,Badminton,Badminton Court D,Indoor,08:00,1,65000,65000,Bank Transfer,395000.0,Paid,,Kamis,2025-11,08:00
+167,148,2025-11-28,Completed,64,Tania Hartono,Manyar,Badminton,Badminton Court B,Indoor,21:00,2,60000,138000,E-Wallet,138000.0,Paid,5.0,Jumat,2025-11,21:00
+185,164,2025-11-28,Completed,89,Gita Nugroho,Tenggilis,Basketball,Basketball Court B,Indoor,19:00,3,160000,552000,Cash,552000.0,Paid,,Jumat,2025-11,19:00
+333,301,2025-11-28,Completed,57,Kevin Kusuma,Manyar,Badminton,Badminton Court C,Indoor,13:00,3,65000,195000,Bank Transfer,195000.0,Paid,,Jumat,2025-11,13:00
+362,329,2025-11-28,Completed,71,Yusuf Pratama,Tenggilis,Badminton,Badminton Court A,Indoor,11:00,1,60000,60000,QRIS,300000.0,Paid,4.0,Jumat,2025-11,11:00
+363,329,2025-11-28,Completed,71,Yusuf Pratama,Tenggilis,Tennis,Tennis Court D,Outdoor,11:00,2,120000,240000,QRIS,300000.0,Paid,,Jumat,2025-11,11:00
+1248,1136,2025-11-28,Completed,142,Reza Lestari,Wonokromo,Futsal,Futsal Court A,Indoor,17:00,1,180000,207000,QRIS,207000.0,Paid,5.0,Jumat,2025-11,17:00
+1288,1173,2025-11-28,Completed,120,Oscar Ananda,Sukolilo,Tennis,Tennis Court B,Outdoor,07:00,1,110000,110000,E-Wallet,110000.0,Paid,5.0,Jumat,2025-11,07:00
+342,310,2025-11-29,Completed,76,Tania Hidayat,Wonokromo,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,QRIS,230000.0,Paid,,Sabtu,2025-11,20:00
+786,716,2025-11-29,Completed,87,Bima Setiawan,Manyar,Badminton,Badminton Court C,Indoor,17:00,1,65000,75000,QRIS,75000.0,Paid,5.0,Sabtu,2025-11,17:00
+811,739,2025-11-29,Completed,103,Farah Hidayat,Wonokromo,Tennis,Tennis Court A,Outdoor,21:00,2,100000,230000,QRIS,230000.0,Paid,3.0,Sabtu,2025-11,21:00
+2,2,2025-11-30,Completed,124,Wahyu Wibowo,Manyar,Tennis,Tennis Court B,Outdoor,20:00,2,110000,253000,E-Wallet,253000.0,Paid,4.0,Minggu,2025-11,20:00
+33,30,2025-11-30,Completed,54,Bima Siregar,Kertajaya,Futsal,Futsal Court A,Indoor,16:00,2,180000,360000,Cash,360000.0,Paid,5.0,Minggu,2025-11,16:00
+516,471,2025-11-30,Completed,89,Gita Nugroho,Tenggilis,Badminton,Badminton Court D,Indoor,18:00,2,65000,150000,QRIS,150000.0,Paid,3.0,Minggu,2025-11,18:00
+451,412,2025-12-01,Cancelled,13,Nabila Hartono,Sukolilo,Basketball,Basketball Court B,Indoor,21:00,1,160000,184000,,,,,Senin,2025-12,21:00
+651,594,2025-12-01,Completed,180,Maya Putri,Keputih,Tennis,Tennis Court D,Outdoor,19:00,4,120000,552000,E-Wallet,552000.0,Refunded,,Senin,2025-12,19:00
+815,743,2025-12-01,Completed,40,Indra Wijaya,Darmo,Badminton,Badminton Court A,Indoor,10:00,1,60000,60000,QRIS,60000.0,Paid,5.0,Senin,2025-12,10:00
+1076,981,2025-12-01,Completed,96,Intan Maulana,Wonokromo,Tennis,Tennis Court A,Outdoor,07:00,2,100000,200000,QRIS,200000.0,Paid,,Senin,2025-12,07:00
+325,293,2025-12-02,Completed,36,Dimas Kusuma,Manyar,Badminton,Badminton Court A,Indoor,20:00,1,60000,69000,QRIS,69000.0,Paid,2.0,Selasa,2025-12,20:00
+1005,917,2025-12-02,Completed,108,Reza Setiawan,Kertajaya,Tennis,Tennis Court D,Outdoor,20:00,2,120000,276000,Bank Transfer,276000.0,Paid,4.0,Selasa,2025-12,20:00
+553,505,2025-12-03,Completed,131,Hana Wijaya,Darmo,Futsal,Futsal Court A,Indoor,19:00,1,180000,207000,Cash,207000.0,Paid,,Rabu,2025-12,19:00
+1083,988,2025-12-03,Completed,110,Dimas Saputra,Mulyorejo,Basketball,Basketball Court B,Indoor,20:00,2,160000,368000,QRIS,368000.0,Paid,,Rabu,2025-12,20:00
+74,64,2025-12-04,Completed,170,Vina Pratama,Keputih,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,QRIS,172000.0,Paid,5.0,Kamis,2025-12,18:00
+435,396,2025-12-04,Completed,39,Galih Permata,Wonokromo,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,QRIS,126000.0,Paid,4.0,Kamis,2025-12,18:00
+594,544,2025-12-04,Cancelled,4,Maya Wijaya,Sukolilo,Futsal,Futsal Court A,Indoor,16:00,1,180000,180000,,,,,Kamis,2025-12,16:00
+809,737,2025-12-04,Completed,89,Gita Nugroho,Tenggilis,Basketball,Basketball Court A,Indoor,18:00,2,150000,345000,E-Wallet,345000.0,Paid,4.0,Kamis,2025-12,18:00
+849,776,2025-12-04,Completed,112,Hana Maulana,Darmo,Badminton,Badminton Court C,Indoor,20:00,2,65000,150000,E-Wallet,150000.0,Paid,,Kamis,2025-12,20:00
+1180,1076,2025-12-04,Completed,7,Gita Setiawan,Darmo,Basketball,Basketball Court B,Indoor,11:00,2,160000,320000,E-Wallet,320000.0,Paid,,Kamis,2025-12,11:00
+685,624,2025-12-05,Completed,26,Maya Putri,Kertajaya,Basketball,Basketball Court B,Indoor,21:00,3,160000,552000,Cash,552000.0,Paid,4.0,Jumat,2025-12,21:00
+833,760,2025-12-05,Completed,47,Nadia Santoso,Tenggilis,Badminton,Badminton Court D,Indoor,20:00,2,65000,150000,QRIS,150000.0,Paid,5.0,Jumat,2025-12,20:00
+223,200,2025-12-06,Completed,61,Yusuf Saputra,Sukolilo,Tennis,Tennis Court A,Outdoor,15:00,2,100000,200000,Bank Transfer,200000.0,Paid,5.0,Sabtu,2025-12,15:00
+731,665,2025-12-06,Completed,138,Wahyu Putri,Manyar,Badminton,Badminton Court B,Indoor,10:00,1,60000,60000,E-Wallet,60000.0,Paid,4.0,Sabtu,2025-12,10:00
+1199,1094,2025-12-06,Completed,164,Tania Pratama,Tenggilis,Basketball,Basketball Court B,Indoor,21:00,1,160000,184000,E-Wallet,184000.0,Paid,,Sabtu,2025-12,21:00
+1269,1155,2025-12-06,Completed,130,Gita Siregar,Kertajaya,Futsal,Futsal Court A,Indoor,16:00,2,180000,360000,Bank Transfer,360000.0,Paid,5.0,Sabtu,2025-12,16:00
+206,184,2025-12-07,Completed,10,Tania Wibowo,Tenggilis,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,E-Wallet,75000.0,Paid,1.0,Minggu,2025-12,18:00
+1154,1054,2025-12-07,Completed,11,Dimas Hidayat,Gubeng,Tennis,Tennis Court B,Outdoor,09:00,2,110000,220000,Bank Transfer,220000.0,Paid,,Minggu,2025-12,09:00
+136,121,2025-12-08,Completed,152,Tio Hidayat,Rungkut,Tennis,Tennis Court C,Outdoor,17:00,1,110000,126000,Bank Transfer,126000.0,Paid,3.0,Senin,2025-12,17:00
+1010,922,2025-12-08,Completed,105,Vina Permata,Wonokromo,Basketball,Basketball Court B,Indoor,18:00,4,160000,736000,QRIS,736000.0,Paid,,Senin,2025-12,18:00
+472,429,2025-12-09,Completed,88,Zaki Santoso,Darmo,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,QRIS,75000.0,Paid,4.0,Selasa,2025-12,19:00
+574,526,2025-12-09,Completed,54,Bima Siregar,Kertajaya,Basketball,Basketball Court B,Indoor,16:00,2,160000,320000,QRIS,320000.0,Paid,,Selasa,2025-12,16:00
+915,834,2025-12-09,Completed,71,Yusuf Pratama,Tenggilis,Basketball,Basketball Court B,Indoor,16:00,3,160000,480000,Bank Transfer,480000.0,Paid,1.0,Selasa,2025-12,16:00
+953,872,2025-12-09,Completed,66,Alya Kusuma,Rungkut,Badminton,Badminton Court A,Indoor,17:00,3,60000,207000,QRIS,207000.0,Paid,,Selasa,2025-12,17:00
+1219,1111,2025-12-09,Completed,130,Gita Siregar,Kertajaya,Futsal,Futsal Court A,Indoor,13:00,2,180000,360000,Cash,360000.0,Paid,4.0,Selasa,2025-12,13:00
+1298,1182,2025-12-09,Completed,82,Citra Wibowo,Keputih,Basketball,Basketball Court A,Indoor,09:00,1,150000,150000,E-Wallet,150000.0,Paid,3.0,Selasa,2025-12,09:00
+143,127,2025-12-10,Pending,86,Wahyu Hartono,Mulyorejo,Basketball,Basketball Court A,Indoor,20:00,2,150000,345000,,,,,Rabu,2025-12,20:00
+448,409,2025-12-10,Completed,80,Alya Hartono,Keputih,Tennis,Tennis Court A,Outdoor,15:00,2,100000,200000,E-Wallet,200000.0,Paid,4.0,Rabu,2025-12,15:00
+638,584,2025-12-10,Completed,146,Salsa Siregar,Darmo,Tennis,Tennis Court A,Outdoor,20:00,2,100000,230000,E-Wallet,230000.0,Paid,4.0,Rabu,2025-12,20:00
+908,827,2025-12-10,Completed,10,Tania Wibowo,Tenggilis,Basketball,Basketball Court B,Indoor,19:00,2,160000,368000,Bank Transfer,368000.0,Paid,5.0,Rabu,2025-12,19:00
+1138,1039,2025-12-11,Cancelled,83,Alya Hidayat,Manyar,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,,,,,Kamis,2025-12,18:00
+1006,918,2025-12-12,Completed,65,Oscar Wibowo,Darmo,Futsal,Futsal Court A,Indoor,07:00,2,180000,360000,E-Wallet,360000.0,Paid,5.0,Jumat,2025-12,07:00
+1040,949,2025-12-12,Completed,136,Gita Santoso,Tenggilis,Badminton,Badminton Court B,Indoor,07:00,1,60000,60000,QRIS,60000.0,Paid,5.0,Jumat,2025-12,07:00
+1099,1003,2025-12-12,Completed,56,Fajar Lestari,Rungkut,Tennis,Tennis Court D,Outdoor,08:00,3,120000,360000,E-Wallet,360000.0,Paid,3.0,Jumat,2025-12,08:00
+1140,1041,2025-12-12,Completed,45,Laras Kusuma,Mulyorejo,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,QRIS,75000.0,Paid,4.0,Jumat,2025-12,19:00
+96,86,2025-12-13,Completed,67,Bagas Saputra,Mulyorejo,Badminton,Badminton Court A,Indoor,19:00,1,60000,69000,Cash,69000.0,Paid,4.0,Sabtu,2025-12,19:00
+137,122,2025-12-13,Completed,152,Tio Hidayat,Rungkut,Tennis,Tennis Court A,Outdoor,18:00,2,100000,230000,QRIS,230000.0,Paid,,Sabtu,2025-12,18:00
+296,266,2025-12-13,Completed,36,Dimas Kusuma,Manyar,Futsal,Futsal Court A,Indoor,18:00,1,180000,207000,E-Wallet,207000.0,Paid,,Sabtu,2025-12,18:00
+469,426,2025-12-13,Completed,71,Yusuf Pratama,Tenggilis,Badminton,Badminton Court C,Indoor,21:00,1,65000,75000,QRIS,75000.0,Paid,4.0,Sabtu,2025-12,21:00
+868,792,2025-12-13,Completed,27,Zaki Wijaya,Keputih,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,QRIS,138000.0,Paid,5.0,Sabtu,2025-12,18:00
+91,81,2025-12-14,Completed,144,Rizky Ananda,Darmo,Tennis,Tennis Court A,Outdoor,11:00,2,100000,200000,QRIS,200000.0,Paid,,Minggu,2025-12,11:00
+479,435,2025-12-14,Completed,118,Maya Saputra,Gubeng,Badminton,Badminton Court A,Indoor,16:00,2,60000,120000,QRIS,120000.0,Paid,,Minggu,2025-12,16:00
+1292,1177,2025-12-14,Completed,114,Citra Siregar,Sukolilo,Tennis,Tennis Court A,Outdoor,18:00,1,100000,115000,Bank Transfer,115000.0,Paid,,Minggu,2025-12,18:00
+268,242,2025-12-15,Pending,85,Niken Setiawan,Kertajaya,Basketball,Basketball Court A,Indoor,13:00,2,150000,300000,,,,,Senin,2025-12,13:00
+269,242,2025-12-15,Pending,85,Niken Setiawan,Kertajaya,Basketball,Basketball Court B,Indoor,13:00,1,160000,160000,,,,,Senin,2025-12,13:00
+434,395,2025-12-15,Cancelled,25,Vina Putri,Wonokromo,Basketball,Basketball Court A,Indoor,11:00,4,150000,600000,,,,,Senin,2025-12,11:00
+871,795,2025-12-15,Pending,179,Wahyu Saputra,Keputih,Tennis,Tennis Court B,Outdoor,15:00,1,110000,110000,,,,,Senin,2025-12,15:00
+923,842,2025-12-15,Completed,22,Galih Maulana,Tenggilis,Tennis,Tennis Court D,Outdoor,19:00,2,120000,276000,Bank Transfer,276000.0,Paid,,Senin,2025-12,19:00
+550,502,2025-12-16,Completed,178,Kevin Saputra,Tenggilis,Tennis,Tennis Court D,Outdoor,19:00,2,120000,276000,QRIS,276000.0,Paid,2.0,Selasa,2025-12,19:00
+583,534,2025-12-16,Completed,157,Aditya Putri,Mulyorejo,Badminton,Badminton Court B,Indoor,20:00,2,60000,138000,E-Wallet,138000.0,Paid,,Selasa,2025-12,20:00
+18,16,2025-12-17,Completed,130,Gita Siregar,Kertajaya,Tennis,Tennis Court C,Outdoor,20:00,3,110000,379000,QRIS,379000.0,Paid,5.0,Rabu,2025-12,20:00
+408,372,2025-12-17,Pending,34,Laras Wijaya,Wonokromo,Badminton,Badminton Court A,Indoor,17:00,2,60000,138000,,,,,Rabu,2025-12,17:00
+673,613,2025-12-17,Completed,35,Aditya Maulana,Keputih,Badminton,Badminton Court B,Indoor,16:00,2,60000,120000,QRIS,120000.0,Paid,,Rabu,2025-12,16:00
+677,617,2025-12-17,Pending,142,Reza Lestari,Wonokromo,Tennis,Tennis Court D,Outdoor,09:00,1,120000,120000,,,,,Rabu,2025-12,09:00
+885,807,2025-12-17,Completed,89,Gita Nugroho,Tenggilis,Badminton,Badminton Court B,Indoor,16:00,2,60000,120000,Bank Transfer,340000.0,Paid,5.0,Rabu,2025-12,16:00
+886,807,2025-12-17,Completed,89,Gita Nugroho,Tenggilis,Tennis,Tennis Court C,Outdoor,16:00,2,110000,220000,Bank Transfer,340000.0,Paid,,Rabu,2025-12,16:00
+1176,1073,2025-12-17,Completed,139,Dimas Ananda,Wonokromo,Basketball,Basketball Court B,Indoor,19:00,2,160000,368000,QRIS,644000.0,Paid,4.0,Rabu,2025-12,19:00
+1177,1073,2025-12-17,Completed,139,Dimas Ananda,Wonokromo,Tennis,Tennis Court D,Outdoor,19:00,2,120000,276000,QRIS,644000.0,Paid,,Rabu,2025-12,19:00
+621,569,2025-12-18,Cancelled,171,Vina Nugroho,Kertajaya,Badminton,Badminton Court D,Indoor,18:00,2,65000,150000,,,,,Kamis,2025-12,18:00
+625,572,2025-12-18,Completed,103,Farah Hidayat,Wonokromo,Basketball,Basketball Court B,Indoor,21:00,2,160000,368000,Bank Transfer,368000.0,Paid,,Kamis,2025-12,21:00
+56,49,2025-12-19,Completed,103,Farah Hidayat,Wonokromo,Badminton,Badminton Court D,Indoor,18:00,1,65000,75000,QRIS,75000.0,Paid,5.0,Jumat,2025-12,18:00
+314,283,2025-12-19,Completed,2,Clara Nugroho,Keputih,Badminton,Badminton Court A,Indoor,18:00,1,60000,69000,Bank Transfer,69000.0,Paid,,Jumat,2025-12,18:00
+666,607,2025-12-19,Completed,54,Bima Siregar,Kertajaya,Tennis,Tennis Court C,Outdoor,18:00,1,110000,126000,QRIS,126000.0,Paid,,Jumat,2025-12,18:00
+753,686,2025-12-19,Completed,105,Vina Permata,Wonokromo,Futsal,Futsal Court B,Indoor,18:00,2,200000,460000,QRIS,460000.0,Paid,4.0,Jumat,2025-12,18:00
+959,878,2025-12-19,Completed,170,Vina Pratama,Keputih,Badminton,Badminton Court B,Indoor,13:00,2,60000,120000,E-Wallet,120000.0,Paid,4.0,Jumat,2025-12,13:00
+1144,1045,2025-12-19,Completed,108,Reza Setiawan,Kertajaya,Tennis,Tennis Court C,Outdoor,18:00,4,110000,506000,Cash,966000.0,Paid,5.0,Jumat,2025-12,18:00
+1145,1045,2025-12-19,Completed,108,Reza Setiawan,Kertajaya,Futsal,Futsal Court B,Indoor,18:00,2,200000,460000,Cash,966000.0,Paid,,Jumat,2025-12,18:00
+609,557,2025-12-20,Completed,124,Wahyu Wibowo,Manyar,Tennis,Tennis Court D,Outdoor,19:00,3,120000,414000,E-Wallet,414000.0,Paid,,Sabtu,2025-12,19:00
+905,824,2025-12-20,Completed,14,Indra Permata,Rungkut,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,E-Wallet,230000.0,Paid,,Sabtu,2025-12,20:00
+1104,1008,2025-12-20,Completed,141,Putri Hidayat,Kertajaya,Tennis,Tennis Court B,Outdoor,08:00,1,110000,110000,Bank Transfer,110000.0,Paid,1.0,Sabtu,2025-12,08:00
+80,70,2025-12-21,Pending,146,Salsa Siregar,Darmo,Tennis,Tennis Court D,Outdoor,18:00,1,120000,138000,,,,,Minggu,2025-12,18:00
+88,78,2025-12-22,Cancelled,177,Eka Hartono,Wonokromo,Badminton,Badminton Court B,Indoor,13:00,1,60000,60000,,,,,Senin,2025-12,13:00
+548,500,2025-12-22,Completed,125,Hana Saputra,Tenggilis,Badminton,Badminton Court C,Indoor,15:00,4,65000,260000,E-Wallet,260000.0,Paid,3.0,Senin,2025-12,15:00
+1017,928,2025-12-22,Completed,21,Laras Pratama,Keputih,Basketball,Basketball Court A,Indoor,18:00,2,150000,345000,E-Wallet,345000.0,Paid,5.0,Senin,2025-12,18:00
+1105,1009,2025-12-22,Completed,171,Vina Nugroho,Kertajaya,Basketball,Basketball Court B,Indoor,21:00,2,160000,368000,Bank Transfer,368000.0,Paid,3.0,Senin,2025-12,21:00
+76,66,2025-12-23,Completed,69,Nadia Hartono,Gubeng,Futsal,Futsal Court A,Indoor,21:00,1,180000,207000,QRIS,207000.0,Paid,5.0,Selasa,2025-12,21:00
+212,190,2025-12-23,Completed,99,Indra Wibowo,Manyar,Futsal,Futsal Court A,Indoor,18:00,2,180000,414000,QRIS,414000.0,Paid,5.0,Selasa,2025-12,18:00
+245,221,2025-12-23,Completed,14,Indra Permata,Rungkut,Badminton,Badminton Court D,Indoor,19:00,1,65000,75000,QRIS,75000.0,Paid,3.0,Selasa,2025-12,19:00
+569,521,2025-12-23,Completed,26,Maya Putri,Kertajaya,Badminton,Badminton Court D,Indoor,08:00,2,65000,130000,QRIS,130000.0,Paid,,Selasa,2025-12,08:00
+969,886,2025-12-23,Completed,162,Rizky Siregar,Sukolilo,Basketball,Basketball Court B,Indoor,20:00,2,160000,368000,Bank Transfer,368000.0,Paid,5.0,Selasa,2025-12,20:00
+1173,1071,2025-12-23,Completed,54,Bima Siregar,Kertajaya,Basketball,Basketball Court A,Indoor,13:00,2,150000,300000,QRIS,365000.0,Paid,,Selasa,2025-12,13:00
+1174,1071,2025-12-23,Completed,54,Bima Siregar,Kertajaya,Badminton,Badminton Court D,Indoor,13:00,1,65000,65000,QRIS,365000.0,Paid,,Selasa,2025-12,13:00
+1197,1092,2025-12-24,Completed,55,Zaki Setiawan,Gubeng,Badminton,Badminton Court B,Indoor,13:00,3,60000,180000,Cash,180000.0,Paid,2.0,Rabu,2025-12,13:00
+1263,1150,2025-12-24,Completed,116,Salsa Hidayat,Manyar,Badminton,Badminton Court C,Indoor,18:00,1,65000,75000,E-Wallet,75000.0,Paid,5.0,Rabu,2025-12,18:00
+546,499,2025-12-25,Pending,4,Maya Wijaya,Sukolilo,Badminton,Badminton Court B,Indoor,20:00,3,60000,207000,,,,,Kamis,2025-12,20:00
+547,499,2025-12-25,Pending,4,Maya Wijaya,Sukolilo,Tennis,Tennis Court D,Outdoor,20:00,2,120000,276000,,,,,Kamis,2025-12,20:00
+682,622,2025-12-25,Cancelled,24,Maya Siregar,Wonokromo,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,,,,,Kamis,2025-12,18:00
+683,622,2025-12-25,Cancelled,24,Maya Siregar,Wonokromo,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,,,,,Kamis,2025-12,18:00
+911,830,2025-12-25,Completed,91,Joko Nugroho,Manyar,Tennis,Tennis Court C,Outdoor,13:00,2,110000,220000,E-Wallet,220000.0,Paid,3.0,Kamis,2025-12,13:00
+1313,1196,2025-12-25,Pending,106,Reza Santoso,Kertajaya,Tennis,Tennis Court A,Outdoor,19:00,2,100000,230000,,,,,Kamis,2025-12,19:00
+42,38,2025-12-26,Completed,38,Dewi Kusuma,Tenggilis,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,Bank Transfer,126000.0,Paid,5.0,Jumat,2025-12,18:00
+487,443,2025-12-26,Completed,117,Alya Pratama,Rungkut,Badminton,Badminton Court C,Indoor,19:00,1,65000,75000,Bank Transfer,75000.0,Paid,3.0,Jumat,2025-12,19:00
+1189,1085,2025-12-26,Pending,39,Galih Permata,Wonokromo,Badminton,Badminton Court D,Indoor,20:00,1,65000,75000,,,,,Jumat,2025-12,20:00
+1133,1034,2025-12-27,Completed,7,Gita Setiawan,Darmo,Badminton,Badminton Court A,Indoor,10:00,1,60000,60000,E-Wallet,60000.0,Paid,3.0,Sabtu,2025-12,10:00
+510,465,2025-12-28,Completed,101,Farah Pratama,Manyar,Futsal,Futsal Court B,Indoor,20:00,1,200000,230000,QRIS,230000.0,Paid,,Minggu,2025-12,20:00
+204,182,2025-12-29,Completed,98,Dimas Wijaya,Manyar,Futsal,Futsal Court B,Indoor,17:00,3,200000,690000,Bank Transfer,690000.0,Paid,4.0,Senin,2025-12,17:00
+298,268,2025-12-29,Completed,81,Nabila Permata,Sukolilo,Tennis,Tennis Court A,Outdoor,21:00,1,100000,115000,QRIS,115000.0,Paid,,Senin,2025-12,21:00
+616,564,2025-12-29,Completed,56,Fajar Lestari,Rungkut,Badminton,Badminton Court A,Indoor,20:00,2,60000,138000,E-Wallet,138000.0,Paid,,Senin,2025-12,20:00
+626,573,2025-12-29,Completed,10,Tania Wibowo,Tenggilis,Basketball,Basketball Court A,Indoor,20:00,1,150000,172000,E-Wallet,172000.0,Paid,,Senin,2025-12,20:00
+1075,980,2025-12-29,Completed,20,Hana Siregar,Mulyorejo,Tennis,Tennis Court B,Outdoor,18:00,1,110000,126000,QRIS,126000.0,Paid,4.0,Senin,2025-12,18:00
+1221,1113,2025-12-29,Completed,86,Wahyu Hartono,Mulyorejo,Tennis,Tennis Court D,Outdoor,07:00,1,120000,120000,QRIS,250000.0,Paid,4.0,Senin,2025-12,07:00
+1222,1113,2025-12-29,Completed,86,Wahyu Hartono,Mulyorejo,Badminton,Badminton Court D,Indoor,07:00,2,65000,130000,QRIS,250000.0,Paid,,Senin,2025-12,07:00
+267,241,2025-12-30,Pending,87,Bima Setiawan,Manyar,Basketball,Basketball Court A,Indoor,19:00,1,150000,172000,,,,,Selasa,2025-12,19:00
+456,417,2025-12-30,Pending,166,Vina Setiawan,Manyar,Tennis,Tennis Court B,Outdoor,19:00,1,110000,126000,,,,,Selasa,2025-12,19:00
+457,417,2025-12-30,Pending,166,Vina Setiawan,Manyar,Tennis,Tennis Court A,Outdoor,19:00,2,100000,230000,,,,,Selasa,2025-12,19:00
+657,599,2025-12-30,Completed,108,Reza Setiawan,Kertajaya,Tennis,Tennis Court D,Outdoor,14:00,3,120000,360000,Bank Transfer,360000.0,Paid,,Selasa,2025-12,14:00
+241,218,2025-12-31,Completed,139,Dimas Ananda,Wonokromo,Tennis,Tennis Court A,Outdoor,20:00,1,100000,115000,QRIS,115000.0,Paid,4.0,Rabu,2025-12,20:00
+287,258,2025-12-31,Completed,74,Hana Wibowo,Sukolilo,Basketball,Basketball Court A,Indoor,18:00,1,150000,172000,QRIS,172000.0,Paid,3.0,Rabu,2025-12,18:00
+706,642,2025-12-31,Completed,154,Farah Nugroho,Sukolilo,Tennis,Tennis Court A,Outdoor,21:00,1,100000,115000,QRIS,115000.0,Paid,,Rabu,2025-12,21:00
